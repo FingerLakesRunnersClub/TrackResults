@@ -2,9 +2,6 @@
 
 This file lists the items that all ecoAPM-owned repositories should contain, for consistency and optimal developer experience:
 
-- [ ] License
-  - GPL for products
-  - MIT for libraries
 - [ ] Readme file
   - [ ] Badges
     - [ ] Released version
@@ -15,14 +12,10 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
   - [ ] Requirements
   - [ ] Installation
   - [ ] Usage/documentation
-- [ ] Code of conduct
-- [ ] Contributing instructions
 - [ ] Dependabot configuration
 - [ ] GitHub Actions workflow
 - [ ] Release automation
 - [ ] CodeQL analysis
-- [ ] Issue templates
-- [ ] EditorConfig
 - [ ] GitHub settings
   - [ ] Features
     - [ ] Wiki off
@@ -36,4 +29,3 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
     - [ ] Packages off
     - [ ] Environments off
 - [ ] Labels
-- [ ] Add to OSS Dashboard
