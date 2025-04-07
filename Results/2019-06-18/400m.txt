@@ -1,0 +1,63 @@
+                               2019-06-18                               
+                                  400m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Samuel Voak                         M             21           55.80  
+  Christopher Simmons                 M             24           57.50  
+  Chris Rogers                        M             35           59.20  
+  Tristan Lambert                     M             42         1:01.00  
+  Michelle Rohl                       F             53         1:08.00  
+  John Hohm                           M             34         1:08.70  
+  Ikeara Moye                         F             12         1:14.90  
+  Julia Hubbard                       F             17         1:15.00  
+  Ari Turner                          M             38         1:15.60  
+  Karl Granroth                       M             46         1:16.10  
+  Lisi Hubbard                        F              0         1:16.60  
+  Abby Ringwood                       F             12         1:20.40  
+  Anthony Ciotoli                     M              0         1:22.50  
+  Olivia Oliveira                     F              0         1:24.00  
+  Meghan Winks                        F             11         1:24.70  
+  Gabe Rohl                           M             17         1:25.10  
+  Ikayha Moye                         F             11         1:25.50  
+  Jacob Varga                         M             10         1:27.00  
+  Grace Hilker                        F             10         1:27.30  
+  Sydney Kiczenski                    F              9         1:28.00  
+  Abby Silva                          F             13         1:28.10  
+  Milo Moseley                        M              7         1:28.40  
+  Roxana Maralani                     F             10         1:28.70  
+  Sebastian Bartishevich              M             10         1:30.70  
+  Ursula Silbert                      F              9         1:30.90  
+  Matea Fey                           F              8         1:34.10  
+  Orson Hitz                          M              8         1:35.00  
+  Annie Clark                         F              0         1:35.80  
+  Dhilan Sethupathy                   M              0         1:38.70  
+  Rani Marie Sethupathy               F              0         1:39.30  
+  Ben Kadlecik                        M             12         1:39.90  
+  Jude Rohl                           M             12         1:40.30  
+  Paxon Nunez                         M              7         1:40.40  
+  Ryan Freed                          M              7         1:40.80  
+  Stelios Baney                       M             10         1:42.50  
+  Ava Maralani                        F              8         1:42.60  
+  Ilias Baney                         M              8         1:43.50  
+  Alasdair Smith                      M             10         1:45.90  
+  Dominik Bartishevich                M              5         1:46.00  
+  Robert Kong                         M             10         1:46.90  
+  Linus Walker                        M              8         1:49.00  
+  Wylder Burkhardt                    M              6         1:51.00  
+  Alice Mou                           F              6         1:52.30  
+  Eamon Ingall                        M              0         1:53.60  
+  Kahai Bessou Jones                  F              8         1:55.00  
+  Silas Wildeman                      M              6         1:58.00  
+  Molly Anderson                      F              6         1:59.00  
+  Vanessa Topielec                    F              7         2:02.00  
+  Nicholas Tesi                       M              7         2:04.40  
+  Grace Folsom                        F              8         2:04.60  
+  Roslyn Folsom                       F              5         2:08.50  
+  Josiah Swiller                      M              6         2:09.00  
+  Annaliese Granroth                  F              7         2:11.40  
+  Calder Woodcock                     M              5         2:16.00  
+  Steven Kong                         M              8         2:17.00  
+  Kaarina Granroth                    F              4         2:25.00  
+  Sophia Kong                         F              5         2:28.00  
+  William Antczak                     M              6         2:32.00  

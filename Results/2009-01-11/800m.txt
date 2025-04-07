@@ -1,0 +1,48 @@
+                               2009-01-11                               
+                                  800m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Josh Schultheis                     M             20         2:00.30  
+  Mikhail Kern                        M             17         2:08.30  
+  Jay Hubisz                          M             29         2:08.50  
+  Jeff Smith                          M             18         2:09.50  
+  Andris Goncarovs                    M             16         2:09.80  
+  Josh Banker                         M             17         2:10.30  
+  Jeremy Gardner                      M             31         2:10.80  
+  Eddy Potter                         M             16         2:11.00  
+  Aaron Catlin                        M             19         2:11.50  
+  John Salva                          M             16         2:11.90  
+  Jeff Martinez                       M             17         2:12.50  
+  Brendan Nugent                      M             17         2:15.10  
+  Pat Shafer                          M             17         2:17.70  
+  Casey Carlstrom                     M             49         2:20.50  
+  Patrick Porter                      M             17         2:23.70  
+  Mark Rybinski                       M             53         2:23.90  
+  Vincent Mariano                     M             18         2:26.80  
+  Robert Dunham                       M             15         2:31.90  
+  Jeffrey Juran                       M             52         2:32.80  
+  Ron Nelson                          M             52         2:33.30  
+  Brian Shatara                       M             20         2:33.60  
+  Andy Jordan                         M             55         2:33.90  
+  Liz Reamer                          F             17         2:34.90  
+  Tim Ingall                          M             49         2:35.20  
+  Dason Tinkham                       M             23         2:35.70  
+  Alexis Fairbanks                    F             17         2:35.80  
+  Hilary Swartwood                    F             16         2:36.90  
+  Carl Franck                         M             56         2:38.70  
+  Anna Mapes                          F             17         2:39.00  
+  Kate Ciccone                        F             23         2:40.50  
+  McKenna Coughlin                    F             15         2:56.10  
+  Dana Schmidt                        F             14         2:57.00  
+  Monica Salva                        F             14            0.00  
+  Joe Reynolds                        M             64         3:44.40  
+  Don Farley                          M             75         3:45.40  
+  Gavin Derick                        M             10         3:48.70  
+  Kevin Walsh                         M             32         3:57.80  
+  Ethan Calupca                       M              6         4:09.60  
+  Elliot Walsh                        M              6         4:15.10  
+  Kaitlin Reynolds                    F              7         4:33.40  
+  Clare Reynolds                      F              5         4:33.70  
+  Cara Reynolds                       F              5         4:52.10  
+  Marilyn Williams                    F             74      

@@ -1,0 +1,59 @@
+                               2011-01-09                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Brendan Glover                      M             26         4:42.10  
+  James Derick                        M             45         4:42.90  
+  Cameron Bruce                       M             17         4:43.30  
+  Eric Choudhary                      M             24         4:44.10  
+  Chris Mason                         M             21         4:46.20  
+  Stephan Tewksbury                   M             17         4:46.70  
+  Curt Jewett                         M             16         4:49.10  
+  Josh Schultheis                     M             22         4:51.70  
+  Kyle Martin                         M             19         4:55.40  
+  Sam Williams                        M             15         4:58.10  
+  Zachary Despreaux                   M             17         4:58.60  
+  Jeremy Anderson                     M             18         5:12.00  
+  Javier Martinez                     M             39         5:16.40  
+  Matthew Johnson                     M             17         5:17.40  
+  Eileen Combs                        F             32         5:19.20  
+  Leo Kolshorn                        M             37         5:24.30  
+  Daniel Keough                       M             33         5:30.30  
+  Jim Cunningham                      M             28         5:31.30  
+  Kyle Landia                         M             15         5:31.70  
+  Jeff Davidson                       M             21         5:32.20  
+  Tim Ingall                          M             51         5:36.00  
+  Wayne Mason                         M             54         5:37.40  
+  Peter Newman                        M             16         5:39.30  
+  Jake Weinstein                      M             15         5:42.40  
+  John Colson                         M             24         5:42.40  
+  Namcy Kleinrock                     F             50         5:43.80  
+  Nate LaDue                          M             18         5:47.00  
+  Mary Bushallow                      F             39         5:47.40  
+  Brendan O'Brien                     M             51         5:51.00  
+  Miles Mischke                       M             18         5:53.60  
+  Mike Walker                         M             15         6:00.70  
+  Dana Rinaldi                        F             16         6:04.30  
+  Carl Franck                         M             58         6:14.40  
+  Steve Shaum                         M             45         6:14.80  
+  Andy Jordan                         M             57         6:17.50  
+  Micaela Donabella                   F             15         6:18.30  
+  Jenelle Traver                      F             28         6:19.50  
+  Bryce Derick                        M             10         6:21.80  
+  Herb Engman                         M             65         6:23.10  
+  Molly Clark                         M             14         6:25.50  
+  Sam Sauer                           F             15         6:36.20  
+  Susan Lopez                         F             18         6:37.70  
+  Caroline Black                      F             14         6:37.90  
+  Claire Sheen                        F             14         6:40.70  
+  Ian Skeele                          M             12         6:52.70  
+  Amanda Kaley                        F             15         6:55.80  
+  Al Wruck                            M             65         7:19.30  
+  Martin Harms                        M             73         7:22.60  
+  Joe Reynolds                        M             66         7:34.60  
+  Gavin Derick                        M             12         7:42.50  
+  Kathy Anderson                      F             49         8:06.20  
+  Lindsay Barnes                      F             19         8:25.40  
+  Nathan Batalion                     M             61         8:40.60  
+  Marilyn Williams                    F             76        11:34.20  

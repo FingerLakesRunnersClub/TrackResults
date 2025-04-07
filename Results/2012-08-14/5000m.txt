@@ -1,0 +1,32 @@
+                               2012-08-14                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Alex Looi                           M             23        16:11.70  
+  Michael Lam                         M             22        16:57.00  
+  Steven Folsom                       M             33        17:03.40  
+  Matthew Bernard                     M             17        18:58.60  
+  Tom Ketchum                         M             40        19:03.40  
+  Eric Choudhary                      M             25        19:14.70  
+  Kenneth Reuter                      M             18        19:18.10  
+  Steve Desmond                       M             27        19:24.20  
+  Matthew Holden                      M             26        19:32.30  
+  Jeremy Jones                        M             17        19:45.30  
+  Aditi Krishnapriyan                 F             19        19:59.00  
+  Bryce Derick                        M             11        20:27.50  
+  Sarah Loftus                        F             21        20:42.60  
+  Mark Obstalecki                     M             25        20:57.40  
+  Brendan O'Brien                     M             53        21:17.30  
+  Reinhold Wotawa                     M             63        21:57.40  
+  David Jung                          M             52        22:24.10  
+  Brody Hayes Glick                   M             11        22:33.90  
+  Braden Hayes Glick                  M              9        22:40.70  
+  Gavin Derick                        M             14        23:24.50  
+  David Baker                         M             49        23:29.70  
+  Alivia Collins                      F             12        23:32.60  
+  Faithe Ketchum                      F              8        23:59.70  
+  Kristine Dale                       F             40        24:00.10  
+  Kristen Ketchum                     F             38        24:39.90  
+  Elizabeth Casey                     F             10        25:02.00  
+  Tommy Dale                          M             10        25:22.20  

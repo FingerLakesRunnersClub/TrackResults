@@ -1,0 +1,40 @@
+                               2013-02-17                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Tyler Sutherland                    M             16        15:54.30  
+  Richard Buchanan                    M             16        16:06.20  
+  James Derick                        M             47        16:08.00  
+  Sam Chauvin                         M             16        16:08.30  
+  Jason Sansky                        M             19        16:20.10  
+  Dave Cook                           M             29        16:26.50  
+  John Salva                          M             20        16:49.50  
+  Bill Burke                          M             19        16:58.20  
+  Tyler McDevitt                      M             19        17:58.50  
+  Tom Ketchum                         M             41        18:21.40  
+  Nate Hartwig                        M             16        18:22.70  
+  Bruce Roebal                        M             56        18:44.00  
+  Bryce Derick                        M             12        18:47.30  
+  Steve Desmond                       M             28        18:54.60  
+  Kathleen Druther                    F             22        19:09.90  
+  Brennan Gleckner                    M             16        19:13.40  
+  Paul Lares                          M             16        19:32.50  
+  Trish Horan                         F             27        19:43.90  
+  Bryan Kurcoba                       M             41        20:03.50  
+  Gerrit Van Loon                     M             51        20:21.20  
+  Alycia Gailey                       F             29        20:23.70  
+  Dan Buckley                         M             40        20:29.50  
+  Gavin Derick                        M             14        21:10.00  
+  Brendan O'Brien                     M             53        21:44.60  
+  Monica Salva                        F             18        21:48.00  
+  Alivia Collins                      F             12        21:59.80  
+  Braden Hayes Glick                  M              9        22:33.10  
+  David Keifer                        M             66        22:49.30  
+  Mak Gleckner                        M             13        23:20.70  
+  Robert Bland                        M             60        23:22.70  
+  Kira Novakofski                     F             29        23:33.20  
+  Erin Talcott                        F             34        23:39.20  
+  Dave Talcott                        M             52        24:19.20  
+  Angelea Collins                     F             11        24:20.70  
+  Josiah Gleckner                     M             11        28:22.70  

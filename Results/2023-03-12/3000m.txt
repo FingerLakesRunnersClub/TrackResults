@@ -1,0 +1,22 @@
+                               2023-03-12                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Paul Zimmer                         M              0         9:15.00  
+  Lucas Baker                         M              0         9:22.00  
+  Emerson Comer                       M              0         9:26.00  
+  Hans Hilson-Schneider               M              0         9:36.00  
+  Alton Francisco                     M              0         9:37.00  
+  Patrick Milano                      M             33         9:57.00  
+  David Morrow                        M              0        10:16.00  
+  Jack Turner                         M              0        10:18.00  
+  Aaron King                          M              0        10:44.00  
+  Tristan Lambert                     M             46        11:13.00  
+  Liz Hartman                         F             40        11:55.00  
+  Ashley Moskowitz                    F              0        12:06.00  
+  Matthew Skeval                      M              0        12:37.00  
+  Jacob Smith                         M              0        14:48.00  
+  Monica Moll                         F              0        15:09.00  
+  Nicole Belcher                      F              0        17:24.00  
+  Deborah Bliss                       F             75        18:12.00  

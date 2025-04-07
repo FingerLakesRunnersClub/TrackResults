@@ -1,0 +1,26 @@
+                               2013-08-13                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Raymond Velazquez                   M             22         4:34.30  
+  Jonathan Alvarado                   M             19         5:05.60  
+  Robert MacDonald                    M             23         5:06.40  
+  Evan Whittaker                      M             12         5:34.60  
+  Gavin Derick                        M             15         5:37.20  
+  Keith Eggleston                     M             53         5:38.60  
+  Lena Marecki                        F             21         5:51.40  
+  Tanner Erdman                       M             14         5:56.80  
+  Bob Buttner                         M             53         5:57.30  
+  Cleo Baker                          F             12         6:00.70  
+  Thomas Hicks                        M             11         6:10.20  
+  Noah Hunt                           M             20         6:11.40  
+  Braden Hayes Glick                  M             10         6:12.50  
+  Dylan Kenyon                        M             12         6:37.90  
+  Angelea Collins                     F             11         6:51.60  
+  Scott Erdman                        M             45         7:04.90  
+  Victoria Collins                    F              9         7:05.90  
+  J. Peter Gregoire                   M             71         7:10.30  
+  Elizabeth Casey                     F             11         7:11.10  
+  Cassandra Collins                   F              7         7:35.20  
+  Samantha Oakes                      F              8         8:18.50  

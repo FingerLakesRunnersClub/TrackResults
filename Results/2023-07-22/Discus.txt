@@ -1,0 +1,10 @@
+                               2023-07-22                               
+                                 Discus                                 
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Ryan Oleksy                         M              0      151'00.25"  
+  Zach Elliott                        M              0      142'01.50"  
+  Brody Williams                      M             16      114'04.00"  
+  Janice Carter                       F              0      109'04.50"  
+  David Shea                          M              0       92'01.50"  

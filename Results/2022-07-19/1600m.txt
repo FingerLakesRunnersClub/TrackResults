@@ -1,0 +1,20 @@
+                               2022-07-19                               
+                                 1600m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Curtis Mann                         M             27         4:44.00  
+  Trent Thibault                      M             14         4:50.00  
+  Thomas Stallone                     M             16         4:55.00  
+  Adrian Haws                         M             27         4:58.00  
+  Bill Thibault                       M             50         5:27.00  
+  Peter Frazier                       M             43         5:37.00  
+  Liz Hartman                         F             40         5:48.00  
+  Ben Mueller                         M             39         5:51.00  
+  Andy Vautrin                        M             27         5:52.00  
+  Timur Urazgildiiev                  M             12         6:36.00  
+  Kim Jackson                         F             53         6:50.00  
+  Mike Homeyer                        M             70         7:36.00  
+  David Tsyrennikov                   M              8         7:56.00  
+  Joseph Sullivan                     M             64         8:37.00  
+  Annaliese Granroth                  F             10         9:22.00  

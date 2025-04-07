@@ -1,0 +1,37 @@
+                               2024-01-21                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Lucas Baker                         M             23         9:21.00  
+  Curtis Mann                         M             29         9:36.00  
+  Sam Allen                           M             21         9:40.00  
+  Chris Senez                         M             34         9:42.00  
+  Scott Weeks                         M             51         9:43.00  
+  Trennan Tewksbury                   M             17         9:48.00  
+  Andrew Cloke                        M             39         9:55.00  
+  Nicholas Kowal                      M             15        10:24.00  
+  Aaron King                          M             40        10:37.00  
+  Issac Hendrickson                   M             14        11:02.00  
+  Ella Devlin                         F             15        11:18.00  
+  Liz Hartman                         F             41        11:23.00  
+  Damian Clemons                      M             49        11:23.00  
+  Stephen Jesch                       M             54        11:53.00  
+  Jaden Bailor                        M             15        12:06.00  
+  Casey Carlstrom                     M             64        12:12.00  
+  Gary Williams                       M             59        12:46.00  
+  Alex Kleinerman                     F             42        12:49.00  
+  Jaci Fairchild                      F             14        13:02.00  
+  Emily Stickles                      F             29        13:06.00  
+  Gerrit Van Loon                     M             62        13:27.00  
+  Steven Vanek                        M             52        13:29.00  
+  Elizabeth Randell                   F             56        13:33.00  
+  Julie King                          F             56        13:43.00  
+  Ken Hodges                          M             70        14:06.00  
+  Nancy Legierski                     F             63        14:07.00  
+  Petra Wells                         F             11        14:10.00  
+  Joann Oloughlin                     F             57        14:25.00  
+  Carrie Langley                      F             36        14:39.00  
+  Mary Cook                           F             52        15:18.00  
+  Joe Nolan                           M             58        15:24.00  
+  Deborah Bliss                       F             76        17:36.00  

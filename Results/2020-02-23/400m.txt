@@ -1,0 +1,53 @@
+                               2020-02-23                               
+                                  400m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Nicholas Abdo                       M             19           51.44  
+  Kyle Zaidel                         M              0           51.45  
+  Otto Sutton                         M              0           53.06  
+  Roosevelt Lee                       M             24           53.70  
+  Harrison Greene                     M             29           58.76  
+  Charlotte Nevins                    F              0           58.91  
+  Dylan Mitlof                        M             20           59.75  
+  Karnar Ueland                       M              0           59.84  
+  Jayla Skeete                        F              0         1:00.18  
+  Chris Howard                        M             13         1:00.85  
+  Keegan Brady                        M             13         1:03.18  
+  Brendan Jones                       M             15         1:03.78  
+  Nicholas Marnell                    M              0         1:04.91  
+  Collin Gaylord                      M              0         1:05.83  
+  Justin Pizano                       M             20         1:06.53  
+  Andrew Dawkins                      M              0         1:07.07  
+  Nate Murphy                         M              0         1:07.58  
+  Emily Pinheiro                      F             18         1:08.91  
+  Sander Bertsch                      M             15         1:09.00  
+  Emma Bronson                        F             14         1:10.29  
+  Peter Jones                         M             13         1:10.62  
+  Shaylee Meier                       F             15         1:12.13  
+  Jesse Koennecke                     M             49         1:12.36  
+  Carissa Flynn                       F             14         1:13.02  
+  Sara Bronson                        F              0         1:13.14  
+  Samantha Oakes                      F              0         1:13.99  
+  MaryAlice Pineau                    F             12         1:16.67  
+  Gregory Homa                        M             12         1:17.33  
+  Matthew Keough                      M             10         1:17.68  
+  Kyleen Brady                        F             11         1:18.94  
+  Kathryn White                       F             16         1:18.96  
+  Abby Ringwood                       F             12         1:20.62  
+  Hannah Dewert                       F             13         1:21.76  
+  Abigail Wagner                      F              0         1:22.29  
+  Meghan Winks                        F             12         1:27.76  
+  Burke Hilgendorf                    M              8         1:29.10  
+  Jacob Varga                         M             10         1:30.40  
+  Cadence Sullivan                    F              9         1:33.23  
+  Arihaan Bhargava                    M              6         1:36.38  
+  Annika Wood                         F              8         1:36.94  
+  Anna Gasper                         F              7         1:37.77  
+  Madeline Seneca                     F             13         1:40.76  
+  Conor DeSantis                      M             10         1:43.74  
+  Pierce Terwilliger                  M              9         1:48.41  
+  Jaxon Vang                          M              0         1:49.02  
+  Jonathan Young                      M             11         1:51.69  
+  Ceci Hilgendorf                     F              5         2:12.62  
+  David Baker                         M             65         2:17.25  

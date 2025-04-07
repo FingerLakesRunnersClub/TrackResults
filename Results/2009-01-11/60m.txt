@@ -1,0 +1,31 @@
+                               2009-01-11                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Dason Tinkham                       M             23            7.20  
+  Aaron Catlin                        M             19            7.31  
+  Henry Potter                        M             18            7.49  
+  Vincent Mariano                     M             18            7.61  
+  Aaron Spencer                       M             16            7.83  
+  Chelsea Gallup                      F             18            7.98  
+  Brian Shatara                       M             20            8.18  
+  Mari Giurastante                    F             18            8.31  
+  Lauren Nelson                       F             18            8.36  
+  Andy Jordan                         M             55            8.59  
+  Mary Eloundou                       F             15            8.83  
+  Seth Tucker                         M             22            9.14  
+  John Rogers                         M              8           10.38  
+  Bryce Derick                        M              7           10.73  
+  Joe Reynolds                        M             64           11.49  
+  Ethan Calupca                       M              6           12.28  
+  Isaac Borden                        M              6           12.45  
+  Corrine Hartshorne                  F              8           12.80  
+  Elliot Walsh                        M              6           12.81  
+  Juliet Borden                       F              8           13.32  
+  Cara Reynolds                       F              7           13.72  
+  Clare Reynolds                      M              7           15.37  
+  Kinsley Jacobs                      M              3           17.23  
+  Ben Calupca                         M              3           17.43  
+  Casey Seem                          M              3           20.18  
+  Riley Hubisz                        M              1           22.47  

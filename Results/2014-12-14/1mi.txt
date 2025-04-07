@@ -1,0 +1,39 @@
+                               2014-12-14                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Juan Martinez                       M              0         5:01.30  
+  Aaron Joiner                        M              0         5:07.00  
+  Owen Juan                           M              0         5:10.00  
+  Dakotah Smith                       M              0         5:17.80  
+  Rob Kurcoba                         M              0         5:26.80  
+  Matthew Aldridge                    M              0         5:27.60  
+  David Van Wijk                      M              0         5:36.90  
+  Casey Carlstrom                     M              0         5:37.10  
+  Gary Williams                       M              0         5:37.40  
+  Katie Nolan                         F              0         5:40.70  
+  Nathan Wilsoncroft                  M              0         5:42.10  
+  Howard Iseri                        M              0         5:50.90  
+  Adrian (Race walk) Blocki           M              0         5:51.60  
+  Brendan O'Brien                     M              0         5:56.50  
+  Jaxyn Mahoney                       M              0         6:06.40  
+  Julia Hluck                         F              0         6:06.80  
+  Ginny Clifford                      F              0         6:18.50  
+  Jenelle Glover                      F              0         6:24.00  
+  Carl Franck                         M              0         6:31.90  
+  David Keifer                        M              0         6:38.40  
+  Abby Dejneka                        F              0         6:39.20  
+  Bridget Crandall                    F              0         6:44.70  
+  Greg Nached                         M              0         6:50.20  
+  Raphael Palacio                     M              0         7:07.30  
+  Samantha Oakes                      F              0         7:14.70  
+  Scott Erdman                        M              0         7:17.30  
+  Samuel Segal                        M              0         7:20.20  
+  Dave (Race walk) Talcott            M              0         7:23.40  
+  Joseph Reynolds                     M              0         7:27.70  
+  Robert Kern                         M              0         7:58.60  
+  Megan Gensel                        F              0         8:04.70  
+  Carl Greishezmer                    M              0         8:24.20  
+  Gabriel Palacio                     M              0         8:48.90  
+  Tabitha Oakes                       F              0         9:13.50  

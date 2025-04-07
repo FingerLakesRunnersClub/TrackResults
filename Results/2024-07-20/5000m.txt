@@ -1,0 +1,21 @@
+                               2024-07-20                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Alexander Simpson                   M             22        15:46.00  
+  Joe Anderson                        M             35        16:25.00  
+  Jesse Saldana                       M             34        17:06.00  
+  Simon Evans                         M             16        17:16.00  
+  Carter Naginey                      M             17        17:27.00  
+  Shaun Evans                         M             46        17:57.00  
+  Francisco Quintana                  M             26        18:04.00  
+  Eugene Gonzalez                     M             20        18:18.00  
+  Sarah Woodyear                      F             26        19:30.00  
+  Banyan Love                         M             18        19:30.00  
+  Columbia Warren                     M             47        19:39.00  
+  Colin O'Brien                       M             15        19:56.00  
+  Keith Eggleston                     M             64        20:51.00  
+  Karl Granroth                       M             51        23:12.00  
+  Bryan Gorges                        M             39        23:27.00  
+  Trent Westhoff                      M             27        23:46.00  

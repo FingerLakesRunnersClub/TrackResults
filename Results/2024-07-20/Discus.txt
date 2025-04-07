@@ -1,0 +1,13 @@
+                               2024-07-20                               
+                                 Discus                                 
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Brody Williams                      M             17      124'09.00"  
+  David Shea                          M             17      114'04.00"  
+  Leander Boreland                    M             57      108'01.00"  
+  Eric McCord                         M             14       88'03.00"  
+  Kaylee Kastenhuber                  F             15       85'10.00"  
+  Tuuli Overturf                      F             25       85'08.00"  
+  Lucas Vann                          M             14       68'03.00"  
+  Noah Miller                         M             14       59'02.00"  

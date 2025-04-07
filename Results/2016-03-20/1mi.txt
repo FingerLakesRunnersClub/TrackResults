@@ -1,0 +1,65 @@
+                               2016-03-20                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David Cook                          M              0         4:38.80  
+  Will Villano                        M              0         4:39.50  
+  Tevin Johnson                       M              0         4:40.90  
+  Jordan Holmes                       M              0         4:41.20  
+  Andrew Boyce                        M              0         4:45.00  
+  Duvall Vincent                      M              0         4:47.40  
+  Jason Phillips                      M              0         4:48.50  
+  Joseph Mora                         M              0         4:57.60  
+  Matthew Caffrey                     M              0         5:01.10  
+  Andrew Vaughn                       M              0         5:05.00  
+  Jacob Lange                         M              0         5:08.10  
+  Devin McCartney                     M              0         5:09.10  
+  Mike Warchol                        M              0         5:10.70  
+  Chris Mason                         M              0         5:11.10  
+  Brandon Moore                       M              0         5:17.80  
+  Torrey Jacobson-Evans               M              0         5:20.50  
+  William Yang                        M              0         5:24.90  
+  Karen Simmonds-Brady                F              0         5:25.30  
+  Joseph Koch                         M              0         5:32.40  
+  Maritza Cruz                        F              0         5:37.00  
+  Ben Supron                          M              0         5:39.50  
+  Oliver Baroody                      M              0         5:49.70  
+  Miles Baroody                       M              0         5:51.10  
+  Keegan Brady                        M              0         5:51.80  
+  Christopher Lavallee                M              0         5:55.30  
+  Robert Swizdor                      M              0         5:57.00  
+  Faithe Ketchum                      F              0         5:57.20  
+  Seneca Stevens                      M              0         5:57.60  
+  Miles Mischke                       M              0         5:58.00  
+  Alissa French                       F              0         5:58.00  
+  Greg Nached                         M              0         5:58.20  
+  Liz Feeney                          F              0         5:59.40  
+  Rod Weeden                          M              0         6:06.60  
+  Jean-Luc Jannink                    M              0         6:08.70  
+  Mary Bushallow                      F              0         6:11.50  
+  Marcus Homa                         M              0         6:14.50  
+  Skylar Pierce                       F              0         6:17.00  
+  Lydia Keys                          F              0         6:20.40  
+  Kyle Nguyen                         M              0         6:26.10  
+  Noah Heath                          M              0         6:28.00  
+  Alex Tompkins                       M              0         6:28.40  
+  Nicolette Swanbery                  F              0         6:33.00  
+  Elizabeth Baroody                   F              0         6:33.20  
+  Alicia Lawson                       F              0         6:35.90  
+  Anna Lowe                           F              0         6:37.30  
+  Connor Gasper                       M              0         6:41.00  
+  Sarah Lawson                        F              0         6:41.90  
+  Colten Ketchum                      M              0         6:56.20  
+  Samantha Oakes                      F              0         7:12.00  
+  John Whitman                        M              0         7:14.90  
+  Aaron Williams                      M              0         7:15.20  
+  Gavin Heath                         M              0         7:21.10  
+  Owen Gasper                         M              0         7:34.00  
+  Addison Cooper                      F              0         7:34.30  
+  Connor Duffy                        M              0         7:50.10  
+  Atlas Boland                        M              0         8:02.40  
+  Avery Tompkins                      F              0         8:37.50  
+  Stephanie Krusch                    F              0         8:46.60  
+  Kaitlyn Stephens                    F              0         9:01.00  
+  Carl Greisheimer                    M              0         9:39.40  

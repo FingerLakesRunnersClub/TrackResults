@@ -1,0 +1,20 @@
+                               2012-02-19                               
+                                  200m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Micah Oliver                        M             18           23.20  
+  David Chorpenning                   M             18           24.40  
+  Anthony Hawkins                     M             20           24.70  
+  Leo McGuinness                      M             16           24.90  
+  Saige Thomas                        F             17           27.00  
+  Steven Rando                        M             15           27.50  
+  John Gustafson                      M             43           28.80  
+  Lydia Werner                        F             13           29.70  
+  Brian Richardson                    M             21           30.00  
+  Les Buchanan                        M             48           34.80  
+  Brendan O'Brien                     M             52           36.20  
+  Thomas Farlow                       M             41           37.00  
+  Tom Rishel                          M             71           41.80  
+  Maria Costanzo                      F             53           44.50  
+  Erin Talcott                        F             33           45.20  

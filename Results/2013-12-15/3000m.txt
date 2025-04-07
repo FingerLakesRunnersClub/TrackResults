@@ -1,0 +1,27 @@
+                               2013-12-15                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Billy Way                           M             25         8:51.30  
+  Alex Frederick                      M             16         9:17.50  
+  James Derick                        M             48         9:30.00  
+  Michael Lam                         M             23         9:43.90  
+  Jay Taves                           M             18         9:48.20  
+  James Felice                        M             17         9:48.80  
+  James Golden                        M             30        10:13.60  
+  Michael Olson                       M             48        10:16.80  
+  Jared Strait                        M             28        10:45.70  
+  Casey Carlstrom                     M             54        10:51.60  
+  Jon Murray                          M             36        11:05.50  
+  Tom Crowley                         M             60        11:12.30  
+  Evan Keister                        M             10        11:31.80  
+  Horace Pan                          M             21        11:37.00  
+  Tim Ingall                          M             54        11:42.60  
+  Brendan O'Brien                     M             54        11:43.60  
+  Dylan Kenyon                        M             12        12:06.70  
+  Skip Strobel                        M             43        12:09.10  
+  Miles Mischke                       M             21        12:17.60  
+  Lorrie Tily                         F             52        14:14.80  
+  Nicolette Swanbery                  F             18        15:08.70  
+  James Miner                         M             65        17:28.00  

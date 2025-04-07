@@ -1,0 +1,54 @@
+                               2014-01-19                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  James Derick                        M              0         4:52.10  
+  jeremy Anderson                     M              0         4:58.50  
+  Michael Lam                         M              0         5:00.40  
+  John Weiner                         M              0         5:00.70  
+  Eric Sinton                         M              0         5:01.50  
+  Grayson Hoteling                    M              0         5:04.40  
+  Lucas Canales                       M              0         5:06.70  
+  Ram Venkat                          M              0         5:34.50  
+  Lauren Trumble                      F              0         5:35.60  
+  Owen Juan                           M              0         5:47.90  
+  Joel Cisne                          M              0         5:49.50  
+  Eli Eagleroad                       M              0         6:07.60  
+  Kirsten Anderson                    F              0         6:08.40  
+  Brody Hayes Glick                   M              0         6:10.40  
+  Mary Bushallow                      F              0         6:12.40  
+  Susan Barnett                       F              0         6:12.70  
+  Soren Jung                          M              0         6:17.30  
+  Brendan O'Brien                     M              0         6:20.90  
+  Melissa Hubisz                      F              0         6:22.90  
+  Cleo Baker                          F              0         6:31.90  
+  Nathan Wilsoncroft                  M              0         6:33.50  
+  Braden Hayes Glick                  M              0         6:40.30  
+  Tom Daly                            M              0         6:40.60  
+  Lynann Lorenz                       F              0         6:42.80  
+  Cedar Eagleroad                     M              0         6:43.00  
+  Abby Dejneka                        F              0         6:43.70  
+  Angelea Collins                     F              0         6:44.30  
+  Zoe Wilkietomasik                   F              0         6:46.30  
+  Ginny Clifford                      F              0         6:46.50  
+  J. Matthew Gensel                   M              0         6:46.80  
+  Jaxyn Mahoney                       M              0         6:50.20  
+  James Miner                         M              0         6:54.20  
+  Carl Franck                         M              0         6:54.60  
+  Bill Quinlisk                       M              0         6:58.30  
+  Bob Castleman                       M              0         7:00.50  
+  Alyssa Walker                       F              0         7:03.30  
+  Victoria Collins                    F              0         7:03.50  
+  Madeline Burns                      F              0         7:05.50  
+  Shannon Oakes                       F              0         7:13.40  
+  Luke Johns                          M              0         7:13.60  
+  Cassandra Collins                   F              0         7:17.90  
+  Joe Reynolds                        M              0         7:20.50  
+  Alexis Johns                        M              0         7:42.10  
+  Melissa Hunkele                     F              0         7:45.10  
+  Leah Park                           F              0         8:30.80  
+  Jaden Bailor                        M              0         9:30.00  
+  Joshua Langley                      M              0         9:30.50  
+  Carrie Langley                      F              0         9:31.00  
+  Riley Hubisz                        M              0         9:53.00  

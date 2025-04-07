@@ -1,0 +1,50 @@
+                               2016-08-02                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Mike Warchol                        M              0         4:55.96  
+  Dave Cook                           M              0         4:56.15  
+  Jacob Lange                         M              0         5:09.74  
+  Phil Kwasney                        M              0         5:17.61  
+  Kesley Peck                         M              0         5:21.67  
+  Matthew Lin                         M              0         5:28.35  
+  Keith Eggleston                     M              0         5:38.77  
+  Faithe Ketchum                      F              0         5:43.06  
+  Tristan Engst                       M              0         5:47.32  
+  Otto Sutton                         M              0         5:49.31  
+  Marcus Homa                         M              0         5:53.05  
+  Miles Baroody                       M              0         5:54.34  
+  Mary Bushallow                      F              0         5:55.99  
+  Keegan Brady                        M              0         5:56.73  
+  Pete Kresock                        M              0         5:59.61  
+  David Blumer                        M              0         6:06.26  
+  Oliver Baroody                      M              0         6:08.29  
+  Gerrit Van Loon                     M              0         6:19.52  
+  Thaddaeus Black                     M              0         6:38.86  
+  Stephanie Schauder                  F              0         6:40.03  
+  Elizabeth Baroody                   F              0         6:41.47  
+  Jacob DeRosa                        M              0         6:45.36  
+  Maritza Cruz                        F              0         6:49.77  
+  Gregory Homa                        M              0         6:49.80  
+  Colten Ketchum                      M              0         6:59.96  
+  Anna Lowe                           F              0         7:06.04  
+  Camille Black                       F              0         7:06.23  
+  Maynard Black                       M              0         7:08.08  
+  Megan Swartwood                     F              0         7:14.56  
+  Carl Franck                         M              0         7:23.70  
+  Nathan Black                        M              0         7:39.48  
+  Genevieve Black                     F              0         7:39.73  
+  Mary Black                          F              0         7:43.15  
+  Connor Duffy                        M              0         7:50.08  
+  Owen Gasper                         M              0         7:52.49  
+  Sibby Lowe                          F              0         7:54.16  
+  Peter Black                         M              0         7:58.26  
+  Connor Gasper                       M              0         8:01.32  
+  D Truck Rossiter                    M              0         8:03.38  
+  Isaiah Babb                         M              0         8:08.10  
+  James Mou                           M              0         8:12.05  
+  Freddie Collins                     M              0         8:26.32  
+  Dan Bushallow                       M              0         8:45.24  
+  Stephanie Krusch                    F              0         8:52.41  
+  Carl Greisheimer                    M              0         8:58.91  

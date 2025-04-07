@@ -1,0 +1,29 @@
+                               2023-01-15                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Henry Williams                      M              0         8:59.00  
+  Nick Ryan                           M             27         9:40.00  
+  Carter Stevens                      M             16        10:03.00  
+  Stephanie Bitcon                    F              0        10:12.00  
+  Mike Nier                           M             58        10:17.00  
+  Eric Gao                            M             29        10:58.00  
+  Jay Hubisz                          M              0        11:08.00  
+  Chris Mason                         M             34        11:16.00  
+  William Boscia                      M             14        11:19.00  
+  Donna Langerfeld                    F             36        11:21.00  
+  Josh Plumeau                        M              0        11:28.00  
+  Wyatt Stouffer                      M              0        11:37.00  
+  Ronan Williams                      M             13        11:56.00  
+  Alistair Hayden                     M              0        11:57.00  
+  Jeremy Wheeler                      M              0        12:11.00  
+  William Shaw                        M              0        12:27.00  
+  Gerrit Van Loon                     M              0        12:46.00  
+  Jennifer Toti                       F             45        13:50.00  
+  Alexander Maynard                   M              0        14:33.00  
+  Ken Hodges                          M             69        14:40.00  
+  Colleen Newman                      F              0        14:50.00  
+  Jen Lombardi                        F              0        15:17.00  
+  James Miner                         M              0        18:23.00  
+  Deborah Bliss                       F             75        18:36.00  

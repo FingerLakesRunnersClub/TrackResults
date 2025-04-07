@@ -1,0 +1,65 @@
+                               2023-01-15                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Skylar Lagramada                    M             18            7.70  
+  Wyatt Stouffer                      M              0            7.90  
+  Matt Fitch                          M              0            7.92  
+  Drew Bush                           M              0            8.01  
+  Tucker Flaitz                       M             13            8.06  
+  Ross Bush                           M              0            8.07  
+  Matt Karr                           M             14            8.20  
+  James Kane                          M              0            8.38  
+  Bryan Hess                          M             15            8.41  
+  Luca Romans                         M              0            8.52  
+  Matthew Marzan                      M             15            8.61  
+  Ronan Williams                      M             13            8.91  
+  Roger Moseley                       M             48            8.92  
+  Jess Wells                          F              0            9.01  
+  Asher Moseley                       M             11            9.20  
+  Milo Moseley                        M             11            9.20  
+  Logan Russo                         M             12            9.28  
+  Gavin White                         M              0            9.45  
+  Arya Basu                           M              0            9.48  
+  Angelina Porras                     F              0            9.61  
+  Gerrit Van Loon                     M              0            9.71  
+  Asa Awa                             M              9            9.72  
+  Lauren Younkin                      F             12            9.78  
+  Verity Platt                        F             45            9.86  
+  Jerod Baptist                       M             10           10.03  
+  Jerome Baptist                      M             10           10.13  
+  Conor DeSantis                      M             12           10.35  
+  Ava Sierra                          F              9           10.43  
+  Keene Strickland                    M              0           10.60  
+  Karina Swarthout                    F             12           10.67  
+  Raheem Spears                       M             10           10.84  
+  Nattalie Lombardi                   F              0           10.98  
+  Anthony Justice                     M              0           11.06  
+  Janaiyah Lucena                     F              9           11.10  
+  Gary Stump                          M             11           11.16  
+  Joharra Lucena                      F              9           11.22  
+  Amari Morrone                       F              7           11.31  
+  Joaquin Baptist                     M              7           11.42  
+  Carter LeShore                      M             10           11.48  
+  Reis Smith                          F              9           11.48  
+  Alexander Maynard                   M              0           11.51  
+  Johnny Lucena                       M              8           11.55  
+  Hazel Strickland                    F              0           11.55  
+  Ysenia Ashton                       F              8           11.70  
+  Elliana Russo                       F              7           11.75  
+  Rowan DeSantis                      F              9           11.86  
+  Steven Clark                        M             68           12.42  
+  Taytum Rose                         F              8           12.55  
+  Leo Maynard                         M              0           12.58  
+  Jocelyn Baptist                     F              7           12.60  
+  Somaya Haynes                       F             10           12.75  
+  Nicholas Justice                    M              0           12.78  
+  Xavier Campbell                     M              9           12.83  
+  Ryan Plumeau                        M              0           13.50  
+  Archibald Campbell                  M              6           13.61  
+  Jayvyn Mahoney                      M              7           14.04  
+  Jasper Chilson                      M              0           15.52  
+  Zamara Butler                       F              7           16.45  
+  Journie Baptist                     M              4           16.66  
+  Joel Kresock                        M              2           41.69  

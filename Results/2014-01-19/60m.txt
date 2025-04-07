@@ -1,0 +1,54 @@
+                               2014-01-19                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Mande Semon                         M              0            7.12  
+  Mike Palmer                         M              0            7.25  
+  Josh Gaudette                       M              0            7.66  
+  Andrew Kowalski                     M              0            7.82  
+  Taylor Niles                        M              0            8.16  
+  Nick John                           M              0            8.41  
+  Brett Shelton                       M              0            8.53  
+  Ijeyi Onah                          M              0            8.82  
+  Nathan Wilsoncroft                  M              0            8.86  
+  Bryce Derick                        M              0            8.89  
+  Ehi Onah                            M              0            8.92  
+  Brody Hayes Glick                   M              0            9.00  
+  Madeline Wozniak                    F              0            9.25  
+  Elyssa DeRosa                       F              0            9.25  
+  Bill Quinlisk                       M              0            9.39  
+  Holly Borsen                        F              0            9.68  
+  Braden Hayes Glick                  M              0            9.80  
+  Marnie Perry                        M              0            9.97  
+  Angelea Collins                     F              0           10.01  
+  Jacob DeRosa                        M              0           10.02  
+  Kyaiji Stewart                      M              0           10.08  
+  Luke Johns                          M              0           10.16  
+  Victoria Collins                    F              0           10.19  
+  Alexis Johns                        M              0           10.19  
+  Luke Little                         M              0           10.21  
+  Thomas Lashkoff                     M              0           10.35  
+  Kameron McBean                      M              0           10.40  
+  Madeline Burns                      F              0           10.45  
+  Ayinde Harewood                     M              0           10.45  
+  Cassandra Collins                   F              0           10.66  
+  Samantha Oakes                      F              0           10.77  
+  Alissa French                       F              0           10.78  
+  Karmin Franklin                     M              0           10.84  
+  Abigail May                         F              0           10.86  
+  Jaxyn Mahoney                       M              0           10.96  
+  Mia Little                          M              0           11.03  
+  Joseph Bangela                      M              0           11.16  
+  Antwon McBean                       M              0           11.19  
+  Indria Clairborne                   M              0           11.30  
+  Johnathan Bangel                    M              0           11.73  
+  Leah Park                           F              0           11.96  
+  Freddie Collins                     M              0           12.93  
+  Aniyah Stewart                      M              0           13.13  
+  Tabitha Oakes                       F              0           14.00  
+  Madelyn Little                      M              0           14.46  
+  Riley Hubisz                        M              0           14.80  
+  Sarah Strobel                       F              0           18.47  
+  Lexi Strobel                        F              0           28.10  
+  Maple Hubisz                        F              0           31.95  

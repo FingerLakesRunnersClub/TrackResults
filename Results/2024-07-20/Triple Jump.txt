@@ -1,0 +1,17 @@
+                               2024-07-20                               
+                              Triple Jump                               
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Tom Pinkowski                       M             19       39'08.75"  
+  Logan Manor                         M             16       37'11.00"  
+  Joey McDonald                       M             17       37'04.00"  
+  Ross Bush                           M             15       36'09.00"  
+  Westin Walker                       M             17       34'11.00"  
+  Kristen Johnston                    F             17       34'04.75"  
+  Suansian Songput                    M             16       34'01.50"  
+  Noah McHenry                        M             15       32'08.25"  
+  Shawn Riquelme                      M             18       32'02.00"  
+  Anneliese Hubbard                   F             17       30'00.25"  
+  Alyssa Johnston                     F             14       26'11.00"  
+  Lungawm Songput                     F             14       22'03.00"  

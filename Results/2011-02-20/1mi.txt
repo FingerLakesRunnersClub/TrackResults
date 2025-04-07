@@ -1,0 +1,81 @@
+                               2011-02-20                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  William Gabriel                     M             17         4:33.50  
+  Neil Adige                          M             24         4:38.30  
+  Jacob Kanavy                        M             18         4:42.70  
+  Josh Schultheis                     M             22         4:44.10  
+  Gregory Bader                       M             18         4:46.40  
+  Casey Carlstrom                     M             52         4:47.30  
+  Ethan Osborne                       M             15         4:50.30  
+  Eric Choudhary                      M             24         4:52.20  
+  Jason Christopherson                M             16         4:58.50  
+  Marty Nicholson                     M             23         5:00.80  
+  Laura Leff                          F             14         5:03.60  
+  Jonathan Moor                       M             16         5:04.30  
+  Paul LaBelle                        M             16         5:04.70  
+  Casey Bunce                         M             15         5:04.70  
+  Mike Coogan                         M             16         5:05.10  
+  Nate Conroy                         M             14         5:05.30  
+  Zachary Despreaux                   M             17         5:08.00  
+  Conor Lyons                         M             17         5:09.20  
+  Jeff Davidson                       M             21         5:14.80  
+  Kristian Clemens                    M             18         5:16.60  
+  Eileen Combs                        F             33         5:17.00  
+  Jessica Curry                       F             17         5:18.40  
+  Liam Rodgers                        M             13         5:21.10  
+  Matthew Tillotson                   M             18         5:22.70  
+  Jason Jenks                         M             14         5:25.10  
+  Jim Cunningham                      M             28         5:28.10  
+  Andy Edwards                        M             17         5:29.00  
+  Michael Pauli                       M             19         5:32.70  
+  Bill Burke                          M             17         5:34.20  
+  Madeline Adams                      F             15         5:34.70  
+  Mike Brown                          M             23         5:35.90  
+  Jake Kinsella                       M             16         5:37.00  
+  Tim Ingall                          M             51         5:37.40  
+  Mike Richards                       M             14         5:39.30  
+  Jason Christopherson                M             16         5:39.50  
+  Sara Colon                          F             18         5:41.60  
+  Katie Lewis                         F             17         5:42.20  
+  Brendan O'Brien                     M             51         5:43.00  
+  Mary Bushallow                      F             39         5:43.00  
+  Briana Lentkowski                   F             15         5:44.00  
+  Gabby Pallotta                      F             14         5:46.60  
+  Nicole Campagna                     F             16         5:47.00  
+  Nicole Watterud                     F             16         5:50.00  
+  Jeff Dorumda                        M             25         5:51.10  
+  Michael Wells                       M             16         5:56.20  
+  Laura Kline                         F             33         5:56.20  
+  Eli Laue                            M             15         5:57.70  
+  Jessica Jelfo                       F             16         6:01.40  
+  Casey Norton                        F             15         6:01.60  
+  Miles Mischke                       M             19         6:02.30  
+  Lisa Fawcett                        F             18         6:03.30  
+  Alycia Gailey                       F             27         6:04.60  
+  Megan Gleason                       F             17         6:06.30  
+  Natalie Kelly                       F             27         6:06.70  
+  Micaela Donobella                   F             15         6:09.10  
+  Elizabeth Merill                    F             17         6:09.40  
+  Carl Franck                         M             58         6:16.30  
+  Lauren Carr                         F             15         6:16.60  
+  Steve Shaum                         M             45         6:18.40  
+  Ethan Elliot                        M             13         6:21.90  
+  Alli Page                           F             15         6:25.20  
+  Gerrit Van Loon                     M             49         6:27.20  
+  Maegan Sheets                       F             17         6:30.50  
+  Bobby Wightman                                    13         6:32.40  
+  Brittany Kubecka                    F             14         6:35.40  
+  Bridget Benz                        F             15         6:38.10  
+  Olivia Brown                        F             16         6:39.30  
+  Zelie Lewis                         F             16         6:42.50  
+  Morgan Ashton                                     10         6:47.10  
+  Ben Cardamone                       M             48         6:50.40  
+  Lindsay Barnes                      F             19         7:07.30  
+  Frank Mischke                       M             54         7:48.40  
+  Madeline Pierce                     F             14         8:04.90  
+  Nathan Batalion                     M             61         8:12.80  
+  Lindsey Guzewicz                    F             18         8:20.90  
+  Kinsley Jacobs                      F              5         9:46.50  

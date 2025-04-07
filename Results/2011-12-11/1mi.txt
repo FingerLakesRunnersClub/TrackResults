@@ -1,0 +1,50 @@
+                               2011-12-11                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David McCarey                       M             21         4:43.80  
+  Joey Moschitto                      M             20         4:44.30  
+  Daniel Dracup                       M             14         4:44.90  
+  Jeremy Gardner                      M             34         4:49.90  
+  John Salva                          M             19         4:50.10  
+  Joelsen Resimo                      M             19         4:51.80  
+  Javier Martinez                     M             40         4:54.00  
+  Tim Clements                        M             18         4:56.50  
+  Jordon Hoffman                      M             19         5:01.10  
+  Jay Hubisz                          M             32         5:01.70  
+  Robert Dunham                       M             18         5:02.80  
+  Jason Jenks                         M             15         5:07.80  
+  Tim Wilcox                          M             45         5:08.50  
+  Garrett Fahey                       M             15         5:10.50  
+  Connor Cleveland                    M             18         5:16.20  
+  Xavier Marinaro                     M             18         5:18.90  
+  Curt Jewett                         M             17         5:21.40  
+  Michael Stewart                     M             19         5:27.60  
+  John Heath                          M             38         5:29.80  
+  Wayne Mason                         M             54         5:30.10  
+  Miles Mischke                       M             19         5:31.10  
+  Savannah Boucher                    F             19         5:32.50  
+  John Colson                         M             25         5:38.00  
+  Nate LaDue                          M             19         5:47.00  
+  Mary Bushallow                      F             40         5:47.80  
+  Stephanie Peck                      F             18         5:50.10  
+  Brendan O'Brien                     M             52         6:12.00  
+  Monica Salva                        F             17         6:18.00  
+  David van Wyk                       M             12         6:21.10  
+  David Dlugosz                       M             33         6:22.40  
+  Noah Hunt                           M             18         6:25.00  
+  Brandan LaDue                       M             13         6:31.30  
+  James Schools                       M             37         6:33.50  
+  Gerrit Van Loon                     M             50         6:35.00  
+  Gary McCheyne                       M             50         6:35.60  
+  Herb Engman                         M             66         6:38.00  
+  Zak Kiballa                         M             13         6:38.40  
+  Tristan Engst                       M             12         6:40.80  
+  Steve Halebsky                      M             57         7:10.10  
+  Evan Kurtz                          M             55         7:25.80  
+  Lindsay Barnes                      F             19         7:39.00  
+  Maria Costanzo                      F             53         7:45.80  
+  Peggy Dunham                        F             48         8:47.00  
+  Don Farley                          M             78        10:20.00  
+  Noah Heath                          M              6        10:40.90  

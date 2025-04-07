@@ -1,0 +1,26 @@
+                               2023-07-22                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Scott Weeks                         M              0         4:52.26  
+  Isaac Hendrickson                   M             14         5:19.61  
+  Alasdair Smith                      M             14         5:28.96  
+  Bill Thibault                       M             51         5:33.05  
+  Liz Hartman                         F             41         5:44.47  
+  Keith Eggleston                     M              0         5:57.74  
+  Shannon Oakes                       F              0         6:22.62  
+  Theo Cooper                         M             11         6:27.21  
+  Madison Tuttle                      F             15         6:39.23  
+  Julie Barclay                       F              0         6:39.85  
+  Ken Hodges                          M             70         6:44.12  
+  Jack Salisbury                      M             57         6:47.94  
+  Madigan White                       F             14         6:58.49  
+  Karl Granroth                       M              0         6:59.62  
+  Bryan Gorges                        M              0         7:01.26  
+  David Tsyrennikov                   M              9         7:04.26  
+  Adam Tomei                          M              8         7:18.47  
+  Annaliese Granroth                  F             11         8:27.77  
+  Oliver Clune                        M              7         8:30.29  
+  Layla Kehoe                         F              0         8:40.86  
+  David Chambers                      M              0         9:05.15  

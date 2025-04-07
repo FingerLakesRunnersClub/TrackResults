@@ -1,0 +1,60 @@
+                               2010-01-10                               
+                                  2mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Max Straneva                        M             17         9:48.00  
+  Ryan Gilmore                        M             20        10:08.90  
+  Chris Mason                         M             21        10:09.50  
+  Daniel Blackman                     M             19        10:23.70  
+  John Salva                          M             17        10:42.60  
+  Jeremy Gardner                      M             32        10:46.60  
+  Bob Nugent                          M             49        11:03.80  
+  Eric Choudhary                      M             23        11:07.40  
+  Matthew Johnson                     M             16        11:17.60  
+  Bruce Roebal                        M             53        11:18.00  
+  Curt Jewett                         M             15        11:18.30  
+  Joel Christian                      M             16        11:18.70  
+  Owen Kay                            M             15        11:19.90  
+  Ari Lewenstein                      M             15        11:19.90  
+  Kent Upham                          M             17        11:26.00  
+  Miles Mischke                       M             17        11:26.50  
+  Sean Nicholson                      M             45        11:27.40  
+  Sam Capozzi                         M             16        11:28.20  
+  Jeremy Gardner                      M             32        11:31.60  
+  Mark Rybinski                       M             54        11:33.70  
+  Matthew Aldridge                    M             37        11:37.20  
+  Michael Stewart                     M             17        11:37.30  
+  Sam Williams                        M             14        11:43.60  
+  Tim Ingall                          M             50        11:47.00  
+  Charity Walker                      F             26        11:47.30  
+  Bruce Roebal                        M             53        11:50.40  
+  Wayne Mason                         M             53        11:55.40  
+  Daniel Vandam                       M             16        12:01.10  
+  Robert Dunham                       M             16        12:01.20  
+  Susan Learn                         F             17        12:01.40  
+  Kyle Landin                         M             14        12:13.40  
+  Roger Learn                         M             54        12:14.10  
+  Leo Kolshorn                        M             36        12:25.10  
+  Dominic Catalano                    M             24        12:40.60  
+  Andy Jordan                         M             56        12:44.80  
+  Mary Bushallow                      F             38        12:47.30  
+  Ben Howard                          M             19        12:59.50  
+  Katie Stettler                      F             44        13:07.80  
+  Skip Strobel                        M             39        13:25.90  
+  Christopher Lavallee                M             32        13:44.50  
+  Ernie Bayles                        M             55        13:57.80  
+  Julie Staub                         F             29        14:10.80  
+  Melissa Hubisz                      F             29        14:35.30  
+  Melissa Hubisz                      F             29        14:35.30  
+  John Smillie                        M             56        14:46.20  
+  Henry Schneider                     M             35        14:49.10  
+  Lorrie Tily                         F             48        15:08.10  
+  Andy Roblyer                        M             40        15:26.00  
+  Martin Harms                        M             72        15:29.30  
+  David Johnson                       M             55        15:35.20  
+  Alyssa Goldman                      F             24        15:46.30  
+  Anna Deitcher                       F             10        16:00.70  
+  Anthony Guarner                     M             32        17:06.60  
+  James Miner                         M             61        18:12.30  
+  Dan Mittler                         M             69        18:13.60  

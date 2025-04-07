@@ -1,0 +1,73 @@
+                               2013-01-19                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Mike Egle                           M             51      
+  Stephen Chantry                     M             58      
+  Scott Weeks                         M             40         4:23.39  
+  Nick Berra                          M             43         4:29.12  
+  Lance Elliott                       M             42         4:32.92  
+  Kent Lemme                          M             46         4:38.87  
+  James Derick                        M             47         4:40.40  
+  Bill Zink                           M             52         4:51.33  
+  Vince Friel                         M             50         4:52.04  
+  Mike Nier                           M             48         4:53.24  
+  Jim Park                            M             46         4:53.81  
+  Earl Steinbrecher                   M             48         4:55.31  
+  Jerry Kooymans                      M             57         4:57.99  
+  Casey Carlstrom                     M             53         5:00.89  
+  Javier Martinez                     M             42         5:02.59  
+  Robert A. Liebers                   M             55         5:03.51  
+  Mark Rybinski                       M             57         5:06.86  
+  Nolan Shaheed                       M             63         5:07.54  
+  Charlie Andrews                     M             55         5:11.64  
+  Matt Aldrich                        M             40         5:12.26  
+  John Van Kerkhove                   M             51         5:12.92  
+  Gary Radford                        M             56         5:13.03  
+  Alisa Harvey                        F             47         5:17.55  
+  Caleb Rossiter                      M             61         5:23.73  
+  Donald Hughes                       M             55         5:24.32  
+  Neal Coffey                         M             51         5:24.99  
+  Tim Riccardi                        M             54         5:27.47  
+  Lorraine Jasper                     F             51         5:29.54  
+  Jill Vollweiler                     F             44         5:36.04  
+  Duncan Smith                        M             54         5:36.33  
+  Lori Kingsley                       F             46         5:36.58  
+  Jake Bigelow                        M             40         5:36.75  
+  Tim Ingall                          M             53         5:40.29  
+  Judith Stobbe                       F             47         5:40.52  
+  Gillian Haines-Sharp                F             50         5:51.40  
+  Joe Daley                           M             62         5:53.07  
+  Mary Swan                           F             51         5:53.40  
+  Joanne Singer                       F             52         5:55.05  
+  Suzanne Myette                      F             55         5:55.57  
+  Ted Paget                           M             61         5:57.81  
+  Kevin Kelly                         M             61         5:59.65  
+  Scott McIlvennie                    M             50         6:02.77  
+  Kim Kraebel                         F             44         6:03.68  
+  Michael Boggs                       M             53         6:04.57  
+  Carl Franck                         M             60         6:08.77  
+  Robert Bland                        M             60         6:08.81  
+  Patrick O'Connor                    M             53         6:13.67  
+  Rick Cleary                         M             56         6:15.44  
+  Coreen Steinbach                    F             61         6:15.73  
+  Steve Halebsky                      M             58         6:19.50  
+  Herb Engman                         M             67         6:19.75  
+  Jim Miner                           M             64         6:23.81  
+  Bill Quinlisk                       M             61         6:27.37  
+  Lorrie Tily                         F             51         6:37.38  
+  Tim Payne                           M             62         6:40.30  
+  Patti Ford                          F             57         6:47.44  
+  Fred Robbins                        M             58         6:58.06  
+  Rachel Harms                        F             49         7:10.57  
+  Joe Reynolds                        M             68         7:13.98  
+  Harland Bigelow                     M             66         7:14.91  
+  Mike Defio                          M             67         7:17.19  
+  Martin Harms                        M             75         7:31.36  
+  Kenneth Gordon                      M             70         7:39.53  
+  Mary Magoffin                       F             47         8:12.33  
+  Sandy Balling                       F             66         9:04.26  
+  Christa Maier                       F             72        10:24.13  
+  Ted Sullivan                        M             80        10:26.02  
+  Edna Hyer                           F             78        11:18.77  

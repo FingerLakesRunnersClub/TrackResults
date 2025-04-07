@@ -1,0 +1,18 @@
+                               2024-07-20                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David Shea                          M             17       40'08.00"  
+  Leander Boreland                    M             57       35'05.00"  
+  Eric McCord                         M             14       34'02.00"  
+  Talen Harrington                    M             17       28'06.50"  
+  Brody Williams                      M             17       27'10.00"  
+  Noah Miller                         M             14       26'10.00"  
+  Karl Granroth                       M             51       26'03.50"  
+  Tuuli Overturf                      F             25       26'01.00"  
+  Kristen Johnston                    F             17       25'09.00"  
+  Chloe Bishop                        F             13       22'01.00"  
+  Mason Vanetten                      M             10       16'01.00"  
+  Theodore Weeks                      M              8       15'03.00"  
+  Oliver Bishop                       M              8       12'06.00"  

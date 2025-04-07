@@ -1,0 +1,50 @@
+                               2023-03-12                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Paul Zimmer                         M              0         4:37.00  
+  Isaac Mazzeo                        M              0         4:38.00  
+  Ryan Lyppens                        M              0         4:42.00  
+  Alexander Simpson                   M             20         4:42.00  
+  Nasir King                          M              0         4:44.00  
+  Scott Weeks                         M              0         4:47.00  
+  William Mayhew                      M              0         4:49.00  
+  Mikhail Kern                        M             31         4:51.00  
+  Aaron Planty                        M             23         4:57.00  
+  Hunter Heyden                       M              0         4:59.00  
+  Jacob Revelo                        M              0         5:00.00  
+  Riki Sampson                        M              0         5:00.00  
+  Carter Naginey                      M              0         5:10.00  
+  Jay Hubisz                          M              0         5:19.00  
+  William Boscia                      M             14         5:20.00  
+  Aaron King                          M              0         5:22.00  
+  Gretel Hilson-Schneider             F              0         5:36.00  
+  Abel Aguilar                        M              0         5:38.00  
+  Sebastian Bartishevich              M             14         5:39.00  
+  William Shaw                        M              0         5:42.00  
+  Josh Plumeau                        M              0         5:43.00  
+  Alistair Hayden                     M              0         5:45.00  
+  Gary Williams                       M             58         6:01.00  
+  Liz Hartman                         F             40         6:06.00  
+  Ayoub Oulida                        M              0         6:14.00  
+  Charlie Wukovitz                    M             11         6:15.00  
+  Julie Hilson                        F              0         6:36.00  
+  Eddie Elias                         M             52         6:41.00  
+  Kate Hulsey                         F              0         6:46.00  
+  Ken Hodges                          M             70         6:47.00  
+  Jacob Smith                         M              0         6:48.00  
+  Maren Golden                        F              0         6:50.00  
+  Amalia Skilton                      F              0         6:51.00  
+  Lexi Strobel                        F             12         6:59.00  
+  Molly Doran                         F             11         7:07.00  
+  Alison Belcher                      F              0         7:12.00  
+  Tom Daly                            M              0         7:21.00  
+  Aurelia Comer                       F              0         7:31.00  
+  Maple Hubisz                        F             11         7:38.00  
+  Tonya Engst                         F              0         7:41.00  
+  Lauren Belcher                      F              0         7:43.00  
+  Hicham Oulida                       M              0         8:50.00  
+  Nour Oulida                         F              0         9:04.00  
+  Michelle Vanetten                   F              0         9:11.00  
+  Deborah Bliss                       F             75         9:14.00  

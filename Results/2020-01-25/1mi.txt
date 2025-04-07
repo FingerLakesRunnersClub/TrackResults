@@ -1,0 +1,81 @@
+                               2020-01-25                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Peter Brady                         M             48         4:36.65  
+  Dave Welsh                          M             42         4:45.49  
+  Kenneth Barbee                      M             55         4:51.19  
+  Jordan Varano                       M             40         4:52.24  
+  Ryan Mitchell                       M             53         4:52.28  
+  Jay Hubisz                          M             40         4:54.01  
+  Brian Lazzaro                       M             45         4:55.40  
+  Mike Nier                           M             55         4:56.42  
+  Tim Van Orden                       M             51         5:01.25  
+  Scott Grandfield                    M             54         5:05.69  
+  Joseph Mora                         M             58         5:11.88  
+  Mike Bronson                        M             48         5:12.04  
+  Dale Flanders                       M             54         5:13.63  
+  John McMahon                        M             53         5:14.03  
+  Brian Lee                           M             47         5:15.05  
+  David Westenberg                    M             62         5:15.34  
+  Steve Folsom                        M             40         5:16.10  
+  Casey Carlstrom                     M             60         5:16.69  
+  Ryan Niclasen                       M             41         5:21.04  
+  Walter Silbert                      M             49         5:23.42  
+  Scott Armstrong                     M             57         5:23.48  
+  Jean-Luc Jannink                    M             53         5:25.19  
+  Tristan Lambert                     M             43         5:29.35  
+  Neal Coffey                         M             58         5:29.46  
+  Dianne DeOliveira                   F             49         5:30.08  
+  Francis Burdett                     M             54         5:30.65  
+  Michelle Rohl                       F             54         5:34.70  
+  Peter Frazier                       M             41         5:36.71  
+  Robert Mozo                         M             57         5:36.98  
+  Alisa Harvey                        F             54         5:38.60  
+  Javier Martinez                     M             49         5:38.90  
+  Steven Vanek                        M             48         5:41.04  
+  Paul Langendoen                     M             45         5:41.80  
+  Timothy Riccardi                    M             61         5:43.84  
+  Richard McCutcheon                  M             60         5:44.73  
+  Amy Fakterowitz                     F             51         5:44.77  
+  Lorraine Jasper                     F             58         5:46.87  
+  Robert Swizdor                      M             54         5:51.02  
+  Mike Middendorf                     M             47         5:54.01  
+  Gary Williams                       M             55         5:55.94  
+  Joan Totaro                         F             47         5:56.57  
+  Susan Lynn Cooke                    F             61         5:57.77  
+  Gary Radford                        M             63         5:57.84  
+  Lynn Gottfried                      F             40         5:58.90  
+  Wakenda Tyler                       F             44         6:07.43  
+  Don Hughes                          M             62         6:11.86  
+  Julie Barclay                       F             46         6:12.36  
+  Mary Swan                           F             58         6:13.54  
+  Brenda Osovski                      F             53         6:13.81  
+  Julie Hayden                        F             60         6:16.91  
+  Jack Salisbury                      M             53         6:20.94  
+  Kristin White                       F             48         6:27.42  
+  Betsy Stewart                       F             56         6:31.23  
+  Sandra Gregorich                    F             57         6:31.86  
+  Ken Hodges                          M             66         6:34.66  
+  Arthur Stever                       M             44         6:41.03  
+  Seth Bergmann                       M             70         6:42.13  
+  Ted Paget                           M             68         6:43.32  
+  Spencer Hill                        M             54         6:47.77  
+  Tony Plaster                        M             68         6:50.41  
+  Kim Jackson                         F             51         6:52.29  
+  Coreen Steinbach                    F             68         6:53.46  
+  Colleen Magnussen                   F             59         6:55.93  
+  Tonya Engst                         F             52         7:01.41  
+  Robert Nolan                        M             59         7:03.62  
+  James Miner                         M             71         7:16.11  
+  Michele Pollio                      F             55         7:39.69  
+  Susan Devlin                        F             59         7:50.78  
+  Barbara Sauer                       F             71         7:56.07  
+  Oliver Habicht                      M             52         8:00.80  
+  Joseph Reynolds                     M             75         8:22.87  
+  Harland Bigelow                     M             73         9:08.44  
+  Karen Ellsworth                     F             57         9:48.17  
+  Sandy Balling                       F             73        10:56.45  
+  Edna Hyer                           F             85        13:42.99  
+  Dixon Hemphill                      M             95        25:02.28  

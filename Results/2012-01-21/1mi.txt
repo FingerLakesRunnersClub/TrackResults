@@ -1,0 +1,76 @@
+                               2012-01-21                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Charlie Kern                        M             42         4:28.16  
+  Kent Lemme                          M             45         4:32.74  
+  Kevin Forde                         M             48         4:39.99  
+  Mike Egle                           M             50         4:45.59  
+  Javier Martinez                     M             41         4:48.25  
+  Conor O'Driscoll                    M             50         4:48.47  
+  Peter Bottomley                     M             50         4:48.76  
+  William Zink                        M             51         4:49.05  
+  Sonja Friend-Uhl                    F             40         4:49.82  
+  Nolan Shaheed                       M             62         4:50.95  
+  Jim Paige                           M             50         4:52.59  
+  Joseph Mora                         M             50         4:57.00  
+  Mark Rybinski                       M             56         4:59.83  
+  Scott Bickham                       M             45         5:03.07  
+  Alisa Harvey                        F             46         5:05.95  
+  Gary Radford                        M             55         5:08.90  
+  Steve Brumwell                      M             53         5:13.11  
+  Robert Schwartz                     M             42         5:14.00  
+  Robert A. Liebers                   M             54         5:18.45  
+  Bernadine Pritchett                 F             44         5:19.68  
+  Katie Aldridge                      F             38         5:20.53  
+  Joe Daley                           M             61         5:22.88  
+  Sean Harbison                       M             51         5:23.56  
+  Marisa Strange                      F             48         5:24.05  
+  Caleb Rossiter                      M             60         5:24.10  
+  Jen Found                           F             41         5:24.56  
+  Tony Plaster                        M             60         5:24.87  
+  Audra Naujokas-Knapp                F             42         5:24.87  
+  Sean Bailey                         M             52         5:24.97  
+  Annie Bunting                       F             47         5:26.71  
+  Marty McLaughlin                    F             41         5:28.14  
+  Tim Riccardi                        M             53         5:31.01  
+  Lorraine Jasper                     F             50         5:36.09  
+  Harold J. Nolan                     M             64         5:37.59  
+  Tim Ingall                          M             52         5:42.16  
+  David Patterson                     M             60         5:42.36  
+  Julie Hankin                        F             47         5:42.65  
+  Robert Hanlon                       M             52         5:43.19  
+  Kevin Hanlon                        M             55         5:47.05  
+  Dave Hoch                           M             56         5:50.01  
+  Suzanne Myette                      F             54         5:50.69  
+  Brendan O'Brien                     M             52         5:53.51  
+  Kevin Kelly                         M             60         5:55.16  
+  Tim Payne                           M             61         6:09.40  
+  Coreen Steinbach                    F             60         6:11.01  
+  Kathy Haubrich                      F             52         6:16.73  
+  Jack Comiskey                       M             54         6:17.65  
+  Kim Kraebel                         F             43         6:18.05  
+  Herb Engman                         M             66         6:22.19  
+  Kathy Lundin                        F             53         6:22.58  
+  Lorrie Tily                         F             50         6:26.29  
+  Bill Quinlisk                       M             60         6:31.87  
+  Steve Halebsky                      M             57         6:32.07  
+  Lisa Abbott                         F             43         6:40.77  
+  Steve Burke                         M             62         6:41.52  
+  Fred Robbins                        M             57         6:46.86  
+  Carolyn Smith-Hanna                 F             61         6:57.22  
+  Harland Bigelow                     M             65         7:03.96  
+  Mike Defio                          M             66         7:04.76  
+  Joe Reynolds                        M             67         7:10.18  
+  Kenneth Gordon                      M             69         7:17.24  
+  Chris Klein                         F             47         7:18.25  
+  Margaret Reith                      F             48         7:21.58  
+  Martin Harms                        M             74         7:25.59  
+  Sam Graceffo                        M             75         7:47.41  
+  Sandy Balling                       F             65         8:45.93  
+  Richard Sullivan                    M             83         9:45.46  
+  Ted Sullivan                        M             79         9:58.42  
+  Don Farley                          M             78        10:17.39  
+  Edna Hyer                           F             77        11:18.59  
+  Don Hanlon                          M             89        13:16.84  

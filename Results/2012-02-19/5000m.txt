@@ -1,0 +1,47 @@
+                               2012-02-19                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Matthew Byrne                       M             36        15:30.50  
+  Kevin Barrelli                      M             29        15:30.70  
+  Aaron Wilkinson                     M             17        15:42.90  
+  Nick Scalfone                       M             26        15:54.20  
+  David McCarey                       M             22        15:58.70  
+  Jason Bohenek                       M             22        15:59.00  
+  Zachary Despreaux                   M             18        16:27.80  
+  Josh Schultheis                     M             23        17:09.20  
+  John Salva                          M             19        17:43.00  
+  Damian Archie                       M             19        17:57.60  
+  Miles Mischke                       M             20        18:13.90  
+  Jon Murray                          M             34        18:52.20  
+  Caitlin Sullivan                    F             22        19:04.00  
+  Kathleen Druther                    F             21        19:19.30  
+  Bruce Roebal                        M             55        19:37.40  
+  Brendan O'Brien                     M             52        20:03.40  
+  John Heath                          M             38        20:07.10  
+  Anne Elise Creamer                  F             21        20:10.10  
+  Shane Eversfield                    M             54        20:40.70  
+  Scott Williams                      M             50        20:55.90  
+  Skip Strobel                        M             41        21:10.20  
+  Lynann Lorenz                       F             32        21:40.30  
+  Andy Roblyer                        M             42        21:50.90  
+  Joel Cisne                          M             30        21:54.30  
+  Gerrit Van Loon                     M             50        22:11.50  
+  Katie Stettler                      F             46        22:15.90  
+  Jorge Chavez                        M             20        23:57.50  
+  Thomas Farlow                       M             41        23:59.70  
+  Les Buchanan                        M             48        24:01.00  
+  Alexandra Bothner                   F             20        24:06.70  
+  Sandy Fitterer                      F             52        24:28.90  
+  Terry Mattice                       M             53        24:51.30  
+  Maria Costanzo                      F             53        25:04.00  
+  Toru Yamada                         M             35        25:27.80  
+  Noah Mattice                        M             11        25:38.50  
+  Dave Talcott                        M             51        25:43.30  
+  Brad Treat                          M             40        25:52.50  
+  Richard Thomson                     M             53        28:00.30  
+  Amanda Shenstone                    F             54        28:31.70  
+  Pete Salino                         M             54        28:50.90  
+  Karen Salino                        F             52        29:34.70  
+  Naomi Yamada                        F             38        33:09.60  

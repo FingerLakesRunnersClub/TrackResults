@@ -1,0 +1,32 @@
+                               2025-03-16                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Samuel Breckenridge                 M             26         9:22.00  
+  Gabriel Diamante                    M             17         9:27.00  
+  Gavin Bowers                        M             20         9:38.00  
+  Christopher Petroff                 M             32         9:51.00  
+  Johnny Schellenger                  M             35         9:52.00  
+  Ryan Wiese                          M             19         9:55.00  
+  Eric Dehart                         M             21         9:56.00  
+  Ethan Cossette                      M             18        10:22.00  
+  Nasir King                          M             20        10:42.00  
+  Emily Miller                        F             22        10:44.00  
+  Ben Hutton                          M             26        11:03.00  
+  Trey Brock                          M             14        11:08.00  
+  Ernest Ng                           M             24        11:12.00  
+  Liz Hartman                         F             42        11:14.00  
+  Alden Morseman                      M             12        11:16.00  
+  Nick King                           M             15        11:23.00  
+  Mason Forer                         M             15        11:31.00  
+  Samuel Miller                       M             19        11:34.00  
+  Erica Griffin                       F             21        11:35.00  
+  Jeremiah Gloss                      M             14        11:50.00  
+  Zoey Lang                           F             14        11:53.00  
+  Laura Powers                        F             18        12:00.00  
+  Christopher Ruston                  M             59        12:12.00  
+  Brian Harrington                    M             60        12:24.00  
+  Lexi Strobel                        F             14        12:35.00  
+  William Miller                      M             11        12:47.00  
+  Amalia Skilton                      F             32        13:21.00  

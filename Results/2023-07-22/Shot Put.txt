@@ -1,0 +1,28 @@
+                               2023-07-22                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Zach Elliott                        M              0       44'11.50"  
+  Ryan Oleksy                         M              0       39'02.00"  
+  Sean Shea                           M              0       34'00.00"  
+  David Shea                          M              0       33'00.25"  
+  Brody Williams                      M             16       32'10.25"  
+  Janice Carter                       F              0       23'11.50"  
+  Jennifer Jones                      F              0       23'06.50"  
+  Brian Belcher                       M              0       20'09.50"  
+  Landon Dryja                        M              0       18'05.75"  
+  Patrick Milano                      M             33       17'07.75"  
+  Braylee Reynolds                    F              0       17'03.00"  
+  Arianna Gaynor                      F              0       15'10.75"  
+  Mason Vanetten                      M              0       14'09.25"  
+  Walter Waring                       M              9       14'07.50"  
+  Brady Baker                         M             10       12'03.00"  
+  Natalie Blackmur                    F             10       12'01.50"  
+  Oliver Moll                         M              0       11'11.50"  
+  Archer Loomis                       M              6        9'04.50"  
+  Danylo Tsyrennikov                  M              6        8'04.00"  
+  Connor Baker                        M              7        8'01.00"  
+  Liesl Moll                          F              0        8'00.25"  
+  Nikola Vosloo                       F              8        5'10.00"  
+  Matilda Thrash                      F              5        4'07.00"  

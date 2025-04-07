@@ -1,0 +1,38 @@
+                               2016-01-17                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Dan Schaffer                        M              0        15:36.00  
+  Einar Olafsson                      M              0        16:30.00  
+  David Rappleyea                     M              0        16:40.00  
+  Alexander Looi                      M              0        16:45.00  
+  James Davenport                     M              0        17:30.00  
+  Douglas MacLean                     M              0        17:38.00  
+  Chris Mason                         M              0        17:40.00  
+  Aidan Perry                         M              0        17:45.00  
+  Keegan Beard                        M              0        17:51.00  
+  Ian Wilkie Tomasik                  M              0        18:00.00  
+  Ved Gund                            M              0        18:37.00  
+  Mike Bronson                        M              0        18:42.00  
+  Gary Radford                        M              0        18:47.00  
+  Phil Kwasney                        M              0        18:57.00  
+  Jason Husted                        M              0        19:44.00  
+  Pete Kresock                        M              0        20:06.00  
+  Joe Mora                            M              0        20:48.00  
+  Kristy Scordino                     F              0        20:54.00  
+  Robert Swizdor                      M              0        21:00.00  
+  Howard Iseri                        M              0        21:02.00  
+  John Heath                          M              0        21:04.00  
+  Katie Stettler                      F              0        21:31.00  
+  Brendan O'Brien                     M              0        21:46.00  
+  Mark Rybinski                       M              0        22:06.00  
+  Gerrit Van Loon                     M              0        22:17.00  
+  Miles Mischke                       M              0        22:40.00  
+  Skylar Pierce                       F              0        22:42.00  
+  Collin Hauptman                     M              0        24:27.00  
+  Tom Powers                          M              0        24:55.00  
+  Katie Hale                          F              0        25:42.00  
+  AJ Gruttadauro                      M              0        25:43.00  
+  Dave Talcott                        M              0        26:01.00  
+  Stephanie Krusch                    F              0        29:48.00  

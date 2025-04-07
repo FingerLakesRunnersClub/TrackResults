@@ -1,0 +1,58 @@
+                               2024-03-10                               
+                                  400m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Ryan Lyppens                        M             19           52.27  
+  Riki Sampson                        M             21           52.80  
+  Adam Schaban                        M             18           53.43  
+  Ross Bush                           M             15           53.84  
+  Sergio Lopez                        M             20           54.39  
+  Anderson Adu-Poku                   M             19           54.59  
+  Akash Munshi                        M             19           54.75  
+  Kyren Young                         M             17           55.15  
+  Scott Weeks                         M             52           56.68  
+  Aidan Tierney                       M             24           58.32  
+  Cedric Miller                       M             17           58.91  
+  Daniel Stark                        M             38         1:00.75  
+  Tim Phelps                          M             32         1:01.15  
+  Dave Cook                           M             40         1:03.29  
+  Michael Greene                      M             45         1:04.61  
+  Robert Mozo                         M             61         1:05.16  
+  David Herbert                       M             32         1:05.74  
+  Lauren Rogers                       F             21         1:07.36  
+  Ian Fromme                          M             13         1:08.20  
+  Derran Morris                       M             15         1:08.20  
+  Curt Mancuso                        M             60         1:09.95  
+  Isaac Ballard                       M             13         1:12.50  
+  Matthew Dore                        M             48         1:16.13  
+  Bryan Gorges                        M             38         1:20.87  
+  Coreen Steinbach                    F             72         1:23.82  
+  Annaliese Granroth                  F             12         1:24.50  
+  Rebecca Elias                       F             51         1:24.80  
+  Debra Cane                          F             48         1:25.22  
+  Petra Wells                         F             11         1:25.77  
+  Maxx Brown                          M             10         1:25.80  
+  Indie Gabriel                       F             11         1:25.94  
+  Alex Dietrich                       F             44         1:26.32  
+  Adam Tomei                          M              9         1:26.82  
+  Mark Rybinski                       M             68         1:26.93  
+  Elliott Yonker                      M              8         1:27.27  
+  Steven Clark                        M             70         1:28.05  
+  Layne Johnson                       M              7         1:29.69  
+  Adaline Jackson                     F              9         1:31.90  
+  Charlie Thomas                      M             10         1:31.94  
+  Ken Hodges                          M             71         1:32.67  
+  Charlotte Cappadora                 F              9         1:32.92  
+  Eloise Olney                        F              9         1:35.78  
+  Ora Brown                           F              8         1:39.25  
+  Theia Jordan-Lewis                  F              9         1:39.42  
+  Beck Apker                          M              7         1:44.53  
+  Conor Desantis                      M             13         1:44.65  
+  Oliver Moll                         M              9         1:54.40  
+  Simon Woods                         M              8         1:56.29  
+  Jacinta Ramirez                     F             48         1:58.16  
+  Ella Jones                          F              6         2:14.57  
+  Owen King                           M              4         2:25.68  
+  Lucy Jones                          F              4         2:32.34  
+  Rose Jones                          F              4         2:36.97  

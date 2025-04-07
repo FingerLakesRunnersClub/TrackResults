@@ -1,0 +1,56 @@
+                               2013-03-17                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Matthew Hall                        M             25         4:39.10  
+  Tim Clements                        M             20         4:45.50  
+  James Felice                        M             16         4:46.30  
+  David Sammel                        M             18         4:49.10  
+  Parrish Bridges                     M             16         4:52.30  
+  Kristian Clemens                    M             20         4:53.70  
+  Alex Looi                           M             24         4:54.40  
+  Alex O'Reilly                       M             16         5:01.80  
+  Charles Baseem                      M             19         5:02.00  
+  Ethan Elliot                        M             15         5:08.90  
+  Steve Desmond                       M             28         5:14.90  
+  John Woodworth                      M             16         5:26.30  
+  Alex Berry                          M             15         5:31.00  
+  Neil Clifford                       M             42         5:31.30  
+  Tom Hartshorne                      M             59         5:37.40  
+  Miles Mischke                       M             21         5:42.20  
+  Eric Berry                          M             12         5:44.20  
+  Ryan Berry                          M             15         5:47.40  
+  Robert Berry                        M             39         5:56.90  
+  Mary Bushallow                      F             41         6:05.60  
+  Tanner Erdman                       M             13         6:08.00  
+  Brendan O'Brien                     M             53         6:12.70  
+  Michael Krueger                     M             12         6:14.60  
+  Alivia Collins                      F             12         6:15.80  
+  Carl Franck                         M             60         6:16.00  
+  Cleo Baker                          F             11         6:16.30  
+  David Jung                          M             53         6:19.00  
+  Coreen Steinbach                    F             61         6:19.30  
+  Gerrit Van Loon                     M             51         6:19.50  
+  Noah Mattice                        M             12         6:41.50  
+  Kira Novakofski                     F             29         6:43.90  
+  Joseph Bruce                        M             11         6:51.60  
+  Ginny Clifford                      F             11         6:53.70  
+  Hodrin Kamnang                      M             11         6:59.10  
+  Jackson Berry                       M              9         6:59.70  
+  Travion Brooks                      M             10         7:05.90  
+  Scott Erdman                        M             45         7:08.30  
+  Kameron McBean                      M             10         7:09.10  
+  Jaxyn Mahony                        M              6         7:09.50  
+  Andrew Schaefer                     M             25         7:13.70  
+  Angelea Collins                     F             11         7:17.10  
+  Victoria Collins                    F              9         7:17.40  
+  Estrel Kamnang                      F             10         7:29.40  
+  Caroline Rasmussen                  F             54         7:36.90  
+  McKenna Bushallow                   F              7         7:37.20  
+  Cassandra Collins                   F              7         7:37.70  
+  Geoff Bruce                         M             46         7:38.30  
+  Kaitlin Cook                        F             13         7:57.20  
+  Leah Middleton                      F              7         8:01.80  
+  Cheryl Welsh                        F             47         8:25.80  
+  Mark Welsh                          M             48         8:26.00  

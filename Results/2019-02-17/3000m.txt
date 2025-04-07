@@ -1,0 +1,62 @@
+                               2019-02-17                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Sam Lagasse                         M             24         9:10.33  
+  Ryan Buzby                          M             19         9:21.70  
+  James Felice                        M             22         9:23.26  
+  Ethan Seltzer                       M             21         9:29.14  
+  Paul Zimmer                         M             17         9:30.09  
+  Steve Esposito                      M             29         9:45.60  
+  Jordan Varano                       M             39        10:06.89  
+  Benjamin Vargas                     M             17        10:15.90  
+  Thomas Kressly                      M             16        10:16.73  
+  Nathaniel Diamond                   M             20        10:20.39  
+  Mike Bronson                        M             47        10:24.35  
+  Dale Flanders                       M             53        10:26.51  
+  Derek Hutchings                     M              0        10:31.66  
+  Sam Bickham                         M              0        10:34.53  
+  Eric Stamer                         M              0        10:34.74  
+  Andy McCabe                         M              0        10:40.45  
+  Max Hendricks                       M              0        10:41.97  
+  Anthony Cruz                        M              0        10:46.02  
+  Jonathan Sherwood                   M             16        10:47.34  
+  Aaron Perry                         M             34        10:48.06  
+  Amrita Ramamurthy                   F             21        10:50.88  
+  Aidan O'Dowd                        M              0        10:53.26  
+  Jed Sheckler                        M             40        10:57.26  
+  Ian McHugh                          M              0        11:02.67  
+  Andrew Norton                       M             25        11:09.31  
+  Max Lyman                           M              0        11:30.30  
+  Timothy Riccardi                    M             60        11:36.13  
+  Colin McCarthy                      M              0        11:43.51  
+  Evan Ormsby                         M              0        11:48.22  
+  Owen Braun                          M              0        11:56.39  
+  Rylee Campeau                       F             17        12:08.16  
+  Joan Mattle                         F              0        12:10.00  
+  Steve Van Hoof                      M              0        12:11.07  
+  Nicholas Funk                       M              0        12:13.07  
+  Jared Anderson                      M              0        12:18.36  
+  Veronica Dailey                     F             18        12:19.39  
+  Luke Monteiro                       M              0        12:19.77  
+  Seth Ormsby                         M              0        12:21.38  
+  Gerrit Van Loon                     M             57        12:25.82  
+  Mary Swan                           F             57        12:27.91  
+  Spencer Cadley                      M              0        12:34.85  
+  Hunter Flamm                        M              0        12:35.05  
+  Adam Nasta                          M              0        12:45.95  
+  Cleo Kyriakides                     F              0        12:53.71  
+  Janak Judd                          M              0        12:56.05  
+  Andrew Wilson                       M              0        12:56.30  
+  Cameron Flamm                       M              0        12:57.12  
+  Reuben MacNaughton                  M              0        12:59.37  
+  Ashley Stalnacker                   F             20        13:02.00  
+  Sara Bronson                        F              0        13:06.01  
+  Izzy Callen                         F             20        13:06.90  
+  Ethan Maines                        M              0        13:16.83  
+  Lucas Greenway                      M              0        13:46.03  
+  Devin McQuillan                     F             21        13:48.67  
+  Andrea White                        F             20        13:56.40  
+  Max Sheiman                         M              0        14:17.23  
+  Beth Vargas                         F             56        16:44.74  

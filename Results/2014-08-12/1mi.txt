@@ -1,0 +1,20 @@
+                               2014-08-12                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Hautahi Kingi                       M              0         5:12.00  
+  Mitchell Ishmael                    M              0         5:33.00  
+  Matt McGranaghan                    M              0         5:50.00  
+  Nathan Wilsoncroft                  M              0         6:11.00  
+  Brendan O'Brien                     M              0         6:21.00  
+  Jaxyn Mahoney                       M              0         6:28.00  
+  Angelea Collins                     F              0         6:29.00  
+  Hannah Bliss                        F              0         6:32.00  
+  Greg Nached                         M              0         6:54.00  
+  Madeline Burns                      F              0         7:22.00  
+  Victoria Collins                    F              0         7:28.00  
+  Mina Funaba-O'Brien                 F              0         7:28.00  
+  Cassandra Collins                   F              0         7:30.00  
+  Lydia Keys                          F              0         7:37.00  
+  Freddie Collins                     M              0         8:34.00  

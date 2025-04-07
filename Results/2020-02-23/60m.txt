@@ -1,0 +1,40 @@
+                               2020-02-23                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Nicholas Abdo                       M             19            6.84  
+  Roosevelt Lee                       M             24            6.96  
+  Silas Wagaman                       M             18            7.02  
+  Ryan Aguilar                        M             19            7.27  
+  Rob Ostrander                       M              0            7.51  
+  Steve Van Hoof                      M              0            7.72  
+  Evan Ormsby                         M             20            7.85  
+  Collin Gaylord                      M              0            8.20  
+  Justin Pizano                       M             20            8.25  
+  James Saunders                      M              0            8.28  
+  Makenna Keough                      F             13            8.41  
+  Reuben MacNaughton                  M             20            8.48  
+  Lauren White                        F             17            8.85  
+  Sander Bertsch                      M             15            9.03  
+  Joe Ollerenshaw                     M             18            9.09  
+  Peter Jones                         M             13            9.15  
+  Gregory Homa                        M             12            9.68  
+  Abigail Wagner                      F              0            9.69  
+  Conor DeSantis                      M             10           10.05  
+  Jasmine Wagner                      F              0           10.38  
+  Ange Talbot                         F             15           10.56  
+  Arihaan Bhargava                    M              6           10.75  
+  Jaxon Vang                          M              0           10.84  
+  Elsa Wood                           F              0           10.97  
+  Annika Wood                         F              8           11.01  
+  Anna Gasper                         F              7           11.16  
+  Pierce Terwilliger                  M              9           12.00  
+  GG King                             F              6           12.20  
+  Rowan DeSantis                      F              6           12.52  
+  Ada Mueller                         F              5           13.47  
+  Ceci Hilgendorf                     F              5           13.99  
+  David Baker                         M             65           15.84  
+  Matt Hartman                        M              7           18.07  
+  Wolf Hohm                           M              4           22.03  
+  Jude Heffron                        M              2           56.36  

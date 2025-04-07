@@ -1,0 +1,67 @@
+                               2013-02-17                               
+                                 1500m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Curt Jewett                         M             18         4:10.60  
+  Andrew Brusso                       M             23         4:12.90  
+  Cal Randle                          M             18         4:19.20  
+  Jared Moore                         M             15         4:21.70  
+  Dave Cook                           M             29         4:23.70  
+  Paul LaBelle                        M             18         4:28.50  
+  Peter Kane                          M             15         4:30.70  
+  Brian Bates                         M             15         4:31.50  
+  Parrish Bridges                     M             16         4:32.00  
+  John McCarthy                       M             17         4:39.00  
+  Michael Lam                         M             23         4:39.80  
+  Kristian Clemens                    M             20         4:40.00  
+  Shawn Horan                         M             31         4:40.00  
+  Kyle Perry                          M             16         4:40.80  
+  Robin Vanhoutte                     M             18         4:42.80  
+  Patrick Feeney                      M             16         4:43.10  
+  Jacob Yatsko                        M             16         4:43.20  
+  Steven Rando                        M             16         4:43.70  
+  Ben Cardamone                       M             14         4:44.70  
+  Ben Sullivan                        M             16         4:51.70  
+  Brooks Gleckner                     M             18         4:54.10  
+  Jon Murray                          M             35         4:58.00  
+  Anthony Nardone                     M             15         5:05.00  
+  Jessica Thatcher                    F             16         5:07.20  
+  Jessica Lawson                      F             14         5:12.10  
+  Anthony Feocco                      M             17         5:13.80  
+  Austin Bolus                        M             15         5:14.20  
+  Andrew Gross                        M             33         5:16.80  
+  Trish Horan                         F             27         5:17.50  
+  Mike Everett                        M              0         5:20.00  
+  Mia Bates                           F             16         5:25.00  
+  Owen Juan                           M             12         5:27.40  
+  Brody Hayes Glick                   M             11         5:29.00  
+  Gerrit Van Loon                     M             51         5:29.40  
+  Emily Carr                          F             16         5:32.40  
+  Alexis Wheeler                      F             14         5:39.50  
+  Carl Franck                         M             60         5:43.70  
+  Greg Schutrum                       M             46         5:46.40  
+  Megan Moran                         F             16         5:50.60  
+  Britton Cook                        M             12         5:53.50  
+  Cleo Baker                          F             11         5:54.80  
+  Tanner Erdman                       M             13         5:57.70  
+  David Baker                         M             49         6:00.70  
+  Faithe Ketchum                      F              8         6:07.20  
+  Brendan O'Brien                     M             53         6:16.10  
+  Noah Mattice                        M             12         6:16.70  
+  Terry Mattice                       M             54         6:21.80  
+  Michaela Dunham                     F             16         6:27.50  
+  Hodrin Kamnang                      M             11         6:28.60  
+  Victoria Collins                    F              9         6:29.60  
+  Scott Erdman                        M             45         6:30.80  
+  Luke Johns                          M              8         6:36.10  
+  Erin Talcott                        F             34         6:42.50  
+  Dave Talcott                        M             52         6:47.40  
+  Chris Bodary                        M             42         6:52.40  
+  Cassandra Collins                   F              7         6:58.10  
+  Melissa Gingrich                    F             42         6:58.50  
+  Maddy Wozniak                       F             13         6:59.50  
+  Wayne Dunham                        M             50         7:03.10  
+  Alexis Johns                        F             11         7:10.60  
+  Tracy O'Reilly                      F             44         7:17.60  
+  Alexis VanOsdol                     F             17         7:51.50  

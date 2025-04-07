@@ -1,0 +1,26 @@
+                               2012-01-15                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Andris Goncarovs                    M             19         9:22.80  
+  John Salva                          M             19         9:56.60  
+  Connor Cleveland                    M             18        10:22.80  
+  Ari Lewenstein                      M             17        10:24.20  
+  Adam Engst                          M             44        10:43.80  
+  Caitlin Sullivan                    F             22        11:03.30  
+  Sam Sauer                           F             16        11:18.10  
+  Tom Crowley                         M             58        11:28.60  
+  Michael Stewart                     M             19        11:48.10  
+  John Heath                          M             38        11:48.40  
+  Suzanne Myette                      F             54        11:49.70  
+  Miles Mischke                       M             19        12:00.60  
+  Brendan O'Brien                     M             52        12:07.20  
+  Allison Page                        F             16        12:18.10  
+  Coreen Steinbach                    F             60        12:26.80  
+  Kodi Woodard                        M             17        12:37.30  
+  Monica Salva                        F             17        12:55.60  
+  Herb Engman                         M             66        13:46.10  
+  Maria Costanzo                      F             53        14:35.50  
+  David Traub                         M             50        14:38.50  
+  Joe Reynolds                        M             67        16:21.70  

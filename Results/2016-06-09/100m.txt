@@ -1,0 +1,52 @@
+                               2016-06-09                               
+                                  100m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Peter Sigona                        M              0           11.84  
+  Harrison Lynch                      M              0           12.36  
+  Nicolas Templier                    M              0           12.56  
+  John McEachen                       M              0           12.76  
+  Zachary Lanphere                    M              0           12.95  
+  Maddie Schattinger                  F              0           13.95  
+  Jiri Pisansky                       M              0           13.96  
+  Raphael Palacio                     M              0           14.40  
+  Justin Holzlein                     M              0           14.75  
+  Leila Vargas                        F              0           14.87  
+  Gabriel Palacio                     M              0           15.05  
+  Owen Thorpe                         M              0           15.28  
+  Kent Schneider                      M              0           15.41  
+  Marcus Homa                         M              0           15.44  
+  Isabella Caracci                    F              0           15.46  
+  Jade Lowe                           F              0           15.67  
+  Emma Frost                          F              0           16.06  
+  Emma Sutton                         F              0           16.17  
+  Carolyn Heckle                      F              0           16.35  
+  Alexis Krohmalney                   F              0           16.42  
+  Samuel Segal                        M              0           16.53  
+  Noah Ruffer                         M              0           16.97  
+  James Saunders                      M              0           17.15  
+  Michael Buchholz                    M              0           17.26  
+  Lucy Theetge                        F              0           17.28  
+  Rui Feng                            F              0           17.30  
+  Madelyn Palm                        F              0           17.82  
+  Ethan Jiang                         M              0           17.88  
+  Gregory Homa                        M              0           17.92  
+  Sibby Lowe                          F              0           17.98  
+  Mary Black                          F              0           18.30  
+  Alexander Littrell                  M              0           18.40  
+  Hugo Templier                       M              0           19.65  
+  Freddie Collins                     M              0           20.48  
+  Alivia Lunger                       F              0           20.65  
+  Peter Black                         M              0           20.70  
+  Christopher Lawson                  M              0           21.60  
+  Claire Ruffer                       F              0           22.32  
+  Adriana Alonzo                      F              0           22.63  
+  Arthur Buchholz                     M              0           23.70  
+  Quintin Crandall                    M              0           26.25  
+  Sophie Templier                     F              0           26.79  
+  Abbi McCausland                     F              0           27.03  
+  Elizabeth Brown                     F              0           27.52  
+  Elizabeth Black                     F              0           32.20  
+  Nicholas Littrell                   M              0           38.49  
+  Alice Mou                           F              0         1:34.10  

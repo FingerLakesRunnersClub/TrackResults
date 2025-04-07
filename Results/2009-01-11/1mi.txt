@@ -1,0 +1,54 @@
+                               2009-01-11                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Max Straneva                        M             16         4:39.00  
+  James Derick                        M             43         4:46.80  
+  Earl Steinbrecher                   M             44         4:48.00  
+  John Gammariello                    M             19         4:56.50  
+  Daniel Stackman                     M             16         4:56.60  
+  Jeremy Gardner                      M             31         4:56.90  
+  Geza Geleji                         M             25         4:58.20  
+  Casey Carlstrom                     M             49         5:01.10  
+  Chad Noelle                         M             15         5:04.70  
+  Adrian Milisavljevich               M             18         5:05.50  
+  Anna Mapes                          F             17         5:09.80  
+  Jeff Smith                          M             18         5:10.80  
+  Jordan Atlas                        M             28         5:16.40  
+  Daniel Blackman                     M             18         5:17.80  
+  Chance Cook                         M             16         5:24.00  
+  Greg Wheeler                        M             29         5:24.30  
+  Colin Raymond                       M             16         5:24.40  
+  Aaron Spencer                       M             16         5:25.50  
+  Mark Rybinski                       M             53         5:28.10  
+  Keegan Coughlin                     M             16         5:30.30  
+  Tim Ingall                          M             49         5:33.20  
+  Scot Jacobs                         M             33         5:38.00  
+  Ben Yavitt                          M             17         5:46.70  
+  Robert Dunham                       M             15         5:47.40  
+  Lynann Lorenz                       F             29         5:55.50  
+  Ari Lewenstein                      M             14         5:57.20  
+  Miles Mischke                       M             16         5:57.40  
+  Alexis Fairbanks                    F             17         5:57.80  
+  Alex Spencer                        M             19         5:58.00  
+  Scott McIlvennie                    M             46         6:02.30  
+  David Franck                        M             14         6:03.30  
+  Carl Franck                         M             56         6:07.30  
+  Kate Ciccone                        F             23         6:12.30  
+  Herb Engman                         M             63         6:27.60  
+  James Miner                         M             60         6:32.20  
+  Dana Schmidt                        F             14         6:43.10  
+  Jonathan Davis                      M             18         6:46.90  
+  Hillary Smith                       F             18         6:49.80  
+  Lorrie Tily                         F             47         6:51.70  
+  Sophia Franck                       F             15         7:00.40  
+  Monica Salva                        F             14         7:05.80  
+  Bryce Derick                        M              7         7:05.90  
+  Susan Stage-Derick                  F             43         7:10.60  
+  Joe Reynolds                        M             64         7:12.80  
+  Cathy Fairbanks                     F             44         7:14.00  
+  Juliet Borden                       F              8         7:47.80  
+  Evan Kurtz                          M             52         8:39.60  
+  Marilyn Williams                    F             74        10:33.70  
+  Holly Dunham                        F              6        13:39.80  

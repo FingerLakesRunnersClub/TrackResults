@@ -1,0 +1,35 @@
+                               2023-06-27                               
+                                  200m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Michael Durski                      M             19           22.42  
+  Kyren Young                         M             16           23.77  
+  Tristin Weeks                       M              0           24.30  
+  Aidan Tierney                       M              0           25.11  
+  Matthew Funicelli                   M             23           25.92  
+  Colton Francemone                   M              0           25.98  
+  Matty Lucey                         F              0           27.43  
+  Derran Morris                       M              0           27.78  
+  Jarryd Witzel                       M             14           29.88  
+  Kathleen Sullivan                   F             16           30.65  
+  Selena Rollins                      F             12           31.08  
+  Paceyn O'Grady Specht               F             14           31.57  
+  Jacob Jandrokovic                   M              0           32.64  
+  Serenity Rollins                    F             12           32.76  
+  Madelyn Weeks                       F              0           35.67  
+  Arden Millspaugh                    M              9           37.30  
+  Lily DeMont                         F             11           37.50  
+  Mendel Birk                         M              0           38.49  
+  David Tsyrennikov                   M              9           39.19  
+  Rasa Warren                         F              9           39.53  
+  Danylo Tsyrennikov                  M              6           40.25  
+  Adaline Jackson                     F              9           40.50  
+  Esti Birk                           F              0           40.82  
+  Nina DeMont                         F              7           41.22  
+  Bentley Morris                      M              0           45.76  
+  Devorah Birk                        F              0           46.20  
+  Amelia Jackson                      F              6           46.34  
+  Nadiia Urazgildiieva                F              7           46.34  
+  Yisroel Birk                        M              0           49.97  
+  Yaakov Juni                         M              0           50.11  

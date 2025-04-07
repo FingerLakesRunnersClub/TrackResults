@@ -1,0 +1,40 @@
+                               2019-07-23                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Sam Lagasse                         M             25         4:25.00  
+  Adam Pacheck                        M             27         4:27.00  
+  Rich Heffron                        M             36         4:40.00  
+  Sean Dunn                           M             26         4:43.00  
+  Mikhail Kern                        M             28         4:44.00  
+  Jared Smith                         M             15         4:47.00  
+  Mohamad Alsabbagh                   M             29         4:52.00  
+  Adam Berkowitz                      M             23         4:53.00  
+  Jason Jenks                         M             22         5:14.00  
+  David Kania                         M             39         5:23.00  
+  Miles Baroody                       M             13         5:26.00  
+  Keegan Brady                        M             13         5:34.00  
+  Aaron King                          M             35         5:46.00  
+  Chris Howard                        M             13         5:53.00  
+  Chris Rogers                        M             35         5:54.00  
+  Noah Hilker                         M             12         5:55.00  
+  Elizabeth Baroody                   F             13         5:57.00  
+  Maggie Houp                         F             11         6:05.00  
+  Kyleen Brady                        F             11         6:09.00  
+  Sean Ringwood                       M             10         6:09.00  
+  Amanda King                         F             32         6:10.00  
+  Grace Hilker                        F             10         6:13.00  
+  Doug McKee                          M             50         6:19.00  
+  Oliver Lambert                      M             14         6:20.00  
+  Tsadia Lanwick Bercuvitz            F             10         6:32.00  
+  Daniel Dedrick                      M              0         6:35.00  
+  James Mou                           M             11         6:47.00  
+  John Hummel                         M             62         6:49.00  
+  Abigail Wagner                      F              0         6:53.00  
+  Lucius Dann                         M             13         7:06.00  
+  Corinne DeFilippo                   F             12         7:06.00  
+  Gregory Homa                        M             12         7:13.00  
+  James Miner                         M             70         7:57.00  
+  Charlie Brazier                     M             10         8:28.00  
+  Annaliese Granroth                  F              7         8:43.00  

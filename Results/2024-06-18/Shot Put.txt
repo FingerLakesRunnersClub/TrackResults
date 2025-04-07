@@ -1,0 +1,17 @@
+                               2024-06-18                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Matt Funicelli                      M             24       47'02.50"  
+  Kevin Vigneault                     M             17       40'07.50"  
+  Dominick Smith                      M             17       37'05.50"  
+  David Shea                          M             16       36'08.00"  
+  Leander Boreland                    M             57       36'00.50"  
+  Kristen Johnston                    F             17       28'08.00"  
+  Mateus Blakeslee                    M             16       28'05.25"  
+  Nathan Fromme                       M             16       28'04.75"  
+  Talen Harrington                    M             17       24'07.50"  
+  Ariana Hillery                      F             13       24'06.75"  
+  Reese Brockway                      F             16       23'11.50"  
+  Brian Bernard                       M             14       21'11.50"  

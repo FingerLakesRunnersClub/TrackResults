@@ -1,0 +1,19 @@
+                               2025-01-12                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Jordan Brouk                        M             35        16:55.00  
+  Christopher Petroff                 M             31        17:03.00  
+  Johnny Schellenger                  M             35        17:32.00  
+  Lorenzo Christian                   M             17        17:51.00  
+  Tim Phelps                          M             33        18:12.00  
+  Emily Miller                        F             22        18:21.00  
+  Mason Wulff                         M             17        18:33.00  
+  Ethan Cossette                      M             18        18:55.00  
+  Donna Langerfeld                    F             38        20:22.00  
+  Dylan Raisch                        M             23        20:42.00  
+  Pete Kresock                        M             42        22:07.00  
+  Matthew Wombacker                   M             17        25:26.00  
+  Madigan White                       F             15        27:56.00  
+  Spencer Hill                        M             59        28:49.00  

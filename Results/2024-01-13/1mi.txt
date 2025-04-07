@@ -1,0 +1,72 @@
+                               2024-01-13                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Sam Morse                           M             40         4:31.64  
+  Jaret Herter                        M             42         4:35.31  
+  William Hoyne                       M             41         4:39.31  
+  Mark Williams                       M             51         4:39.94  
+  George Young                        M             42         4:46.54  
+  Chuck Terry                         M             41         4:46.79  
+  Samuel Mackenzie                    M             40         4:47.63  
+  Mark Walchinsky                     M             44         4:48.75  
+  Scott Weeks                         M             51         4:51.29  
+  Jordan Varano                       M             44         4:59.69  
+  Benoit Hogue                        M             58         5:04.81  
+  Roger Moseley                       M             49         5:06.59  
+  Tristan Lambert                     M             47         5:10.32  
+  Terrance Shea                       M             50         5:12.88  
+  Sascha Scott                        F             48         5:16.20  
+  Aaron King                          M             40         5:18.87  
+  Steven Kast                         M             59         5:27.24  
+  Nicolas Templier                    M             40         5:30.66  
+  David Kania                         M             43         5:30.92  
+  Robert Irwin                        M             51         5:31.85  
+  Patrick Boyle                       M             40         5:34.24  
+  Casey Carlstrom                     M             64         5:34.52  
+  James Kinton                        M             48         5:35.18  
+  Mike Middendorf                     M             51         5:36.15  
+  Ryan Niclasen                       M             45         5:36.20  
+  Damian Clemons                      M             49         5:36.26  
+  Jon Distefano                       M             43         5:37.11  
+  Michelle Rohl                       F             58         5:37.53  
+  Carly Shea                          F             45         5:41.38  
+  Paul Langendoen                     M             49         5:43.76  
+  Alison Schwalm                      F             46         5:45.00  
+  Dale Flanders                       M             58         5:45.64  
+  Neal Coffey                         M             62         5:46.42  
+  Donna Langerfeld                    F             37         5:49.95  
+  Heather Webster                     F             50         5:53.73  
+  Stephen Jesch                       M             54         5:54.09  
+  Liz Hartman                         F             41         5:58.32  
+  Keith Eggleston                     M             64         6:05.23  
+  Erin Dewalt                         F             43         6:08.08  
+  Steven Hoover                       M             62         6:11.93  
+  Gary Williams                       M             59         6:14.43  
+  Chris Cox                           M             53         6:14.53  
+  Lorraine Jasper                     F             62         6:18.06  
+  Jade Barth                          F             44         6:19.24  
+  Francis Burdett                     M             58         6:19.43  
+  Curt Mancuso                        M             60         6:19.83  
+  Debra Vertoske                      F             47         6:21.97  
+  Louise Kelley                       F             60         6:22.86  
+  Spider Rossiter                     M             72         6:26.41  
+  Jr Richard Carlson                  M             57         6:37.96  
+  Timothy McMullen                    M             70         6:43.37  
+  David Williams                      M             72         6:43.84  
+  Ken Hodges                          M             70         6:57.69  
+  Jack Salisbury                      M             57         7:00.58  
+  Mark Rybinski                       M             68         7:07.87  
+  Rick Cleary                         M             67         7:19.76  
+  John Silk                           M             74         7:27.35  
+  Maria Tb                            F             43         8:08.60  
+  Gerald McKinley                     M             49         8:26.99  
+  Steven Clark                        M             69         8:35.50  
+  David Chambers                      M             74         8:54.65  
+  Ted Paget                           M             72         8:56.93  
+  James Miner                         M             75         9:12.80  
+  Deborah Bliss                       F             76         9:44.12  
+  Mira Foote                          F             63         9:52.53  
+  Edna Hyer                           F             89        14:02.99  
+  Harland Bigelow                     M             77        14:49.96  

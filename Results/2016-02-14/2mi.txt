@@ -1,0 +1,44 @@
+                               2016-02-14                               
+                                  2mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Dan Schaffer                        M              0         9:42.10  
+  Jake Avery                          M              0         9:50.40  
+  Nick Taylor                         M              0        10:01.30  
+  Silas Derfel                        M              0        10:14.60  
+  Jordan Holmes                       M              0        10:26.00  
+  Matthew Caffrey                     M              0        10:42.80  
+  Sebastian Bauco                     M              0        10:48.50  
+  Jacob Lange                         M              0        11:00.60  
+  Jonathan Klus                       M              0        11:09.00  
+  Rachel Hilliard                     F              0        11:14.90  
+  Karen Simmonds-Brady                F              0        11:31.10  
+  Brandon Pike                        M              0        11:32.00  
+  Jean-Luc Jannink                    M              0        11:54.40  
+  Bailey Drewes                       F              0        11:55.60  
+  Casey Carlstrom                     M              0        11:55.90  
+  Adam Schoene                        M              0        11:58.40  
+  Rebecca Lovenheim                   F              0        12:04.00  
+  Jessica Lawson                      F              0        12:05.70  
+  Robert Swizdor                      M              0        12:25.80  
+  Seneca Stevens                      M              0        12:30.90  
+  Christopher Lavallee                M              0        12:35.20  
+  Andrew Weishaar                     M              0        12:38.70  
+  Keegan Brady                        M              0        13:20.90  
+  Mary Buhshallow                     F              0        13:22.10  
+  Kate Izzo                           F              0        13:25.60  
+  Lydia Keys                          F              0        13:37.80  
+  Brendan O'Brien                     M              0        13:40.50  
+  Declan Houlihan                     M              0        13:43.40  
+  Collin Hauptman                     M              0        13:55.40  
+  Miles Mischke                       M              0        14:40.50  
+  Abby Izzo                           F              0        14:47.80  
+  John Cleary                         M              0        14:54.30  
+  David Keifer                        M              0        14:54.90  
+  Tom Powers                          M              0        15:21.30  
+  Frank Eggleston                     M              0        15:26.90  
+  Katie Hale                          F              0        15:32.20  
+  Connor Gasper                       M              0        16:44.50  
+  Owen Gasper                         M              0        16:45.00  
+  Quinn Brady                         F              0        17:51.50  

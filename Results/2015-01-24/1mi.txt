@@ -1,0 +1,69 @@
+                               2015-01-24                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Javier Martinez                     M             44      
+  Scott Weeks                         M             42         4:34.02  
+  Mark Williams                       M             42         4:35.42  
+  Mike Padilla                        M             40         4:38.89  
+  Kent Lemme                          M             48         4:39.73  
+  Joshua Perks                        M             40         4:41.66  
+  Mike Nier                           M             50         4:48.62  
+  Paul Osland                         M             51         4:48.97  
+  Kevin Forde                         M             51         4:51.79  
+  Brian Lazzaro                       M             40         4:52.56  
+  Jeff Conston                        M             46         4:55.26  
+  Bill Zink                           M             54         4:56.52  
+  Sonja Friend-Uhl                    F             43         4:58.28  
+  Alexander Colvin                    M             47         5:00.05  
+  Kyle Lanier                         M             42         5:00.56  
+  Adam Engst                          M             47         5:01.29  
+  Dan Bonthius                        M             54         5:02.87  
+  Kareem Lanier                       M             42         5:03.96  
+  Sascha Scott*                       F             39         5:04.35  
+  John Weiner                         M             53         5:06.47  
+  Joseph Mora                         M             53         5:08.84  
+  Matt Guild                          M             51         5:12.96  
+  Mike Mooney                         M             58         5:15.04  
+  Robert Liebers                      M             57         5:20.14  
+  Scott Bickham                       M             48         5:20.16  
+  Marisa Sutera Strange               F             51         5:20.26  
+  Gary Williams                       M             50         5:22.77  
+  John Helliker                       M             63         5:25.85  
+  Tony Plaster                        M             62         5:31.04  
+  Robert Mozo                         M             52         5:32.21  
+  Annie Bunting                       F             50         5:32.51  
+  Sarah Newsome                       F             40         5:32.96  
+  Dianne DeOliveira                   F             44         5:34.02  
+  Richard McCutcheon                  M             55         5:34.08  
+  Keith Eggleston                     M             55         5:37.28  
+  Caleb "Spider" Rossiter             M             63         5:40.92  
+  Adam Goldstein                      M             55         5:50.99  
+  Christine Gentile                   F             44         5:53.42  
+  Ted Paget                           M             63         5:53.95  
+  Anne Shafer-Nolan                   F             49         5:55.19  
+  Julie Barclay                       F             41         5:59.87  
+  Mary Swan                           F             53         6:00.54  
+  Brendan O'Brien                     M             55         6:00.74  
+  Gregory Green                       M             42         6:02.56  
+  Cheryl Bellaire                     F             55         6:10.78  
+  Rick Cleary                         M             58         6:11.51  
+  Kevin Kelly                         M             63         6:12.36  
+  Coreen Steinbach                    F             63         6:13.10  
+  Bert Bland                          M             62         6:20.25  
+  Winton Rossiter                     M             60         6:22.67  
+  Carl Franck                         M             62         6:24.42  
+  Betsy Stewart                       F             51         6:37.91  
+  D Truck Rossiter                    M             65         6:44.37  
+  Louise Mahar                        F             51         6:44.80  
+  Anthony Boyadjis                    M             56         6:45.76  
+  John Saylor                         M             67         7:09.17  
+  Joseph Reynolds                     M             70         7:16.67  
+  Harland Bigelow                     M             68         7:54.08  
+  Deborah Bliss                       F             67         8:17.31  
+  Rich Merriam                        M             59         9:34.80  
+  Christa Maier                       F             74        10:31.60  
+  Edna Hyer                           F             80        11:46.33  
+  Ted Sullivan                        M             82        12:35.40  
+  Richard Sullivan                    M             86        13:43.90  

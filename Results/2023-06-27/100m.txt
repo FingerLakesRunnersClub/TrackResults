@@ -1,0 +1,60 @@
+                               2023-06-27                               
+                                  100m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Kyren Young                         M             16           11.11  
+  Aidan Tierney                       M              0           11.23  
+  Dylan Sedorus                       M              0           11.41  
+  Matthew Funicelli                   M             23           11.61  
+  Chris Stevens                       M             18           11.73  
+  Dovid Birk                          M              0           12.00  
+  Drew Bush                           M              0           12.19  
+  Tony Matsyuk                        M              0           12.23  
+  Derran Morris                       M              0           12.56  
+  Zack Arthur                         M             34           12.95  
+  Benjamin Lambert                    M             16           13.03  
+  Patrick Milano                      M             33           13.24  
+  Travis Durfee                       M             44           13.93  
+  Jarryd Witzel                       M             14           14.03  
+  Selena Rollins                      F             12           14.26  
+  Serenity Rollins                    F             12           14.28  
+  Lindey Smith                        F              0           15.98  
+  Truth Snyder                        F              0           16.07  
+  Madelyn Weeks                       F              0           16.54  
+  Gabriel Santoriello                 M              0           16.64  
+  Gary Bush                           M              0           16.70  
+  Shalom Bouma                        M              0           17.07  
+  David Tsyrennikov                   M              9           17.52  
+  Arden Millspaugh                    M              9           17.55  
+  Lauren Champion                     F             11           17.77  
+  Sasha Durfee                        F              7           18.17  
+  Mendel Birk                         M              0           18.38  
+  Jackson Naginey                     M              0           18.59  
+  Esti Birk                           F              0           18.71  
+  Deena Thomas                        F              0           18.75  
+  Bentley Morris                      M              0           18.81  
+  Rasa Warren                         F              9           19.10  
+  Tobias Kennedy                      M             10           19.42  
+  Devorah Birk                        F              0           20.10  
+  Nina DeMont                         F              7           20.48  
+  Evelyn Vieselmeyer                  F              6           20.80  
+  Nadiia Urazgildiieva                F              7           21.62  
+  Liora Reeves                        F             10           21.71  
+  Hannah Fong                         F             38           21.78  
+  Amelia Jackson                      F              6           21.79  
+  Yisroel Birk                        M              0           22.05  
+  Leora Trussell                      F              0           22.07  
+  Maiya Vandurme                      F              0           22.07  
+  Laelani Vandurme                    F              0           23.02  
+  Yaakov Juni                         M              0           23.39  
+  Asa Reeves                          M              6           24.52  
+  Amalesh Bouma                       M              0           24.53  
+  Simon Woods                         M              7           24.90  
+  Danylo Tsyrennikov                  M              6           25.62  
+  Callum Arthur                       M              5           26.91  
+  Charlotte Vieselmeyer               F              5           29.15  
+  Skylar Weiner                       F              4           39.97  
+  Maeve Arthur                        F              2           48.80  
+  Joel Kresock                        M              3           53.95  
+  Adrian Kresock                      M              3         1:22.09  

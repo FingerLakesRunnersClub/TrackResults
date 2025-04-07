@@ -1,0 +1,72 @@
+                               2025-02-16                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Michael Ventricelli                 M             18         4:37.00  
+  Harry Greene                        M             34         4:51.00  
+  Johnny Schellenger                  M             35         4:51.00  
+  Sam Allen                           M             22         4:57.00  
+  Patrick Milano                      M             35         4:57.00  
+  Landon Greene                       M             19         4:59.00  
+  Ryuki Yamasaki                      M             22         5:03.00  
+  Ryan Wiese                          M             19         5:06.00  
+  Ryan Jacobsen                       M             17         5:06.00  
+  Edward D'Angelo                     M             20         5:06.00  
+  Jack Jansons                        M             21         5:10.00  
+  Ben Hutton                          M             26         5:12.00  
+  Jamison Myers                       M             15         5:13.00  
+  Ethan Cossette                      M             18         5:18.00  
+  Charlie Wukovitz                    M             13         5:20.00  
+  Andrew Miller                       M             13         5:22.00  
+  Asher Kolodji                       M             15         5:23.00  
+  Brady Young                         M             16         5:24.00  
+  Daniel Blackman                     M             34         5:25.00  
+  Izaac Bagley                        M             10         5:25.00  
+  Mookie Lundgren-Lahav               M             16         5:26.00  
+  Sara Bronson                        F             17         5:27.00  
+  Mike Bronson                        M             53         5:27.00  
+  Brett Bagley                        M             42         5:35.00  
+  RJ Bellinger                        M             14         5:36.00  
+  Isaac Ballard                       M             14         5:37.00  
+  Ryan McKee                          M             20         5:38.00  
+  Ron Bellinger                       M             48         5:39.00  
+  Cora Hayes                          F             12         5:44.00  
+  Liz Hartman                         F             42         5:46.00  
+  Laura Powers                        F             18         5:46.00  
+  Caleb Downing                       M             15         5:57.00  
+  Steven Vanek                        M             53         5:58.00  
+  Kevin Milsom                        M             47         6:01.00  
+  Allan Filipowicz                    M             60         6:03.00  
+  Dalton Kennett                      M             12         6:08.00  
+  Maren Golden                        F             16         6:08.00  
+  Alison Belcher                      F             12         6:20.00  
+  Brian Zalasky                       M             40         6:22.00  
+  Nolan Palmatier                     M             13         6:26.00  
+  Amanda Robertson                    F             37         6:28.00  
+  Bode Bagley                         M              7         6:29.00  
+  Sherry Golden                       F             46         6:31.00  
+  Jeffrey Wood                        M             63         6:32.00  
+  Cole Milsom-Holme                   M             12         6:37.00  
+  Teresa Vanek                        F             51         6:44.00  
+  Michelle Woods                      F             49         6:48.00  
+  Charles Ramsden                     M              7         6:56.00  
+  Charles Strobel Iii                 M             54         7:00.00  
+  William Miller                      M             11         7:05.00  
+  Michael Ramsden                     M             49         7:08.00  
+  Tyree Tucker                        M              9         7:14.00  
+  Audrey Miller                       F             13         7:16.00  
+  Jennifer Toti                       F             47         7:20.00  
+  Ann Zalasky                         F             41         7:25.00  
+  Kara Barrett                        F             15         7:34.00  
+  Moira Wheeler                       F             15         7:36.00  
+  Jennifer Bagley                     F             42         7:40.00  
+  Rick Cleary                         M             68         7:50.00  
+  Madigan White                       F             15         8:05.00  
+  Rya Gregory                         F              8         8:13.00  
+  Addy Jones                          F             12         8:15.00  
+  Cynthia Peiffer                     F             12         8:17.00  
+  Joseph Sullivan                     M             67         8:46.00  
+  James Miner                         M             76         8:51.00  
+  Arthur Axel Johnson                 M              5        11:07.00  
+  Phil Johnson                        M             43        11:07.00  

@@ -1,0 +1,39 @@
+                               2012-12-16                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  James Derick                        M             47         9:22.50  
+  Andrew Brusso                       M             23         9:31.80  
+  Michael Lam                         M             22         9:56.00  
+  Jedadiah Platt                      M             18         9:59.50  
+  Justin Hendrick                     M             18        10:06.30  
+  Parrish Bridges                     M             16        10:06.70  
+  Jeffrey Faherty                     M             24        10:10.30  
+  Jon Murray                          M             35        10:38.60  
+  Casey Norton                        F             17        10:39.00  
+  Eric Choudhary                      M             26        10:44.80  
+  Casey Carlstrom                     M             53        10:45.10  
+  Anthony Feocco                      M             17        10:48.70  
+  Tom Ketchum                         M             40        10:49.80  
+  Eric Ransley                        M             19        11:00.20  
+  Sage Hurta                          F             14        11:03.30  
+  Scott Seyborn                       M             18        11:11.00  
+  Tom Crowley                         M             59        11:31.70  
+  Gerrit Van Loon                     M             51        11:35.80  
+  Tim Ingall                          M             53        11:38.40  
+  Jeffrey Juran                       M             56        11:38.70  
+  Brendan O'Brien                     M             53        11:45.90  
+  Lynann Lorenz                       F             33        11:52.30  
+  Evan Keister                        M              9        12:04.00  
+  Miles Mischke                       M             20        12:11.60  
+  Gavin Derick                        M             14        12:18.50  
+  Lisa Butler                         F             51        12:20.00  
+  John Saylor                         M             65        12:47.10  
+  Tommy Dale                          M             10        13:43.30  
+  Jared Sandritter                    M             12        13:45.10  
+  Kristine Dale                       F             40        13:49.00  
+  Matthew Sandritter                  M              8        14:21.50  
+  Dave Talcott                        M             52        14:23.60  
+  Robert Kern                         M             69        15:35.10  
+  David Luckner                       M             56        16:41.30  

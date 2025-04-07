@@ -1,0 +1,70 @@
+                               2011-02-20                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Matthew Byrne                       M             35         9:01.50  
+  Jake Shedden                        M             18         9:03.70  
+  Sean Vollenweider                   M             21         9:08.40  
+  Joel Christian                      M             17         9:20.20  
+  Eric Choudhary                      M             24         9:32.40  
+  Jimmy O'Dea                         M             28         9:37.50  
+  Jonathan Peeters                    M             32         9:38.60  
+  Marty Nicholson                     M             23         9:39.40  
+  Jason Christopherson                M             16         9:40.10  
+  Alex Goi                            M             22         9:41.60  
+  Will Mullen                         M             19         9:42.90  
+  Mike Dennis                         M             20         9:47.00  
+  Steve Desmond                       M             26         9:56.80  
+  Mike Coogan                         M             16         9:57.70  
+  Austin Hirsch                       M             16         9:59.70  
+  Aaron Reardon                       M             20        10:01.50  
+  Zachary Despreaux                   M             17        10:02.30  
+  Corey Loman                         M             17        10:03.10  
+  Jack Gugel                          M             14        10:04.80  
+  Kevin Murphy                        M             36        10:17.40  
+  Dominic Williams                    M             19        10:18.30  
+  Eileen Combs                        F             33        10:19.40  
+  Matthew Tillotson                   M             18        10:21.10  
+  Brendan Hurley                      M             23        10:29.00  
+  Jim Cunningham                      M             28        10:29.80  
+  Nicholas Ashton                     M             14        10:31.40  
+  Gabby Pallotta                      F             14        10:35.50  
+  Roger Learn                         M             55        10:35.90  
+  Susan Learn                         F             18        10:36.70  
+  D Campbell                          M             17        10:37.20  
+  Matthew Holden                      M             25        10:37.60  
+  Jason Jenks                         M             14        10:41.30  
+  Violet Learn                        F             15        10:41.60  
+  Gregory Bader                       M             18        10:41.70  
+  John Colson                         M             24        10:43.00  
+  Tim Ingall                          M             51        10:56.70  
+  Abigail Elliott                     F             19        10:57.80  
+  Bob Nugent                          M             50        10:58.10  
+  Susan Learn                         F             18        11:09.40  
+  Lisa Fawcett                        F             18        11:29.60  
+  Suzanne Myette                      F             53        11:37.80  
+  Andy Jordan                         M             57        11:38.40  
+  Donna Langerfeld                    F             24        11:46.70  
+  Michael Cordi                       M             51        11:55.70  
+  Kristen VonBeven                    F             21        12:11.40  
+  Megan Morris                        F             17        12:17.90  
+  Linda Adams                         F             48        12:18.50  
+  Nicole Watterud                     F             16        12:18.90  
+  Kelly Hollenbeck                    F             21        12:22.20  
+  Skip Strobel                        M             40        12:25.70  
+  Margaret Bambling                   F             20        12:27.40  
+  Bob Giambalvo                       M             61        12:28.10  
+  Gerrit Van Loon                     M             49        12:39.00  
+  Miles Mischke                       M             19        12:51.10  
+  John Smillie                        M             58        12:53.40  
+  Karen Grover                        F             40        13:42.70  
+  David Laris                         M             48        13:44.60  
+  Roger Learn III                     M              8        13:58.90  
+  Barak Weiss                         M             45        14:02.80  
+  David Johnson                       M             57        14:07.00  
+  Erin Bresnahan                      F             20        14:19.20  
+  Bob Giambalvo                       M             61        14:43.30  
+  Nathan Batalion                     M             61        15:46.10  
+  Dan Mittler                         M             70        17:13.50  
+  Peggy Dunham                        F             47        17:13.80  

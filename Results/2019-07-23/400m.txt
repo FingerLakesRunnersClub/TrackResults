@@ -1,0 +1,62 @@
+                               2019-07-23                               
+                                  400m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Samuel Voak                         M             21           56.66  
+  Tristan Lambert                     M             43         1:00.35  
+  Dana Wood                           M             43         1:01.59  
+  Jerry Czyz                          M             14         1:01.73  
+  Aaron King                          M             35         1:03.19  
+  Gyasi Ruffin                        M             14         1:03.34  
+  Oliver Baroody                      M             15         1:10.78  
+  Aidan Archer                        M             14         1:12.54  
+  Benjamin Lambert                    M             12         1:18.31  
+  Matthew Keough                      M              9         1:20.49  
+  Elsa Wood                           F              0         1:20.63  
+  John Hummel                         M             62         1:21.99  
+  Makenna Keough                      F             12         1:24.36  
+  Abby Ringwood                       F             12         1:25.59  
+  Trent Thibault                      M             11         1:25.62  
+  Gabe Dauerheim                      M             14         1:26.09  
+  Sebastian Bartishevich              M             11         1:33.61  
+  Roxana Maralani                     F             10         1:34.35  
+  Gabby Smith                         F              9         1:34.72  
+  Meghan Winks                        F             11         1:35.53  
+  Madeline Seneca                     F             13         1:35.57  
+  Matea Fey                           F              8         1:35.78  
+  Gracie Brazier                      F              9         1:36.52  
+  Teagan Wilbur                       M             11         1:36.69  
+  Aliah Woodall                       F             10         1:37.91  
+  Arya Basu                           M              7         1:39.57  
+  Natalie Lovenheim                   F              7         1:39.94  
+  Cadence Sullivan                    F              8         1:40.51  
+  Connor Case                         M              0         1:42.00  
+  Alasdair Smith                      M             10         1:42.11  
+  Ben Kadlecik                        M             12         1:42.39  
+  Althea Johnston                     F              8         1:43.32  
+  Norah Howell                        F             10         1:43.32  
+  Ryan Freed                          M              7         1:43.37  
+  Ava Maralani                        F              8         1:43.57  
+  Stelios Baney                       M             10         1:48.13  
+  Alice Mou                           F              6         1:49.85  
+  Nicholas Tesi                       M              7         1:49.95  
+  Dominik Bartishevich                M              5         1:50.72  
+  Linus Walker                        M              8         1:51.06  
+  Grace Folsom                        F              8         1:51.77  
+  Kahai Bessou Jones                  F              8         1:52.33  
+  Molly Anderson                      F              6         1:52.39  
+  Mercer Woodcock                     M              7         1:52.56  
+  Evelyn Wilbur                       F              8         1:52.91  
+  Rhodes Woodall                      M              7         1:53.63  
+  Ilias Baney                         M              8         1:59.44  
+  Eamon Ingall                        M              0         2:00.28  
+  Annaliese Granroth                  F              7         2:01.17  
+  Freddie Collins                     M             11         2:04.66  
+  Roslyn Folsom                       F              5         2:06.34  
+  William Antczak                     M              6         2:11.84  
+  Nico Simmonds                       M              7         2:12.36  
+  Kaarina Granroth                    F              4         2:25.60  
+  Allie Simmonds                      F              5         2:31.51  
+  Fiona Antczak                       F              6         2:35.27  
+  Pelagia Baney                       F              4         3:11.47  

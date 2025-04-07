@@ -1,0 +1,71 @@
+                               2019-02-17                               
+                                  800m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  James Felice                        M             22         2:02.43  
+  Owen Juan                           M             18         2:02.62  
+  Adam Beach                          M              0         2:06.03  
+  Ryan Rippeon                        M             20         2:11.83  
+  Nicholas Van Fossen                 M              0         2:15.17  
+  Mike Nier                           M             54         2:16.68  
+  Phil Kwasney                        M             37         2:22.62  
+  Kyle Infantino                      M              0         2:25.19  
+  Elora Ferrie                        F              0         2:26.81  
+  Tom Berry                           M             15         2:27.13  
+  Caleb Vaow                          M             17         2:27.19  
+  Charlotte Nevins                    F              0         2:27.86  
+  Billy Russell                       M              0         2:28.09  
+  Michelle Rohl                       F             53         2:29.96  
+  Tobias Salisbury                    M             17         2:30.74  
+  Liam Kressly                        M             15         2:30.97  
+  Aaron Mathurin                      M              0         2:32.20  
+  Megan Luckner                       F             24         2:33.89  
+  Chase Ripley                        M             15         2:34.44  
+  Brendan Jones                       M             14         2:35.64  
+  Seungjae Baik                       M              0         2:35.93  
+  Julia Hluck                         F              0         2:36.83  
+  Andrew Norton                       M             25         2:37.28  
+  Abel Aguilar                        M              0         2:37.99  
+  Sam Cornfield                       M              0         2:38.64  
+  Jonathan Sherwood                   M             16         2:39.63  
+  Annie Geiger                        F             21         2:40.31  
+  Marissa Silba                       F             17         2:41.46  
+  Timothy Riccardi                    M             60         2:41.89  
+  Thomas Newman                       M              0         2:42.83  
+  Sophie Stewart                      F              0         2:43.54  
+  Maggie Houp                         F             11         2:44.53  
+  Raylene Wade                        F              0         2:49.55  
+  Carter Jones                        M             16         2:50.54  
+  Raquel Morehouse                    F             19         2:54.42  
+  Samantha Oakes                      F              0         2:54.89  
+  Gerrit Van Loon                     M             57         2:56.09  
+  Rylee Campeau                       F             17         2:59.19  
+  Margaret Cleary                     F              0         3:00.15  
+  Dylan Rose                          M              0         3:00.83  
+  Sara Bronson                        F              0         3:01.18  
+  John Hohm                           M             34         3:01.35  
+  John Hummel                         M             61         3:01.80  
+  Emma Bronson                        F             13         3:02.45  
+  Phillip Metzger                     M             61         3:02.52  
+  Riley Werner                        F              0         3:03.12  
+  Paige Kesterson                     F              0         3:04.30  
+  Mary Swan                           F             57         3:04.79  
+  Laura Kenny                         F             20         3:05.00  
+  Hannah Dewert                       F             12         3:07.38  
+  Ashley Tubbs                        F              0         3:11.67  
+  Christopher Lawson                  M              8         3:14.36  
+  Riley Dollard                       F              0         3:14.37  
+  Elsa Wood                           F              0         3:16.19  
+  Bella Beres                         F              8         3:18.16  
+  Colleen Magnussen                   F             58         3:19.06  
+  Nora Golden                         F              8         3:24.08  
+  Rob Kurcoba                         M             40         3:24.42  
+  Rosie Hines                         F             15         3:24.86  
+  Anya Beres                          F             10         3:39.36  
+  Lochlan Makepeace                   M              8         3:40.69  
+  William Stetter                     M              0         3:46.57  
+  Joe Reynolds                        M             74         4:02.34  
+  Hannah Kauffman                     F              8         4:15.01  
+  Karen Ellsworth                     F             56         4:19.68  
+  Elijah Jackson                      M              8         5:20.54  

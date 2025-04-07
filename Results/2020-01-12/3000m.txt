@@ -1,0 +1,31 @@
+                               2020-01-12                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Rich Heffron                        M             36         9:17.00  
+  James Felice                        M             23         9:20.00  
+  Ryan Tober                          M              0         9:34.00  
+  Jeremy Hall                         M             18         9:42.00  
+  Adam Berkowitz                      M             24         9:43.00  
+  Nathanial Olson                     M             36         9:54.00  
+  Matt Palmer                         M             31        10:02.00  
+  Eric Repp                           M             18        10:07.00  
+  Kody Parrott                        M             22        10:07.00  
+  Chris Mason                         M             31        10:18.00  
+  Jaxyn Mahoney                       M             12        10:18.00  
+  Chris Cammisa                       M             16        10:46.00  
+  Jenny Berkowitz                     F             23        10:47.00  
+  Calum Avery                         M             16        10:48.00  
+  Aaron King                          M             36        10:58.00  
+  Steve Cammisa                       M             52        11:02.00  
+  Omar Radwan                         M             20        11:04.00  
+  Benjamin Mueller                    M             37        11:18.00  
+  Henry Chen                          M              0        11:30.00  
+  Connor Dahl                         M             16        11:46.00  
+  Liz Hartman                         F             37        12:11.00  
+  Sander Bertch                       M             15        12:17.00  
+  AJ Darling                          M             21        12:18.00  
+  Liz Bordoni                         F             33        12:28.00  
+  Samantha Walker                     F             22        12:36.00  
+  Gerrit Van Loon                     M             58        12:40.00  

@@ -1,0 +1,44 @@
+                               2011-01-09                               
+                                  2mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Nathan Senner                       M             29         9:59.90  
+  James Derick                        M             45        10:06.10  
+  Curt Jewett                         M             16        10:11.40  
+  Kyle Martin                         M             19        10:24.00  
+  Jeremy Anderson                     M             18        10:35.60  
+  Zachary Despreaux                   M             17        10:38.00  
+  Sam Williams                        M             15        10:41.70  
+  Peter Newman                        M             16        10:53.40  
+  Eileen Combs                        F             32        11:05.80  
+  Matthew Johnson                     M             17        11:27.00  
+  Jim Cunningham                      M             28        11:27.60  
+  Neil Clifford                       M             40        11:46.90  
+  Eric Choudhary                      M             24        11:48.00  
+  John Colson                         M             24        11:48.20  
+  Leo Kolshorn                        M             37        11:49.80  
+  Michael Cordi                       M             51        12:04.00  
+  Tim Ingall                          M             51        12:07.50  
+  Nate LaDue                          M             18        12:25.20  
+  Miles Mischke                       M             18        12:32.30  
+  Lee Anderson                        M             53        12:33.60  
+  Suzanne Myette                      F             53        12:38.30  
+  Joe Daley                           M             60        12:43.80  
+  Andy Jordan                         M             57        12:45.20  
+  Peter Schrafel                      M             24        12:57.60  
+  Gerrit Van Loon                     M             49        13:00.30  
+  Alycia Gailey                       F             27        13:02.40  
+  Jenelle Traver                      F             28        13:18.20  
+  Megan Morris                        F             17        13:35.10  
+  Kevin Skeele                        M             47        13:48.30  
+  Kirsten Anderson                    F             15        14:13.60  
+  John Smillie                        M             57        14:14.40  
+  Brianna Tufts                       F             25        14:48.10  
+  Karen Grover                        F             40        14:51.40  
+  David Johnson                       M             56        15:02.70  
+  Martin Harms                        M             73        15:14.30  
+  Joe Reynolds                        M             66        16:07.00  
+  Al Wruck                            M             65        16:16.40  
+  Kathy Anderson                      F             49        16:40.80  
+  Nathan Batalion                     M             61        17:10.30  

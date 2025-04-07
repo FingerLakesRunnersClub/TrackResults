@@ -1,0 +1,13 @@
+                               2023-06-27                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Matthew Funicelli                   M             23       51'06.00"  
+  Collin Karl                         M              0       41'04.00"  
+  Sean Shea                           M              0       33'09.00"  
+  David Shea                          M              0       33'02.00"  
+  Jennifer Jones                      F              0       25'07.00"  
+  Janice Carter                       F              0       23'04.00"  
+  Josie Ross                          F              0       12'01.00"  
+  Yaakov Juni                         M              0       10'00.00"  

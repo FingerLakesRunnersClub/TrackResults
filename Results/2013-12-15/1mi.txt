@@ -1,0 +1,56 @@
+                               2013-12-15                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Alex Frederick                      M             16         4:45.80  
+  Hunter Hoffman                      M             17         4:48.30  
+  Parrish Bridges                     M             17         4:51.50  
+  Niall Hodges                        M             18         4:55.10  
+  Jay Taves                           M             18         4:59.70  
+  Casey Carlstrom                     M             54         5:01.00  
+  Steven Rando                        M             17         5:12.70  
+  Bryce Derick                        M             12         5:20.00  
+  Matthew Aldridge                    M             41         5:21.30  
+  Gary Williams                       M             49         5:35.60  
+  Gavin Derick                        M             15         5:41.70  
+  Jon Murray                          M             36         5:44.10  
+  Owen Juan                           M             13         5:45.00  
+  Justin Milner                       M             16         5:46.30  
+  Horace Pan                          M             21         5:46.40  
+  Peter Harewoo                       M             41         5:47.80  
+  Miles Mischke                       M             21         5:54.00  
+  Nick John                           M             15         5:56.10  
+  Tim  Ingall                         M             54         5:57.40  
+  Evan Keister                        M             10         5:58.50  
+  Lydia Werner                        F             15         6:00.80  
+  Cleo Baker                          F             12         6:02.80  
+  Katie Nolan                         F             16         6:04.40  
+  Faithe Ketchum                      F              9         6:06.00  
+  Andy Jordan                         M             60         6:07.10  
+  Brendan O'Brien                     M             54         6:08.00  
+  Brynne Ketchum                      F             12            0.00  
+  Howard Iseri                        M             54            0.00  
+  Dylan Kenyon                        M             12            0.00  
+  Nathan Black                        M              8            0.00  
+  Abby Dejneka                        F             11            0.00  
+  Mary Bushallow                      F             42            0.00  
+  Keagan Winkley                      M              9            0.00  
+  Matt Gensel                         M              9            0.00  
+  Lorrie Tily                         F             52            0.00  
+  Thaddaeus Black                     M             11            0.00  
+  James Miner                         M             65            0.00  
+  Alyssa Walker                       F             11            0.00  
+  Genevieve Black                     F             12            0.00  
+  Jaxyn Mahoney                       M              6            0.00  
+  Maddy Burns                         F             11            0.00  
+  Ginny Clifford                      F             11            0.00  
+  Camille Black                       F             10            0.00  
+  Adesh Tiwari                        M             12            0.00  
+  Steven Segal                        M             11            0.00  
+  McKenna Bushallow                   F              8            0.00  
+  Ayinde Harewood                     M              8            0.00  
+  Leah Middleton                      F              8            0.00  
+  Mary Black                          F              6            0.00  
+  Alyssa French                       F             11            0.00  
+  Samantha Oakes                      F              8            0.00  

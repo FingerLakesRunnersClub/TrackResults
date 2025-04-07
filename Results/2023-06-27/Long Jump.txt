@@ -1,0 +1,29 @@
+                               2023-06-27                               
+                               Long Jump                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David Patterson                     M             17       18'05.00"  
+  Ross Bush                           M              0       18'00.00"  
+  Matthew Funicelli                   M             23       17'07.00"  
+  Tommy Pinkowski                     M              0       17'05.00"  
+  Drew Bush                           M              0       17'05.00"  
+  Aidan Tierney                       M              0       17'03.00"  
+  Benson Patterson                    M             16       14'06.00"  
+  Jarryd Witzel                       M             14       13'02.00"  
+  Derran Morris                       M              0       13'01.00"  
+  Noble Snyder                        M              0       11'11.00"  
+  Dalton Kennett                      M              0       10'10.00"  
+  Selena Rollins                      F             12       10'01.00"  
+  Vanessa Topielec                    F             11       10'00.00"  
+  Tobias Kennedy                      M             10        9'06.00"  
+  Shalom Bouma                        M              0        9'06.00"  
+  Rasa Warren                         F              9        9'05.00"  
+  Danylo Tsyrennikov                  M              6        8'11.00"  
+  Isla Durfee                         F              9        8'05.00"  
+  Adaline Jackson                     F              9        7'04.00"  
+  Yaakov Juni                         M              0        7'00.00"  
+  Gunner Rodriguez                    M              0        6'09.00"  
+  Amelia Jackson                      F              6        6'05.00"  
+  Liora Reeves                        F             10        6'02.00"  
+  Guinevere Goldberg                  F              3        2'02.00"  

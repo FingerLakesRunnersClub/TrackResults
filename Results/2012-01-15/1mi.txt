@@ -1,0 +1,64 @@
+                               2012-01-15                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Nick Miller                         M             18         4:33.60  
+  Cameron Bruce                       M             18         4:34.20  
+  Josh Schultheis                     M             23         4:44.00  
+  Jay Hubisz                          M             32         4:48.10  
+  Javier Martinez                     M             40         4:50.10  
+  Daniel Dracup                       M             14         4:54.20  
+  Tony D'Arpino                       M             14         4:59.30  
+  Damian Archie                       M             19         4:59.90  
+  Antonio Martinez                    M             16         5:01.00  
+  Casey Carlstrom                     M             52         5:03.40  
+  Mark Rybinski                       M             56         5:08.40  
+  Connor Cleveland                    M             18         5:13.80  
+  Gary Radford                        M             55         5:15.10  
+  Katie Aldridge                      F             38         5:15.60  
+  Miles Mischke                       M             19         5:22.00  
+  Michael Stewart                     M             19         5:23.30  
+  James Felice                        M             15         5:23.50  
+  Joe Daley                           M             61         5:31.80  
+  John Heath                          M             38         5:34.60  
+  Billy Tucker                        M             13         5:35.20  
+  Adam Thorne                         M             18         5:39.50  
+  Brian Bates                         M             13         5:41.20  
+  Jenna Cupp                          F             16         5:43.90  
+  Jadare Hopkins                      M             10         5:44.10  
+  Adam Engst                          M             44         5:44.20  
+  Tony D'Arpino                       M             14         5:44.80  
+  Anthony Prestigeocomo               M             13         5:45.40  
+  Mary Bushallow                      F             40         5:46.80  
+  Ben Cardamare                       M             13         5:47.00  
+  Natalie Kelly                       F             28         6:02.10  
+  Sam Sauer                           F             16         6:03.30  
+  Andrew Ellison                      M             13         6:04.80  
+  Brendan O'Brien                     M             52         6:14.40  
+  Pearl Cooper                        F             13         6:19.30  
+  Maeve Holman                        F             12         6:19.80  
+  Michael Cordi                       M             52         6:20.00  
+  Rhian O'Dell                        F             13         6:20.40  
+  John Saylor                         M             64         6:22.40  
+  Allison Page                        F             16         6:23.90  
+  Monica Salva                        F             17         6:24.50  
+  David van Wyk                       M             12         6:24.90  
+  Megan Bouton                        F             17         6:25.30  
+  Herb Engman                         M             66         6:34.10  
+  Bobby Wightman                      M             14         6:36.20  
+  Steve Halebsky                      M             57         6:48.10  
+  Marian Cooper                       F             13         6:52.20  
+  Melissa Hubisz                      F             31         7:29.50  
+  Joe Reynolds                        M             67         7:31.00  
+  Travion Brooks                      M              9         7:31.10  
+  Kayla Bushallow                     F              9         7:32.40  
+  Makaya Wood                         M              8         7:34.20  
+  Maria Costanzo                      F             53         7:35.20  
+  Kameron Franklin                    M              8         7:36.30  
+  David Traub                         M             50         7:41.80  
+  Cynthia Boyd                        F              9         7:47.40  
+  McKenna Bushallow                   F              6         8:08.70  
+  Frank Mischke                       M             55         8:14.40  
+  Leah Middleton                      F              6         8:39.50  
+  Jenna Brum                          F             17        10:32.80  

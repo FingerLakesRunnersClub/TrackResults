@@ -1,0 +1,33 @@
+                               2010-01-10                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Aaron Spencer                       M             17            7.20  
+  Christina Bremington                F             17            7.40  
+  Julie Staub                         F             29            7.80  
+  Sam Williams                        M             14            7.80  
+  Kent Upham                          M             17            7.90  
+  Shane Davis                         M             16            7.90  
+  Christopher Lavallee                M             32            8.10  
+  Eleanor Bayles                      F             14            8.20  
+  Mustafa Chalabi                     M             19            8.20  
+  Laura Voorhees                      F             42            8.30  
+  Curt Jewett                         M             15            8.30  
+  Victoria Voorhees                   F             13            8.70  
+  John Rogers                         M             10            8.90  
+  Dominique                           F             13            8.90  
+  Henry Schneider                     M             35            9.10  
+  Matthew Aldridge                    M             37            9.20  
+  Michaela Dunham                     F             13            9.50  
+  Tom Daly                            M             55            9.60  
+  Jack Reynolds                       M             11           10.70  
+  Heather Lazzaro                     F              7           12.60  
+  Shea Burns                          M              5           12.60  
+  Kaitlin Reynolds                    F              8           12.70  
+  Gaberial Cornfield                  M              5           14.00  
+  Cara Reynolds                       F              8           14.20  
+  Henry Deitcher                      M              5           14.60  
+  Holly Dunham                        F              7           15.60  
+  DJ Cornfield                        M              4           16.50  
+  Riley Hubisz                        M              2           29.10  

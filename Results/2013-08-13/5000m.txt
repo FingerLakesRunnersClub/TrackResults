@@ -1,0 +1,19 @@
+                               2013-08-13                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Raymond Velazquez                   M             22        16:18.80  
+  Jeremy Gardner                      M             35        17:19.60  
+  Jonathan Alvarado                   M             19        17:23.50  
+  Bryce Derick                        M             12        18:41.70  
+  Aaron Hicks                         M             42        20:19.70  
+  Brendan O'Brien                     M             54        20:44.60  
+  Faithe Ketchum                      F              9        21:09.60  
+  Brynne Ketchum                      F             12        21:41.60  
+  Reinhold Wotawa                     M             64        21:42.00  
+  Alivia Collins                      F             13        22:03.00  
+  John Smillie                        M             60        22:14.30  
+  Abby Dejneka                        F             11        22:22.70  
+  Fred Collins                        M             51        22:59.20  
+  Bob Talda                           M             52        23:25.20  

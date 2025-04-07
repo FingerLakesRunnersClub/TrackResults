@@ -1,0 +1,73 @@
+                               2025-01-18                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Sam Morse                           M             41         4:29.46  
+  Nicholas Conway                     M             49         4:35.31  
+  Louie Dinuzzo                       M             42         4:36.23  
+  Mark Williams                       M             52         4:43.34  
+  Ken Crawford                        M             40         4:44.40  
+  Chuck Terry                         M             42         4:47.95  
+  Jon French                          M             41         4:48.87  
+  Scott Weeks                         M             52         4:52.95  
+  Peter Boyd                          M             50         4:59.38  
+  Sascha Scott                        F             49         5:07.91  
+  Patrick Boyle                       M             41         5:17.70  
+  Joseph Mora                         M             63         5:19.69  
+  Peter Frazier                       M             46         5:23.43  
+  Karen Bertasso Hughes               F             40         5:26.13  
+  Mike Nier                           M             60         5:26.95  
+  David Kania                         M             44         5:33.58  
+  Jennifer Selig                      F             42         5:33.91  
+  Matthew Dore                        M             49         5:34.05  
+  Anne Riordan                        F             40         5:35.28  
+  Jon Distefano                       M             44         5:36.40  
+  Scotty Miner                        M             46         5:37.23  
+  Shawn Bubany                        M             46         5:38.30  
+  Alison Schwalm                      F             47         5:40.95  
+  Keith Davies                        M             65         5:42.97  
+  Liz Hartman                         F             42         5:42.97  
+  Casey Carlstrom                     M             65         5:42.98  
+  Donna Langerfeld                    F             38         5:43.92  
+  Damian Clemons                      M             50         5:50.05  
+  Francis Burdett                     M             59         5:53.94  
+  Chuck Shields                       M             65         5:56.08  
+  Derrick Staley                      M             66         5:57.80  
+  Neal Coffey                         M             63         5:58.28  
+  Keith Eggleston                     M             65         5:59.18  
+  Michael Mertens                     M             61         6:00.40  
+  Steven Vanek                        M             53         6:01.02  
+  Timothy Riccardi                    M             66         6:03.89  
+  Jade Barth                          F             45         6:04.21  
+  Debra Vertoske                      F             48         6:05.40  
+  Steven Hoover                       M             63         6:06.49  
+  David Dickensheets                  M             61         6:07.44  
+  Loren Davies                        M             57         6:07.93  
+  Craig Lowthert                      M             61         6:08.43  
+  Gary Williams                       M             60         6:09.26  
+  Chris Cox                           M             54         6:12.36  
+  Pete Kresock                        M             42         6:16.92  
+  Spider Rossiter                     M             73         6:22.57  
+  Julie Barclay                       F             51         6:25.13  
+  Mary Swan                           F             63         6:44.92  
+  Gary Moore                          M             68         6:45.80  
+  Ken Hodges                          M             71         6:46.29  
+  Teresa Vanek                        F             51         6:50.28  
+  Timothy McMullen                    M             71         6:50.54  
+  Rebecca Elias                       F             51         6:51.25  
+  Betsy Stewart                       F             61         7:12.50  
+  Andrea Wigfall                      F             61         7:13.39  
+  Laura Helmerick                     F             65         7:14.42  
+  Rick Cleary                         M             68         8:00.91  
+  Anthony Boyadjis                    M             66         8:25.21  
+  Joseph Sullivan                     M             67         8:46.19  
+  James Miner                         M             76         9:10.57  
+  Christine Klein                     F             60         9:34.13  
+  Sandra Folzer                       F             85         9:45.24  
+  Deborah Bliss                       F             77        10:06.68  
+  Karen Ellsworth                     F             62        10:13.29  
+  Sarah Cotterill                     F             76        14:00.81  
+  Christa Maier                       F             84        14:55.47  
+  Harland Bigelow                     M             78        14:58.52  
+  Edna Hyer                           F             90        15:10.31  

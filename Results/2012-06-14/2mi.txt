@@ -1,0 +1,12 @@
+                               2012-06-14                               
+                                  2mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Alex Looi                           M             23        10:10.60  
+  Casey Carlstrom                     M             53        11:25.70  
+  Ray Lawson                          M             41        11:48.30  
+  Gary Williams                       M             48        11:50.60  
+  Alycia Gailey                       F             28        13:30.50  
+  Julie Lawson                        F             42        15:14.10  
+  Maria Costanzo                      F             53        15:45.60  

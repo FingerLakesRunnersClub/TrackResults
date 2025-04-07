@@ -1,0 +1,59 @@
+                               2019-08-20                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Sam Lagasse                         M             25         4:26.00  
+  Adam Pacheck                        M             27         4:31.00  
+  Rich Heffron                        M             36         4:39.00  
+  Oliver Rapp                         M             20         4:47.00  
+  Mikhail Kern                        M             28         4:48.00  
+  Christopher Watson                  M             20         4:51.00  
+  Tyler Azbell                        M             22         4:59.00  
+  Sam Bell                            M             15         5:09.00  
+  Mike Stewart                        M             38         5:16.00  
+  Jack Thomas                         M             17         5:19.00  
+  Dave Kania                          M             39         5:22.00  
+  Ryan Barton                         M             17         5:29.00  
+  Jerry Czyz                          M             14         5:30.00  
+  Catriona Breen                      F             18         5:32.00  
+  Aaron King                          M             35         5:34.00  
+  Alex Colvin                         M             51         5:35.00  
+  Keegan Brady                        M             13         5:37.00  
+  Catie Eisenhut                      F             17         5:40.00  
+  Andrew Byrne                        M              0         5:47.00  
+  Emmaline Jackson                    F             16         5:55.00  
+  Kyleen Brady                        F             11         5:56.00  
+  Karen Simmonds-Brady                F             45         5:58.00  
+  Tristan Lambert                     M             43         6:03.00  
+  Teddy Brenner                       M             16         6:06.00  
+  Karl Granroth                       M             46         6:07.00  
+  Liz Hartman                         F             37         6:08.00  
+  Kinsley Jacobs                      F             14         6:13.00  
+  Oliver Lambert                      M             14         6:16.00  
+  Tom Stallone                        M             13         6:23.00  
+  Caden Michalec                      M             15         6:24.00  
+  Parker Vooris                       M             15         6:27.00  
+  Teresa Garcia                       F             17         6:33.00  
+  Dowain Geesey                       M             16         6:43.00  
+  Aidan Lazzaro                       M             10         6:44.00  
+  Vanessa Bell                        F             13         6:45.00  
+  Daniel Dedrick                      M              0         6:47.00  
+  Thomas Wells                        M             14         6:48.00  
+  Lucius Dann                         M             13         6:53.00  
+  Hana Thibault                       F             15         6:55.00  
+  Trent Thibault                      M             11         6:59.00  
+  Abigail Wagner                      F              0         7:01.00  
+  Tonya Engst                         F             51         7:18.00  
+  Ben Calupca                         M             14         7:19.00  
+  Felix Hafner                        M             13         7:50.00  
+  Loveta Geesey                       F             13         7:52.00  
+  Teagan Wilbur                       M             11         7:54.00  
+  Madeline Seneca                     F             13         7:59.00  
+  Gabby Smith                         F              9         8:00.00  
+  Jacob Varga                         M             10         8:07.00  
+  Ethan Littlejohn                    M              8         8:07.00  
+  D Truck Rossiter                    M             70         8:08.00  
+  Magnus Redsicker                    M              0         8:44.00  
+  Annaliese Granroth                  F              7         9:22.00  
+  Evelyn Wilbur                       F              8         9:37.00  

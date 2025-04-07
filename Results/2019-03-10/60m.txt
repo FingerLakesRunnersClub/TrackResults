@@ -1,0 +1,56 @@
+                               2019-03-10                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Nicholas Abdo                       M             18            6.90  
+  Lance Jensen                        M             17            7.30  
+  Willie Zuckerburg                   M              0            7.30  
+  Jacob Fitzpatrick                   M             19            7.30  
+  Thomas Ingersoll                    M             21            7.30  
+  Kenny Stehle                        M             19            7.30  
+  Ryan Nguyen                         M             23            7.30  
+  Xzavier Lewis                       M             15            7.60  
+  Ben Dizer                           M             15            7.90  
+  Jeb Parillo                         M             18            7.90  
+  Matthew Hicks                       M             23            7.90  
+  Joao Bessa                          M             17            8.00  
+  Alex Yeater                         M             14            8.10  
+  Cameron Fitzgerald                  M             17            8.20  
+  Christian Haynes                    M             18            8.20  
+  Matthew Adams                       M             23            8.40  
+  Conor Figgs                         M             16            8.50  
+  Sky Seto                            M             26            8.60  
+  Marcus Homa                         M             13            8.70  
+  Makenna Keough                      F             12            9.10  
+  Raquel Morehouse                    F             19            9.10  
+  Matthew Fitch                       M             13           10.00  
+  Raegan VanGorden                    F             10           10.00  
+  Gregory Homa                        M             11           10.00  
+  Elsa Wood                           F              0           10.00  
+  Lochlan Makepeace                   M              8           10.50  
+  Bella Beres                         F              8           10.55  
+  Conor DeSantis                      M              9           10.65  
+  Hannah Kauffman                     F              8           11.00  
+  Tabitha Oakes                       F              0           11.05  
+  Reed Fuchs                          M              8           11.20  
+  David Clarke                        M              7           11.30  
+  Jasmine Wagner                      F              0           11.52  
+  Zayla Buman                         F             10           11.53  
+  Daniel Clarke                       M              7           11.70  
+  Anya Beres                          F             10           11.70  
+  Tessa Makosch                       F              9           11.70  
+  Burke Hilgendorf                    M              7           11.90  
+  Leah Kauffman                       F              7           13.00  
+  Nico Simmonds                       M              7           13.40  
+  Marlo Fuchs                         F              6           13.80  
+  Hazel Fuchs                         F              6           13.80  
+  Cameron LeShore                     M              7           13.80  
+  Carter LeShore                      M              6           13.80  
+  Graham Mueller                      M              4           15.10  
+  Annabella Wideham                   F              5           15.30  
+  Rowan DeSantis                      F              5           15.70  
+  Ceci Hilgendorf                     F              5           15.70  
+  Austin Neally                       M              6           16.20  
+  Ada Mueller                         F              4           16.30  
+  Allie Simmonds                      F              4           16.50  

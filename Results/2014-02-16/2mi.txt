@@ -1,0 +1,39 @@
+                               2014-02-16                               
+                                  2mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David Levine                        M              0         9:52.01  
+  Simon Smith                         M              0         9:57.70  
+  Connor Rosenblatt                   M              0        10:02.94  
+  Alex Frederick                      M              0        10:07.69  
+  Jack Hillenbrand                    M              0        10:09.60  
+  Dan Schaffer                        M              0        10:12.59  
+  Jason Jenks                         M              0        10:17.06  
+  Matthew Wilber                      M              0        10:18.59  
+  William Hohreiter                   M              0        10:28.84  
+  Aaron Rumack                        M              0        10:49.53  
+  James Golden                        M              0        10:52.59  
+  Bryce Derick                        M              0        11:10.80  
+  Joshua Langley                      M              0        11:33.00  
+  Jared Strait                        M              0        11:37.76  
+  Casey Carlstrom                     M              0        11:40.91  
+  Paul Sweeney                        M              0        11:57.45  
+  Evan Keister                        M              0        12:16.95  
+  Emily Harding                       F              0        12:20.89  
+  Ryan Berry                          M              0        12:21.96  
+  Horace Pan                          M              0        12:32.56  
+  Skip Strobel                        M              0        12:36.20  
+  Katherine Loomba                    F              0        12:38.98  
+  Anne Shafer-Nolan                   F              0        12:43.15  
+  Brendan O'Brien                     M              0        12:47.26  
+  Brynne Ketchum                      F              0        12:50.28  
+  Faithe Ketchum                      F              0        12:58.43  
+  Robert Berry                        M              0        12:58.68  
+  Brandon Rosette                     M              0        13:45.54  
+  Alivia Collins                      F              0        13:57.09  
+  David Keifer                        M              0        14:28.40  
+  J. Matthew Gensel                   M              0        15:16.34  
+  Madeline Burns                      F              0        15:30.63  
+  Dave Talcott                        M              0        15:48.63  
+  Deborah Bliss                       F              0        18:59.73  

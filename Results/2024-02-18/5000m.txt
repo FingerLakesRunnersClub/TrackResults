@@ -1,0 +1,65 @@
+                               2024-02-18                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Sam Morse                           M             40        15:14.00  
+  Riley Hubisz                        M             16        15:22.00  
+  Chris Senez                         M             34        16:21.00  
+  Sam Allen                           M             21        16:26.00  
+  Crosby Woods                        M             17        16:28.00  
+  Tim Phelps                          M             32        16:29.00  
+  Ryan Lohr                           M             24        16:32.00  
+  Evan Miller                         M             19        16:34.00  
+  Roger Moseley                       M             49        17:11.00  
+  Gavin Griffin                       M             19        17:23.00  
+  Dave Cook                           M             40        17:26.00  
+  Alexander Drazic                    M             24        17:28.00  
+  Caleb Bender                        M             20        17:29.00  
+  Andrew Cloke                        M             39        17:48.00  
+  Ryan Wiese                          M             19        18:05.00  
+  Maxwell Macias                      M             16        18:32.00  
+  Kilian Weinberger                   M             44        18:43.00  
+  Aaron King                          M             40        18:45.00  
+  Peter Frazier                       M             45        18:51.00  
+  Jon Lewis                           M             33        19:15.00  
+  Jason Jenks                         M             27        19:19.00  
+  Damian Clemons                      M             49        19:20.00  
+  Lauren Kosek                        F             14        19:20.00  
+  Joshua Langley                      M             29        19:27.00  
+  Donna Langerfeld                    F             37        19:29.00  
+  Kaleb Smith                         M             29        19:33.00  
+  Stephen Jesch                       M             54        19:45.00  
+  Jaden Bailor                        M             15        20:00.00  
+  Heather Webster                     F             50        20:01.00  
+  Liz Hartman                         F             41        20:11.00  
+  Arjun Devraj                        M             24        20:24.00  
+  Anne Cavanaugh                      F             19        20:58.00  
+  Steven Vanek                        M             52        20:59.00  
+  Stella Mason                        F             17        21:02.00  
+  Liz Frankel                         F             37        21:08.00  
+  Casey Carlstrom                     M             65        21:10.00  
+  Alex Kleinerman                     F             42        21:33.00  
+  Amanda Robertson                    F             36        21:37.00  
+  Jade Barth                          F             44        21:48.00  
+  Phil Johnson                        M             41        22:09.00  
+  Kate Hulsey                         F             15        22:24.00  
+  Lekha Revankar                      F             25        23:16.00  
+  Amalia Skilton                      F             31        23:25.00  
+  Ivy Murphy                          F             18        23:34.00  
+  Heidi Swarts                        F             50        23:53.00  
+  Caleb Turner                        M             20        24:21.00  
+  Carrie Langley                      F             36        25:09.00  
+  Bryan Gorges                        M             38        25:18.00  
+  Dana Vazquez                        F             27        25:31.00  
+  Francisco Noguera                   M             27        25:32.00  
+  Mckenna Norton                      F             20        25:36.00  
+  Dirk Swart                          M             54        25:36.00  
+  Charles Strobel III                 M             53        25:47.00  
+  Mary Cook                           F             52        27:36.00  
+  Mark Rybinski                       M             68        27:59.00  
+  Thad Demulder                       M             58        28:10.00  
+  Erin Talcott                        F             45        28:47.00  
+  Abhishek Vijaya Kumar               M             27        29:00.00  
+  Madison Tuttle                      F             15        29:03.00  
+  Madigan White                       F             14        31:29.00  

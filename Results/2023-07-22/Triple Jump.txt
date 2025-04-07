@@ -1,0 +1,10 @@
+                               2023-07-22                               
+                              Triple Jump                               
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Justin Hargraves                    M              0       44'02.00"  
+  Dafydd Williams                     M             14       38'11.00"  
+  Carter DeRosa                       M              0       38'00.75"  
+  Tom Pinkowski                       M              0       36'07.50"  
+  Julia Hubbard                       F              0       31'10.00"  

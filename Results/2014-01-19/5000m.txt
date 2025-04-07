@@ -1,0 +1,36 @@
+                               2014-01-19                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Juan Martinez                       M              0        16:18.90  
+  Dan Schaffer                        M              0        16:54.50  
+  Hunter Hoffman                      M              0        17:04.30  
+  Declan Kottmeier                    M              0        17:14.20  
+  Dan Dracup                          M              0        17:39.20  
+  Michael Lam                         M              0        17:47.80  
+  Bryce Derick                        M              0        17:52.70  
+  James Golden                        M              0        17:53.70  
+  Jason Christopherson                M              0        18:34.60  
+  Jared Strait                        M              0        18:40.90  
+  Bryan Kurcoba                       M              0        19:44.80  
+  Skip Baxter                         M              0        19:59.00  
+  Paul Sweeney                        M              0        20:23.30  
+  Evan Keister                        M              0        20:24.80  
+  Brendan O'Brien                     M              0        20:25.50  
+  Tim Ingall                          M              0        20:29.70  
+  Anne Shafer-Nolan                   F              0        20:32.20  
+  Gavin Derick                        M              0        20:36.50  
+  Melissa Hubisz                      F              0        20:39.70  
+  Emily Harding                       F              0        20:40.90  
+  Skip Strobel                        M              0        20:44.70  
+  Faithe Ketchum                      F              0        21:06.30  
+  Brynne Ketchum                      F              0        21:27.40  
+  Howard Iseri                        M              0        22:10.90  
+  Alivia Collins                      F              0        22:23.30  
+  Abby Dejneka                        F              0        22:41.20  
+  Leann Cooper                        F              0        25:00.00  
+  Scott Erdman                        M              0        25:20.60  
+  Danielle Van Gheem                  F              0        25:22.50  
+  Gail Bauman                         F              0        28:03.70  
+  James Miner                         M              0        28:51.90  

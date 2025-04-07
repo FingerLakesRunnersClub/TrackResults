@@ -1,0 +1,12 @@
+                               2023-06-27                               
+                                 Discus                                 
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Matthew Funicelli                   M             23      146'05.00"  
+  Collin Karl                         M              0       96'06.00"  
+  Cameron Cron                        M              0       92'11.00"  
+  David Shea                          M              0       92'04.00"  
+  Shea Young                          M             18       90'03.00"  
+  Janice Carter                       F              0       86'00.00"  
+  Noble Snyder                        M              0       51'04.00"  

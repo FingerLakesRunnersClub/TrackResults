@@ -1,0 +1,71 @@
+                               2023-01-15                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Henry Williams                      M              0         4:30.00  
+  Lucas Baker                         M              0         4:34.00  
+  Eric Repp                           M              0         4:49.00  
+  Charles McCurdy                     M             18         4:50.00  
+  Riley Hubisz                        M             15         4:50.00  
+  Zayne Howley                        M              0         4:53.00  
+  Dan Timmerman                       M              0         4:54.00  
+  Nick Ryan                           M             27         4:55.00  
+  Carter Stevens                      M             16         5:04.00  
+  Joseph Mora                         M             61         5:11.00  
+  Bella Burda                         F             25         5:13.00  
+  Tristan Lambert                     M             46         5:19.00  
+  Roger Moseley                       M             48         5:22.00  
+  Reid Bush                           M              0         5:24.00  
+  Joseph Pratt                        M              0         5:24.00  
+  William Boscia                      M             14         5:31.00  
+  Peter Frazier                       M             44         5:32.00  
+  Bryan Hess                          M             15         5:43.00  
+  Donna Langerfeld                    F             36         5:46.00  
+  Xander Vakkas                       M              0         5:49.00  
+  John Feenan                         M              0         5:52.00  
+  Keith Eggleston                     M              0         5:52.00  
+  James Kane                          M              0         5:53.00  
+  Liz Hartman                         F             40         5:53.00  
+  Damian Clemons                      M             48         5:53.00  
+  Casey Carlstrom                     M              0         5:55.00  
+  Rob White                           M             53         5:56.00  
+  Jeremy Wheeler                      M              0         5:58.00  
+  Steven Vanek                        M              0         5:58.00  
+  Gary Williams                       M             58         6:00.00  
+  Ronan Williams                      M             13         6:00.00  
+  Tucker Flaitz                       M             13         6:04.00  
+  Alistair Hayden                     M              0         6:07.00  
+  Abigail Wagner                      F             12         6:23.00  
+  Luca Romans                         M              0         6:23.00  
+  Benjamin Lambert                    M             16         6:25.00  
+  Bella Beres                         F             12         6:35.00  
+  Charlie Wukovitz                    M             11         6:35.00  
+  Scott Ulrich                        M             49         6:39.00  
+  Gerrit Van Loon                     M              0         6:40.00  
+  Gary Mason                          M             61         6:41.00  
+  Ayasha Schweiger                    F             16         6:47.00  
+  Elliot Rudd                         M              0         6:47.00  
+  Lexi Strobel                        F             12         6:50.00  
+  Connor Harrington                   M             11         6:50.00  
+  Alison Belcher                      F              0         6:50.00  
+  Molly Doran                         F             10         6:53.00  
+  Verity Platt                        F             45         6:57.00  
+  Jennifer Toti                       F             45         7:06.00  
+  Levi Hovey                          M              0         7:20.00  
+  Kate Hovey                          F              0         7:20.00  
+  Violet Miller                       F             10         7:21.00  
+  Chad Hovey                          M              0         7:21.00  
+  Lauren Belcher                      F              0         7:41.00  
+  Colleen Newman                      F              0         7:44.00  
+  Laurel Gilmer                       F              0         7:50.00  
+  Tonya Engst                         F              0         7:52.00  
+  Keene Strickland                    M              0         8:11.00  
+  Laura Helmerick                     F             63         8:14.00  
+  Maple Hubisz                        F             11         8:42.00  
+  Steven Clark                        M             68         8:46.00  
+  Joseph Sullivan                     M             65         8:59.00  
+  Deborah Bliss                       F             75         9:20.00  
+  James Miner                         M              0         9:34.00  
+  Madison Tuttle                      F             14         9:38.00  
+  Johnny VanScoyk                     M             16        10:59.00  

@@ -1,0 +1,29 @@
+                               2023-02-19                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Lucas Baker                         M              0        16:39.00  
+  Jordan Varano                       M              0        17:04.00  
+  Ryan Lohr                           M              0        17:20.00  
+  Ian Golden                          M              0        17:44.00  
+  Andrew Woodruff                     M             19        17:48.00  
+  Peter Frazier                       M             44        18:47.00  
+  Jake Roman                          M              0        19:07.00  
+  Tristan Lambert                     M             46        19:30.00  
+  Zack Despreaux                      M             29        19:56.00  
+  Toby Salisbury                      M             21        19:57.00  
+  Liz Hartman                         F             40        20:16.00  
+  Dylan Reisch                        M             21        20:37.00  
+  Kurt Brosnan                        M              0        20:40.00  
+  Olivia Zeigler                      F              0        21:32.00  
+  John Clark                          M              0        22:03.00  
+  Caleb Turner                        M              0        23:05.00  
+  Christopher Collier                 M              0        23:22.00  
+  Aria Logan                          F              0        24:25.00  
+  Tracey More                         M              0        25:56.00  
+  Jen Lombardi                        F              0        25:58.00  
+  Charles W Strobel III               M              0        26:09.00  
+  Jacob Smith                         M              0        26:53.00  
+  Matthew Mahmet                      M             21        27:23.00  
+  Nicole Belcher                      F              0        31:09.00  

@@ -1,0 +1,60 @@
+                               2023-03-12                               
+                                  60m                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Bradock Salisbury                   M              0            7.17  
+  Ryan Haisler                        M              0            7.19  
+  Aidan Tierney                       M              0            7.50  
+  Noah Bosket                         M              0            7.60  
+  Rodrigo Perez                       M              0            7.87  
+  Alexander Daniels                   M              0            7.98  
+  James Eastman                       M              0            8.03  
+  Tess Eisner                         F              0            8.16  
+  Abel Aguilar                        M              0            8.33  
+  Sebastian Bartishevich              M             14            8.38  
+  Logan Russo                         M             12            8.42  
+  Jalasia DeMember                    F              0            8.44  
+  Ayoub Oulida                        M              0            8.52  
+  John McEachen                       M              0            8.53  
+  Megan Wong                          F              0            8.53  
+  Jacob Smith                         M              0            8.95  
+  Gavin White                         M              0            9.07  
+  Wesley Millspaugh                   M              0            9.27  
+  Hicham Oulida                       M              0            9.33  
+  Arya Basu                           M              0            9.36  
+  Sylas Ruza                          M             11            9.75  
+  Connor Harrington                   M             11            9.78  
+  Dominik Bartishevich                M              8            9.92  
+  Conor DeSantis                      M             13            9.93  
+  Sebastian Hilson-Schneider          M              0           10.19  
+  Dan Boscia                          M              0           10.24  
+  Gary Stump                          M             12           10.28  
+  Madelyn Weeks                       F              0           10.28  
+  Braedyn Copp                        M             10           10.36  
+  Karina Swarthout                    F             12           10.38  
+  Finley Hulsey                       F              0           10.40  
+  Arden Millspaugh                    M              0           10.57  
+  Matthew Skeval                      M              0           10.81  
+  Jasmine Wagner                      F             14           10.97  
+  Elias Nichols                       M              8           11.13  
+  Carter LeShore                      M             10           11.14  
+  Alayna Kemp                         M              0           11.16  
+  Hayden Stewart                      F             11           11.20  
+  Rowan DeSantis                      F              9           11.22  
+  Aiden Salisbury                     M              0           11.23  
+  Elliana Russo                       F              7           11.30  
+  Olivia Melnychuk                    F              6           11.67  
+  Ysenia Ashton                       F              8           11.69  
+  Elijah McBean                       M             10           11.86  
+  Xavier Campbell                     M              9           12.06  
+  Mason Vanetten                      M              0           12.08  
+  Caroline Hulsey                     M              0           12.08  
+  Taytum Rose                         F              9           12.14  
+  Matt Hartman                        M             10           12.18  
+  Somaya Haynes                       F             10           12.51  
+  Nicholas Justice                    M              0           12.64  
+  Jayvyn Mahoney                      M              7           13.11  
+  Zamara Butler                       F              7           13.68  
+  Cara Copp                           F              7           13.91  
+  Camryn Golden                       F              0           18.23  
