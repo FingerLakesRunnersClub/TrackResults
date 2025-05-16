@@ -235,7 +235,7 @@ public class Scraper
 					: null
 			};
 
-			if (time is not null || distance is not null)
+			if (result.Time is not null || result.Distance is not null)
 				results.Add(result);
 		}
 

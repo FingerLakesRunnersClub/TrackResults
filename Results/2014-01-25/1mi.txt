@@ -3,8 +3,6 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-  Mark Rybinski                       M             58      
-  Katie Aldridge                      F             40      
   Nick Berra                          M             44         4:25.09  
   Mark Williams                       M             41         4:26.15  
   Scott Weeks                         M             41         4:28.05  

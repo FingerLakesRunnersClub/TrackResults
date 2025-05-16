@@ -3,8 +3,6 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-  Mike Egle                           M             51      
-  Stephen Chantry                     M             58      
   Scott Weeks                         M             40         4:23.39  
   Nick Berra                          M             43         4:29.12  
   Lance Elliott                       M             42         4:32.92  

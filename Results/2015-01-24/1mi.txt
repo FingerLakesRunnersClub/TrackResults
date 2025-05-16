@@ -3,7 +3,6 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-  Javier Martinez                     M             44      
   Scott Weeks                         M             42         4:34.02  
   Mark Williams                       M             42         4:35.42  
   Mike Padilla                        M             40         4:38.89  

@@ -3,7 +3,6 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-  Mitchell Vargas                     M             13      
   Adrian Milisavljevich               M             23           13.30  
   Tanner Erdman                       M             13           14.80  
   Skyler Roberts                      F             12           14.90  
