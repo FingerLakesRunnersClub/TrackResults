@@ -3,89 +3,89 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M             20           11.34  
-                                      M             17           11.51  
-                                      M             21           11.53  
-                                      M             21           11.80  
-                                      M             48           12.82  
-                                      M             45           13.65  
-                                      M             13           14.91  
-                                      M             13           14.95  
-                                      F             12           15.01  
-                                      M             45           15.02  
-                                      M             11           15.05  
-                                      F             14           15.09  
-                                      M             13           15.17  
-                                      F             13           15.24  
-                                      F             11           15.47  
-                                      M             11           15.56  
-                                      M             28           15.74  
-                                      M             13           15.83  
-                                      M             51           16.00  
-                                      M             11           16.64  
-                                      F              0           16.72  
-                                      F             11           16.80  
-                                      F             11           17.06  
-                                      M              9           17.18  
-                                      F             10           17.39  
-                                      M             12           17.48  
-                                      M             10           17.48  
-                                      M             13           17.48  
-                                      F             11           17.52  
-                                      M             12           17.53  
-                                      M              9           17.62  
-                                      F              9           17.78  
-                                      M              0           18.03  
-                                      M              9           18.38  
-                                      F              8           18.52  
-                                      M              9           18.57  
-                                      M              0           18.57  
-                                      F             10           18.82  
-                                      M              9           18.94  
-                                      M             11           18.95  
-                                      F              7           18.96  
-                                      M              9           19.05  
-                                      F              8           19.36  
-                                      F              0           19.50  
-                                      F              9           19.59  
-                                      M              8           19.73  
-                                      M              9           19.78  
-                                      F              9           19.93  
-                                      M              7           19.96  
-                                      F              7           19.98  
-                                      M              4           20.16  
-                                      M              6           20.17  
-                                      M              6           20.34  
-                                      M              6           20.38  
-                                      F              7           20.68  
-                                      F              8           20.82  
-                                      M              7           20.96  
-                                      F             11           21.01  
-                                      F              7           21.09  
-                                      M              8           21.32  
-                                      F              7           21.57  
-                                      M              6           22.05  
-                                      M              7           22.11  
-                                      F              6           22.23  
-                                      F              6           22.45  
-                                      F              9           22.75  
-                                      M              8           23.04  
-                                      M              6           23.21  
-                                      F              9           23.63  
-                                      F              8           23.96  
-                                      M              7           24.16  
-                                      F              5           24.25  
-                                      M              6           24.79  
-                                      M              5           24.80  
-                                      M              6           25.09  
-                                      F              7           25.18  
-                                      F              4           25.55  
-                                      F              6           26.01  
-                                      M              6           26.47  
-                                      M              6           27.97  
-                                      M              7           28.10  
-                                      M              5           29.22  
-                                      F              3           31.69  
-                                      M              5           32.74  
-                                      M              4           34.93  
-                                      F              4           36.93  
+  Mike D'Angelo                       M             20           11.34  
+  Eric Ryan                           M             17           11.51  
+  Leon Atkins                         M             21           11.53  
+  Sean Satchwell                      M             21           11.80  
+  John McEachen                       M             48           12.82  
+  Gregory Green                       M             45           13.65  
+  Marcus Homa                         M             13           14.91  
+  Noah Ruffer                         M             13           14.95  
+  Elizabeth Shaw                      F             12           15.01  
+  Karl Granroth                       M             45           15.02  
+  James Saunders                      M             11           15.05  
+  Emma Beckley                        F             14           15.09  
+  Rowan Caldwell                      M             13           15.17  
+  Ashlyn Tarbert                      F             13           15.24  
+  Anna Lowe                           F             11           15.47  
+  Nate Jones                          M             11           15.56  
+  Tyler Reid                          M             28           15.74  
+  O Col                               M             13           15.83  
+  Gordie Auckland                     M             51           16.00  
+  Gregory Homa                        M             11           16.64  
+  Elsa Wood                           F              0           16.72  
+  Annoura Stewart                     F             11           16.80  
+  Elena Ruffer                        F             11           17.06  
+  William Boscia                      M              9           17.18  
+  Amalie White                        F             10           17.39  
+  Samson Telford                      M             12           17.48  
+  Griffin Conrad                      M             10           17.48  
+  Kieran Stewart                      M             13           17.48  
+  Tayden Johnson-Stayton              F             11           17.52  
+  Lucius Dann                         M             12           17.53  
+  Nicholas Mann                       M              9           17.62  
+  Maya Birch                          F              9           17.78  
+  Charlie Lovell                      M              0           18.03  
+  Jax Johnson-Stayton                 M              9           18.38  
+  Ursula Silbert                      F              8           18.52  
+  Brayden Rockefellar                 M              9           18.57  
+  James Lovell                        M              0           18.57  
+  Eva Michelucci                      F             10           18.82  
+  Chase Johnson-Stayton               M              9           18.94  
+  Lincoln Woodall                     M             11           18.95  
+  L Col                               F              7           18.96  
+  Griffin Gold-Rogers                 M              9           19.05  
+  Ana Kiely                           F              8           19.36  
+  Jasmine Wagner                      F              0           19.50  
+  Zadie Wang                          F              9           19.59  
+  Theodore Smith                      M              8           19.73  
+  Robert Kong                         M              9           19.78  
+  Norah Howell                        F              9           19.93  
+  Aaren Stewart                       M              7           19.96  
+  Lila MacLean                        F              7           19.98  
+  Cameron O'Leary                     M              4           20.16  
+  Asher Moseley                       M              6           20.17  
+  Milo Moseley                        M              6           20.34  
+  Ben Sweet                           M              6           20.38  
+  Maya Feschotte                      F              7           20.68  
+  Gracie Brazier                      F              8           20.82  
+  Toby Moore                          M              7           20.96  
+  Gabriella Mann                      F             11           21.01  
+  Phoebe Skeide                       F              7           21.09  
+  Asher Martin                        M              8           21.32  
+  Claire Ruffer                       F              7           21.57  
+  Arya Basu                           M              6           22.05  
+  Sawyer Radcliffe                    M              7           22.11  
+  Fiona Dann                          F              6           22.23  
+  Natalie Lovenheim                   F              6           22.45  
+  Aliah Woodall                       F              9           22.75  
+  Ethan Hesse                         M              8           23.04  
+  Ryan Freed                          M              6           23.21  
+  Mia Morse                           F              9           23.63  
+  Kathryn Holloway                    F              8           23.96  
+  Ethan Littlejohn                    M              7           24.16  
+  Alice Mou                           F              5           24.25  
+  Griffin Guelpa                      M              6           24.79  
+  Josiah Swiller                      M              5           24.80  
+  Kellan Smith                        M              6           25.09  
+  Grace Folsom                        F              7           25.18  
+  Roslyn Folsom                       F              4           25.55  
+  Annaliese Granroth                  F              6           26.01  
+  Rhodes Woodall                      M              6           26.47  
+  Leo Morse                           M              6           27.97  
+  Steven Kong                         M              7           28.10  
+  Mason Hesse                         M              5           29.22  
+  Kaarina Granroth                    F              3           31.69  
+  Daniel Lin                          M              5           32.74  
+  Marijn Stewart                      M              4           34.93  
+  Avery Ruffer                        F              4           36.93  

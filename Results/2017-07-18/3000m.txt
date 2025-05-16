@@ -3,16 +3,16 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0         9:31.00  
-                                      M              0         9:54.00  
-                                      M              0        10:26.00  
-                                      M              0        10:30.00  
-                                      M              0        10:48.00  
-                                      M              0        13:13.00  
-                                      M              0        13:14.00  
-                                      M              0        13:31.00  
-                                      M              0        13:34.00  
-                                      M              0        15:14.00  
-                                      M              0        15:21.00  
-                                      M              0        15:43.00  
-                                      F              0        16:09.00  
+  Scott Weeks                         M              0         9:31.00  
+  Mikhail Kern                        M              0         9:54.00  
+  Josh Cuddy                          M              0        10:26.00  
+  Chris Mason                         M              0        10:30.00  
+  Benjamin Fenton                     M              0        10:48.00  
+  Marcus Homa                         M              0        13:13.00  
+  Kevin Nelson                        M              0        13:14.00  
+  John Hummel                         M              0        13:31.00  
+  David Keifer                        M              0        13:34.00  
+  Michael Yu                          M              0        15:14.00  
+  James Mou                           M              0        15:21.00  
+  Benjamin Negley                     M              0        15:43.00  
+  Taylor Farrell                      F              0        16:09.00  

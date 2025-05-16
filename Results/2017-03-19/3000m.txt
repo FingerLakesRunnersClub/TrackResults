@@ -3,46 +3,46 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0         8:58.20  
-                                      M              0         9:05.20  
-                                      M              0         9:15.90  
-                                      M              0         9:17.10  
-                                      M              0         9:20.50  
-                                      M              0         9:48.20  
-                                      M              0         9:49.90  
-                                      M              0         9:58.20  
-                                      M              0        10:31.00  
-                                      F              0        10:40.00  
-                                      M              0        10:40.70  
-                                      M              0        10:46.10  
-                                      M              0        10:50.20  
-                                      M              0        10:57.90  
-                                      F              0        11:04.40  
-                                      M              0        11:08.70  
-                                      M              0        11:16.40  
-                                      F              0        11:17.80  
-                                      M              0        11:18.30  
-                                      M              0        11:22.60  
-                                      M              0        11:31.90  
-                                      M              0        11:37.00  
-                                      M              0        11:38.80  
-                                      M              0        12:00.10  
-                                      F              0        12:05.80  
-                                      M              0        12:06.30  
-                                      F              0        12:28.00  
-                                      F              0        12:34.00  
-                                      F              0        12:34.80  
-                                      F              0        12:39.40  
-                                      M              0        13:03.10  
-                                      F              0        13:32.70  
-                                      M              0        13:44.40  
-                                      M              0        13:46.10  
-                                      M              0        14:16.90  
-                                      M              0        14:17.30  
-                                      M              0        14:24.80  
-                                      M              0        15:00.30  
-                                      F              0        15:37.00  
-                                      F              0        15:47.30  
-                                      M              0        16:03.00  
-                                      M              0        17:23.90  
-                                      F              0        19:24.80  
+  Evan Magnussen                      M              0         8:58.20  
+  Patrick Queiroz                     M              0         9:05.20  
+  Ace Serianni                        M              0         9:15.90  
+  Andrew Boyce                        M              0         9:17.10  
+  Dave Cook                           M              0         9:20.50  
+  Sam Sharlow                         M              0         9:48.20  
+  James Derick                        M              0         9:49.90  
+  Joseph Thompson                     M              0         9:58.20  
+  Dylan Mariuzza                      M              0        10:31.00  
+  Jordyn Naylon                       F              0        10:40.00  
+  Simon Seidl                         M              0        10:40.70  
+  Leo Kolshorn                        M              0        10:46.10  
+  Thomas Kressly                      M              0        10:50.20  
+  Matthew Caffrey                     M              0        10:57.90  
+  Karen Simmonds-Brady                F              0        11:04.40  
+  Tyler Hill                          M              0        11:08.70  
+  Ely Giroux                          M              0        11:16.40  
+  Morgan Lucason                      F              0        11:17.80  
+  Matthew Francis-Gawors              M              0        11:18.30  
+  Nate Barott                         M              0        11:22.60  
+  Matthew Brayman                     M              0        11:31.90  
+  Gary Williams                       M              0        11:37.00  
+  Jason Brayman                       M              0        11:38.80  
+  Alivia Collins                      M              0        12:00.10  
+  Brynne Ketchum                      F              0        12:05.80  
+  Thomas Ketchum                      M              0        12:06.30  
+  Mary Bushallow                      F              0        12:28.00  
+  Sarah Baird                         F              0        12:34.00  
+  Haley Hinds                         F              0        12:34.80  
+  Nicolette Swanbery                  F              0        12:39.40  
+  Brendan O'Brien                     M              0        13:03.10  
+  Amanda Fastiggi                     F              0        13:32.70  
+  David Keifer                        M              0        13:44.40  
+  Tucker Flaitz                       M              0        13:46.10  
+  Justin Smith                        M              0        14:16.90  
+  Seth Madigan                        M              0        14:17.30  
+  Dave Talcott                        M              0        14:24.80  
+  Gerrit Van Loon                     M              0        15:00.30  
+  Divya Shankar                       F              0        15:37.00  
+  Terra Peterson                      F              0        15:47.30  
+  Joe Reynolds                        M              0        16:03.00  
+  Don Tompkins                        M              0        17:23.90  
+  Jennifer Tompkins                   F              0        19:24.80  

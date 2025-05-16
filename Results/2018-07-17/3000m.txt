@@ -3,16 +3,16 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M             20         8:59.00  
-                                      M             34         9:34.00  
-                                      M             29        10:12.00  
-                                      M             36        10:50.00  
-                                      M             19        11:10.00  
-                                      M             13        11:51.00  
-                                      M             21        12:19.00  
-                                      M             40        12:38.00  
-                                      M             45        12:57.00  
-                                      F             46        13:33.00  
-                                      M              9        14:09.00  
-                                      M              9        15:31.00  
-                                      M              7        16:40.00  
+  Joshua Derrick                      M             20         8:59.00  
+  Dave Cook                           M             34         9:34.00  
+  Chris Mason                         M             29        10:12.00  
+  Michael Stewart                     M             36        10:50.00  
+  Evan Miller                         M             19        11:10.00  
+  Caleb Belanger                      M             13        11:51.00  
+  Jason Jenks                         M             21        12:19.00  
+  Hendrik Brutsagrt                   M             40        12:38.00  
+  Karl Granroth                       M             45        12:57.00  
+  Mary Bushallow                      F             46        13:33.00  
+  Tucker Flaitz                       M              9        14:09.00  
+  Remy Feschotte                      M              9        15:31.00  
+  Oscar Jenes                         M              7        16:40.00  

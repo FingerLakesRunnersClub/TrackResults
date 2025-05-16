@@ -3,13 +3,13 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0        16:09.00  
-                                      M             34        16:10.00  
-                                      M             25        17:23.00  
-                                      M             26        17:28.00  
-                                      M             36        18:54.00  
-                                      M             20        20:08.00  
-                                      M             21        21:00.00  
-                                      F             47        23:16.00  
-                                      M             53        23:58.00  
-                                      M             12        27:49.00  
+  Scott Weeks                         M              0        16:09.00  
+  Dave Cook                           M             34        16:10.00  
+  Sean Dunn                           M             25        17:23.00  
+  William Mullen                      M             26        17:28.00  
+  Michael Stewart                     M             36        18:54.00  
+  Franklin Skarupinski                M             20        20:08.00  
+  Jason Jenks                         M             21        21:00.00  
+  Mary Bushallow                      F             47        23:16.00  
+  Kevin Nelson                        M             53        23:58.00  
+  Lucius Dann                         M             12        27:49.00  

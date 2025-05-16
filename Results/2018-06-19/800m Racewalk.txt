@@ -3,8 +3,8 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M             53         5:02.00  
-                                      M             51         5:19.00  
-                                      F             69         6:07.00  
-                                      F             44         6:27.00  
-                                      F             51         6:48.00  
+  Kevin Nelson                        M             53         5:02.00  
+  Gordie Auckland                     M             51         5:19.00  
+  Debby Scheraga                      F             69         6:07.00  
+  Chanhom Green                       F             44         6:27.00  
+  Amelia Habicht (400m)               F             51         6:48.00  

@@ -3,52 +3,52 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0        10:37.00  
-                                      M              0        10:52.00  
-                                      M              0        11:03.00  
-                                      M              0        11:08.40  
-                                      M              0        11:11.00  
-                                      M              0        11:19.00  
-                                      M              0        11:28.00  
-                                      M              0        11:31.00  
-                                      M              0        11:33.00  
-                                      M              0        11:38.00  
-                                      M              0        11:40.00  
-                                      M              0        11:49.00  
-                                      M              0        11:54.00  
-                                      M              0        12:05.00  
-                                      F              0        12:06.00  
-                                      M              0        12:12.00  
-                                      M              0        12:15.00  
-                                      M              0        12:21.00  
-                                      M              0        12:23.00  
-                                      M              0        12:31.00  
-                                      M              0        12:35.00  
-                                      M              0        12:55.00  
-                                      M              0        13:06.00  
-                                      M              0        13:13.00  
-                                      F              0        13:17.00  
-                                      M              0        13:19.00  
-                                      M              0        13:23.00  
-                                      M              0        13:23.90  
-                                      M              0        13:40.00  
-                                      M              0        13:42.00  
-                                      F              0        13:43.00  
-                                      M              0        13:54.00  
-                                      M              0        13:55.00  
-                                      M              0        13:57.00  
-                                      M              0        13:59.00  
-                                      F              0        14:07.00  
-                                      F              0        14:15.00  
-                                      M              0        14:15.90  
-                                      M              0        14:25.00  
-                                      M              0        14:57.00  
-                                      M              0        14:58.00  
-                                      M              0        15:19.00  
-                                      M              0        15:25.00  
-                                      M              0        15:48.00  
-                                      M              0        15:58.00  
-                                      M              0        16:00.00  
-                                      F              0        16:11.00  
-                                      M              0        17:48.00  
-                                      M              0        20:39.00  
+  Ace Serianni                        M              0        10:37.00  
+  Joseph Thompson                     M              0        10:52.00  
+  Mike Bronson                        M              0        11:03.00  
+  Nathaniel Diamond                   M              0        11:08.40  
+  Antonio D'Arpino                    M              0        11:11.00  
+  Matthew Caffrey                     M              0        11:19.00  
+  Alex Martin                         M              0        11:28.00  
+  Dylan Beckhorn                      M              0        11:31.00  
+  Will Brown                          M              0        11:33.00  
+  Eric Stamer                         M              0        11:38.00  
+  Andy McCabe                         M              0        11:40.00  
+  Adam Nasta                          M              0        11:49.00  
+  T Ketchum                           M              0        11:54.00  
+  Will Beckhorn                       M              0        12:05.00  
+  Olivia Lovejoy                      F              0        12:06.00  
+  John Nolis                          M              0        12:12.00  
+  Mason Lehman                        M              0        12:15.00  
+  Bailey Jung                         M              0        12:21.00  
+  Johnston Tucker                     M              0        12:23.00  
+  Howard Iseri                        M              0        12:31.00  
+  Alex Hoerig                         M              0        12:35.00  
+  Danny Decker                        M              0        12:55.00  
+  Stephen Cadoux                      M              0        13:06.00  
+  Miles Mischke                       M              0        13:13.00  
+  Amrita Ramamurthy                   F              0        13:17.00  
+  Ian Philip                          M              0        13:19.00  
+  Ben Daniel                          M              0        13:23.00  
+  Will Murtagh                        M              0        13:23.90  
+  Gerrit Van Loon                     M              0        13:40.00  
+  Ben Zerevitz                        M              0        13:42.00  
+  Laurel McIntyre                     F              0        13:43.00  
+  Gary Williams                       M              0        13:54.00  
+  Nick Tagg                           M              0        13:55.00  
+  Kevin Nelson                        M              0        13:57.00  
+  Will Van Buren                      M              0        13:59.00  
+  Katherine Polakowski                F              0        14:07.00  
+  Mckenzi Bellinger                   F              0        14:15.00  
+  James Miner                         M              0        14:15.90  
+  Cam Meier                           M              0        14:25.00  
+  Jan Hunsinger                       M              0        14:57.00  
+  John Posca                          M              0        14:58.00  
+  Jack Lampman                        M              0        15:19.00  
+  John Wikiera                        M              0        15:25.00  
+  Isaiah Rinebold                     M              0        15:48.00  
+  Max Sheiman                         M              0        15:58.00  
+  Joe Reynolds                        M              0        16:00.00  
+  Day Kibilds                         F              0        16:11.00  
+  Bruno Salcedo                       M              0        17:48.00  
+  Don Tompkins                        M              0        20:39.00  

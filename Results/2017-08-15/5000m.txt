@@ -3,12 +3,12 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0        15:29.70  
-                                      M              0        16:03.70  
-                                      F              0        17:59.60  
-                                      M              0        19:22.90  
-                                      M              0        21:52.20  
-                                      M              0        22:48.40  
-                                      M              0        23:37.10  
-                                      M              0        26:27.90  
-                                      M              0        30:03.10  
+  Adam Pacheck                        M              0        15:29.70  
+  Andrew Davis                        M              0        16:03.70  
+  Jacquie Huben                       F              0        17:59.60  
+  Phil Kwasney                        M              0        19:22.90  
+  Kevin Nelson                        M              0        21:52.20  
+  John Hummel                         M              0        22:48.40  
+  Brendan O'Brien                     M              0        23:37.10  
+  James Mou                           M              0        26:27.90  
+  Jason Sokoloff                      M              0        30:03.10  

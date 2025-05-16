@@ -3,82 +3,82 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0           53.14  
-                                      M              0           54.00  
-                                      M              0           54.85  
-                                      M              0           55.33  
-                                      M              0           57.09  
-                                      M              0           57.55  
-                                      M              0           57.75  
-                                      M              0           58.78  
-                                      M              0           59.38  
-                                      M              0           59.40  
-                                      M              0         1:01.14  
-                                      M              0         1:02.06  
-                                      M              0         1:02.24  
-                                      M              0         1:02.85  
-                                      M              0         1:03.99  
-                                      F              0         1:05.21  
-                                      M              0         1:07.19  
-                                      M              0         1:08.04  
-                                      M              0         1:08.31  
-                                      F              0         1:08.64  
-                                      F              0         1:09.57  
-                                      F              0         1:09.69  
-                                      M              0         1:09.95  
-                                      F              0         1:10.61  
-                                      F              0         1:11.00  
-                                      F              0         1:11.00  
-                                      M              0         1:11.00  
-                                      F              0         1:12.00  
-                                      M              0         1:12.00  
-                                      M              0         1:12.00  
-                                      M              0         1:13.00  
-                                      F              0         1:13.00  
-                                      M              0         1:13.00  
-                                      M              0         1:14.00  
-                                      M              0         1:14.00  
-                                      M              0         1:15.00  
-                                      M              0         1:16.00  
-                                      M              0         1:16.00  
-                                      F              0         1:17.00  
-                                      F              0         1:18.00  
-                                      M              0         1:18.00  
-                                      F              0         1:19.00  
-                                      M              0         1:19.00  
-                                      F              0         1:21.00  
-                                      F              0         1:21.00  
-                                      M              0         1:22.00  
-                                      M              0         1:22.00  
-                                      F              0         1:23.00  
-                                      M              0         1:23.00  
-                                      F              0         1:24.00  
-                                      F              0         1:24.00  
-                                      M              0         1:25.00  
-                                      F              0         1:25.00  
-                                      M              0         1:27.00  
-                                      F              0         1:28.00  
-                                      F              0         1:28.00  
-                                      M              0         1:28.00  
-                                      M              0         1:28.00  
-                                      F              0         1:29.00  
-                                      F              0         1:29.00  
-                                      M              0         1:30.00  
-                                      M              0         1:31.00  
-                                      F              0         1:32.00  
-                                      M              0         1:32.00  
-                                      F              0         1:35.00  
-                                      M              0         1:37.00  
-                                      M              0         1:38.00  
-                                      F              0         1:39.00  
-                                      M              0         1:40.00  
-                                      M              0         1:40.00  
-                                      F              0         1:47.00  
-                                      M              0         1:49.00  
-                                      F              0         1:52.00  
-                                      F              0         1:59.00  
-                                      F              0         1:59.00  
-                                      M              0         2:01.00  
-                                      M              0         2:02.00  
-                                      M              0         2:04.00  
-                                      F              0         2:27.00  
+  Alex Spicer                         M              0           53.14  
+  Keegan Cochran                      M              0           54.00  
+  Lance Jensen                        M              0           54.85  
+  Alex DeVine                         M              0           55.33  
+  Jeb Parillo                         M              0           57.09  
+  Jesse Richard                       M              0           57.55  
+  Trevor Donovan                      M              0           57.75  
+  Donjuan Warney                      M              0           58.78  
+  Corey Whatley                       M              0           59.38  
+  Christian Haynes                    M              0           59.40  
+  Cameron Fitzgerald                  M              0         1:01.14  
+  Sasha Coyote                        M              0         1:02.06  
+  Caleb Vaow                          M              0         1:02.24  
+  Jason Brayman                       M              0         1:02.85  
+  Nash Whitmore                       M              0         1:03.99  
+  Jillian Perrault                    F              0         1:05.21  
+  Hayden Allington                    M              0         1:07.19  
+  Caden Keough                        M              0         1:08.04  
+  Eric Dyson                          M              0         1:08.31  
+  Leah O'Connell                      F              0         1:08.64  
+  Moriah Brooks                       F              0         1:09.57  
+  Mya Marsh                           F              0         1:09.69  
+  Marcus Homa                         M              0         1:09.95  
+  Lillian Jensen                      F              0         1:10.61  
+  Selah Ray                           F              0         1:11.00  
+  Jessica Wandell                     F              0         1:11.00  
+  Bange Ashton                        M              0         1:11.00  
+  Faithe Ketchem                      F              0         1:12.00  
+  Chris Mechalke                      M              0         1:12.00  
+  Chase Ripley                        M              0         1:12.00  
+  Kadin Herman                        M              0         1:13.00  
+  Erin Bruttomesso                    F              0         1:13.00  
+  Raghav Tandon                       M              0         1:13.00  
+  Nicholas Marnell                    M              0         1:14.00  
+  Joe Caruso                          M              0         1:14.00  
+  Ian Marsh                           M              0         1:15.00  
+  Garrison Balash                     M              0         1:16.00  
+  Josh Beres                          M              0         1:16.00  
+  Alexandrea Wheaton                  F              0         1:17.00  
+  Grace Heath                         F              0         1:18.00  
+  Ayinde Harewood                     M              0         1:18.00  
+  Harlee Dessoye                      F              0         1:19.00  
+  Reece Smith                         M              0         1:19.00  
+  Leolia Martin                       F              0         1:21.00  
+  Sylvie Dickerman                    F              0         1:21.00  
+  Gavin Walker                        M              0         1:22.00  
+  Colten Ketchum                      M              0         1:22.00  
+  Paige Kesterson                     F              0         1:23.00  
+  Gregory Homa                        M              0         1:23.00  
+  Ava Brucie                          F              0         1:24.00  
+  Ryann Slussser                      F              0         1:24.00  
+  Michael Millow                      M              0         1:25.00  
+  Ashley Tubbs                        F              0         1:25.00  
+  Ira West                            M              0         1:27.00  
+  Seohyeon Lee                        F              0         1:28.00  
+  Emma Sutton                         F              0         1:28.00  
+  Robert Ohl                          M              0         1:28.00  
+  Nate Freelove                       M              0         1:28.00  
+  Sadie Beres                         F              0         1:29.00  
+  Kennedy Herman                      F              0         1:29.00  
+  Tucker Flaitz                       M              0         1:30.00  
+  Hugo Templier                       M              0         1:31.00  
+  Bella Beres                         F              0         1:32.00  
+  Owen Swan                           M              0         1:32.00  
+  Lorrie Tily                         F              0         1:35.00  
+  Neil Reddy                          M              0         1:37.00  
+  Pierce Baker                        M              0         1:38.00  
+  Christopher Lawson                  F              0         1:39.00  
+  Philip Bordon                       M              0         1:40.00  
+  Daniel Casper                       M              0         1:40.00  
+  Anya Beres                          F              0         1:47.00  
+  Joe Reynolds                        M              0         1:49.00  
+  Hannah Kauffman                     F              0         1:52.00  
+  Sophie Templier                     F              0         1:59.00  
+  Leah Kauffman                       F              0         1:59.00  
+  Jack Hursch                         M              0         2:01.00  
+  Jacob Curreri                       M              0         2:02.00  
+  Charlie Wukovitz                    M              0         2:04.00  
+  Morgan Schultz                      F              0         2:27.00  

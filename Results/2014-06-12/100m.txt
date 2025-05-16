@@ -3,20 +3,20 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
+  Virgil Isenia                       M              0           11.14  
+  Artem Talanov                       M              0           11.90  
+  Josh Gaudette                       M              0           12.53  
+  bert bland                          M              0           12.86  
+  Dan Lamb                            M              0           14.78  
+  Greg Nached                         M              0           15.27  
+  Abby Dejneka                        F              0           16.82  
+  Jaxyn Mahoney                       M              0           17.34  
+  Carolyn Heckle                      F              0           17.82  
+  Zane Specht                         M              0           17.89  
+  Billy Russell                       M              0           18.64  
+  Austin Lamb                         M              0           19.42  
+  Rhys Terry                          M              0           22.00  
+  Tabitha Oakes                       F              0           22.81  
+  Joe Van Fleet                       M              0           34.10  
+  Geoff Van Fleet                     M              0           34.38  
+  Mike Van Fleet                      M              0           34.75  

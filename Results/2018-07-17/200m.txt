@@ -3,82 +3,82 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M             21           23.67  
-                                      M             23           23.84  
-                                      M             23           24.45  
-                                      M             36           25.48  
-                                      M             24           25.90  
-                                      M             20           26.01  
-                                      M             15           27.13  
-                                      M             20           27.33  
-                                      M             14           28.49  
-                                      M             13           29.75  
-                                      M             14           30.04  
-                                      M             11           31.39  
-                                      M             13           31.62  
-                                      M             14           32.39  
-                                      F             19           32.77  
-                                      M             11           33.20  
-                                      M             11           33.25  
-                                      M             52           33.57  
-                                      M             13           33.72  
-                                      M             45           34.69  
-                                      M             11           34.74  
-                                      F             11           34.97  
-                                      F             12           35.81  
-                                      F              9           35.90  
-                                      F             10           36.12  
-                                      M              7           36.63  
-                                      M             11           36.77  
-                                      F             11           37.28  
-                                      M             13           37.61  
-                                      M              9           38.32  
-                                      M             12           38.33  
-                                      M              7           38.53  
-                                      F             11           39.06  
-                                      F             11           39.19  
-                                      F             10           39.39  
-                                      M              9           39.65  
-                                      M             11           39.85  
-                                      F              8           40.94  
-                                      M              6           40.95  
-                                      M              9           41.21  
-                                      F              9           41.65  
-                                      M              6           42.11  
-                                      M              8           42.34  
-                                      F             10           42.53  
-                                      F              8           43.02  
-                                      M             11           43.22  
-                                      M              7           43.35  
-                                      M              9           43.47  
-                                      F              8           44.59  
-                                      M              6           45.03  
-                                      F              7           45.42  
-                                      F              7           46.53  
-                                      F              9           46.72  
-                                      F              7           47.47  
-                                      M              6           47.82  
-                                      F              5           48.54  
-                                      M              6           50.29  
-                                      F              6           50.77  
-                                      F              9           50.88  
-                                      F              7           51.10  
-                                      F             60           51.12  
-                                      F              9           51.22  
-                                      M              9           51.59  
-                                      F              6           51.88  
-                                      F              9           54.86  
-                                      M              6           54.98  
-                                      F              7           55.43  
-                                      F              4           56.88  
-                                      M              7           56.95  
-                                      M              6           57.56  
-                                      M              5           59.00  
-                                      M              6         1:03.60  
-                                      M              6         1:06.43  
-                                      M              4         1:09.88  
-                                      M              5         1:12.78  
-                                      M              4         1:15.09  
-                                      F              4         1:20.17  
-                                      F              4         1:25.61  
-                                      F              3         1:30.27  
+  Leon Atkins                         M             21           23.67  
+  Christopher Simmons                 M             23           23.84  
+  Isaiah Smith                        M             23           24.45  
+  Patrick Skinner                     M             36           25.48  
+  Pete Sigona                         M             24           25.90  
+  Samuel Voak                         M             20           26.01  
+  John Saunders                       M             15           27.13  
+  Franklin Skarupinski                M             20           27.33  
+  Isaiah Babb                         M             14           28.49  
+  Marcus Homa                         M             13           29.75  
+  Dillon Tyler                        M             14           30.04  
+  James Saunders                      M             11           31.39  
+  Jackson Emmick                      M             13           31.62  
+  Jack Gregorski                      M             14           32.39  
+  Maddie Schattinger                  F             19           32.77  
+  Aiden Hathorn                       M             11           33.20  
+  Griffin Conrad                      M             11           33.25  
+  Jack Salisbury                      M             52           33.57  
+  Noah Ruffer                         M             13           33.72  
+  Karl Granroth                       M             45           34.69  
+  Benjamin Lambert                    M             11           34.74  
+  Elena Ruffer                        F             11           34.97  
+  Annoura Stewart                     F             12           35.81  
+  Kendyll Hathorn                     F              9           35.90  
+  Amalie White                        F             10           36.12  
+  Tristin Weeks                       M              7           36.63  
+  Gregory Homa                        M             11           36.77  
+  Penelope Ferguson                   F             11           37.28  
+  Kieran Stewart                      M             13           37.61  
+  Nicholas Mann                       M              9           38.32  
+  Samson Telford                      M             12           38.33  
+  Ethan Littlejohn                    M              7           38.53  
+  Gabriella Mann                      F             11           39.06  
+  Sophia Ninan                        F             11           39.19  
+  Eva Michelucci                      F             10           39.39  
+  Arthur Sheshabarov                  M              9           39.65  
+  Lincoln Woodall                     M             11           39.85  
+  Katherine Sheshabarov               F              8           40.94  
+  Milo Moseley                        M              6           40.95  
+  Remy Feschotte                      M              9           41.21  
+  Roxana Maralani                     F              9           41.65  
+  Asher Moseley                       M              6           42.11  
+  Elijah Littlejohn                   M              8           42.34  
+  Alivia Kirk                         F             10           42.53  
+  Claire Ruffer                       F              8           43.02  
+  Johnathan Bael                      M             11           43.22  
+  Aaren Stewart                       M              7           43.35  
+  Robert Kong                         M              9           43.47  
+  Ana Kiely                           F              8           44.59  
+  Cameron O'Leary                     M              6           45.03  
+  Althea Johnston                     F              7           45.42  
+  Maya Feschotte                      F              7           46.53  
+  Norah Howell                        F              9           46.72  
+  Phoebe Skeide                       F              7           47.47  
+  Ben Sweet                           M              6           47.82  
+  Alice Mou                           F              5           48.54  
+  Rohta Brutsagrt                     M              6           50.29  
+  Saffron Gold-Rogers                 F              6           50.77  
+  Katy Holloway                       F              9           50.88  
+  Ava Maralani                        F              7           51.10  
+  Cindy Daly                          F             60           51.12  
+  Mia Morse                           F              9           51.22  
+  Griffin Gold-Rogers                 M              9           51.59  
+  Annaliese Granroth                  F              6           51.88  
+  Aliah Woodall                       F              9           54.86  
+  Leo Morse                           M              6           54.98  
+  Grace Folsom                        F              7           55.43  
+  Roslyn Folsom                       F              4           56.88  
+  Steven Kong                         M              7           56.95  
+  Rhodes Woodall                      M              6           57.56  
+  Josiah Swiller                      M              5           59.00  
+  Griffin Guelpa                      M              6         1:03.60  
+  Brooks Moore                        M              6         1:06.43  
+  Cooper O'Leary                      M              4         1:09.88  
+  Daniel Lin                          M              5         1:12.78  
+  Marijn Stewart                      M              4         1:15.09  
+  Ainsley Moore                       F              4         1:20.17  
+  Avery Ruffer                        F              4         1:25.61  
+  Kaarina Granroth                    F              3         1:30.27  

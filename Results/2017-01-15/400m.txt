@@ -3,145 +3,145 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0           50.59  
-                                      M              0           54.53  
-                                      M              0           55.72  
-                                      M              0           56.35  
-                                      M              0           56.79  
-                                      M              0           59.75  
-                                      M              0         1:00.06  
-                                      M              0         1:00.50  
-                                      M              0         1:00.83  
-                                      M              0         1:01.00  
-                                      M              0         1:01.37  
-                                      M              0         1:01.94  
-                                      M              0         1:02.91  
-                                      M              0         1:03.46  
-                                      M              0         1:03.67  
-                                      M              0         1:04.04  
-                                      M              0         1:04.29  
-                                      M              0         1:04.30  
-                                      M              0         1:04.56  
-                                      M              0         1:04.81  
-                                      M              0         1:05.03  
-                                      M              0         1:05.95  
-                                      M              0         1:05.99  
-                                      M              0         1:06.32  
-                                      M              0         1:06.92  
-                                      F              0         1:07.06  
-                                      M              0         1:07.54  
-                                      F              0         1:08.09  
-                                      M              0         1:08.76  
-                                      F              0         1:08.93  
-                                      M              0         1:09.40  
-                                      M              0         1:09.63  
-                                      M              0         1:10.31  
-                                      M              0         1:10.77  
-                                      F              0         1:10.89  
-                                      F              0         1:11.13  
-                                      M              0         1:11.74  
-                                      M              0         1:12.29  
-                                      M              0         1:12.42  
-                                      F              0         1:12.54  
-                                      M              0         1:12.77  
-                                      F              0         1:13.13  
-                                      F              0         1:13.29  
-                                      F              0         1:13.46  
-                                      M              0         1:13.80  
-                                      F              0         1:13.86  
-                                      M              0         1:14.33  
-                                      F              0         1:14.40  
-                                      F              0         1:14.41  
-                                      F              0         1:14.51  
-                                      M              0         1:14.85  
-                                      M              0         1:15.03  
-                                      M              0         1:15.77  
-                                      M              0         1:16.09  
-                                      F              0         1:16.14  
-                                      M              0         1:16.27  
-                                      F              0         1:16.43  
-                                      M              0         1:16.49  
-                                      F              0         1:16.57  
-                                      F              0         1:16.82  
-                                      M              0         1:18.00  
-                                      M              0         1:18.05  
-                                      M              0         1:18.32  
-                                      F              0         1:18.86  
-                                      F              0         1:19.04  
-                                      M              0         1:19.56  
-                                      F              0         1:19.72  
-                                      F              0         1:19.90  
-                                      M              0         1:20.37  
-                                      F              0         1:20.84  
-                                      M              0         1:21.38  
-                                      M              0         1:22.43  
-                                      M              0         1:22.46  
-                                      M              0         1:22.70  
-                                      M              0         1:22.88  
-                                      F              0         1:23.08  
-                                      M              0         1:23.14  
-                                      M              0         1:23.85  
-                                      M              0         1:24.22  
-                                      M              0         1:24.46  
-                                      F              0         1:25.35  
-                                      M              0         1:25.37  
-                                      F              0         1:26.15  
-                                      F              0         1:26.19  
-                                      M              0         1:26.42  
-                                      M              0         1:27.16  
-                                      M              0         1:27.60  
-                                      M              0         1:27.63  
-                                      M              0         1:27.77  
-                                      M              0         1:28.16  
-                                      F              0         1:29.45  
-                                      M              0         1:30.04  
-                                      F              0         1:30.26  
-                                      M              0         1:30.32  
-                                      M              0         1:30.34  
-                                      F              0         1:31.33  
-                                      M              0         1:31.33  
-                                      F              0         1:31.36  
-                                      F              0         1:31.40  
-                                      M              0         1:31.50  
-                                      M              0         1:32.83  
-                                      M              0         1:33.15  
-                                      M              0         1:33.24  
-                                      F              0         1:33.59  
-                                      F              0         1:35.46  
-                                      F              0         1:35.49  
-                                      F              0         1:35.86  
-                                      F              0         1:36.17  
-                                      F              0         1:36.39  
-                                      F              0         1:38.15  
-                                      F              0         1:38.34  
-                                      M              0         1:39.72  
-                                      M              0         1:39.94  
-                                      F              0         1:40.81  
-                                      M              0         1:41.63  
-                                      F              0         1:43.46  
-                                      F              0         1:44.70  
-                                      F              0         1:44.90  
-                                      F              0         1:45.13  
-                                      M              0         1:46.52  
-                                      M              0         1:47.15  
-                                      M              0         1:47.75  
-                                      F              0         1:47.76  
-                                      F              0         1:48.77  
-                                      F              0         1:49.26  
-                                      M              0         1:49.83  
-                                      M              0         1:50.09  
-                                      M              0         1:50.31  
-                                      M              0         1:50.86  
-                                      F              0         1:51.74  
-                                      M              0         1:52.98  
-                                      M              0         1:55.95  
-                                      F              0         1:56.42  
-                                      F              0         1:57.83  
-                                      M              0         1:58.15  
-                                      F              0         1:58.51  
-                                      F              0         1:59.88  
-                                      M              0         2:03.49  
-                                      F              0         2:05.65  
-                                      F              0         2:09.68  
-                                      F              0         2:11.70  
-                                      F              0         2:15.56  
+  Leon Atkins                         M              0           50.59  
+  Clayton Wolfe                       M              0           54.53  
+  Noah Bufalini                       M              0           55.72  
+  Noah Bosket                         M              0           56.35  
+  Peter Sigona                        M              0           56.79  
+  Matt Ames                           M              0           59.75  
+  Derek Sunderland                    M              0         1:00.06  
+  Cam Neira                           M              0         1:00.50  
+  Duvall Vincent                      M              0         1:00.83  
+  Kyle Zaidel                         M              0         1:01.00  
+  Noah Hunkele                        M              0         1:01.37  
+  Alex Tompkins                       M              0         1:01.94  
+  Conor O'Hara                        M              0         1:02.91  
+  Mike Lawrence                       M              0         1:03.46  
+  Shjon Amaker                        M              0         1:03.67  
+  Damoy Allen                         M              0         1:04.04  
+  Dylan Beckhorn                      M              0         1:04.29  
+  Sawyer Tierney                      M              0         1:04.30  
+  Bruno Salcedo                       M              0         1:04.56  
+  Lucas Pratt                         M              0         1:04.81  
+  Stanton Baker                       M              0         1:05.03  
+  Richard Priestley                   M              0         1:05.95  
+  Nolan Daniels                       M              0         1:05.99  
+  Ethan Pryor                         M              0         1:06.32  
+  Sam Wakeman                         M              0         1:06.92  
+  Elizabeth Lucason                   F              0         1:07.06  
+  Yuzo Uchigasaki                     M              0         1:07.54  
+  Katie Laris                         F              0         1:08.09  
+  Brennan Frost                       M              0         1:08.76  
+  Laurel Vargas                       F              0         1:08.93  
+  Dillan Hall                         M              0         1:09.40  
+  Noah Bange                          M              0         1:09.63  
+  Forrest Kingsley                    M              0         1:10.31  
+  Marcus Homa                         M              0         1:10.77  
+  Marissa Silba                       F              0         1:10.89  
+  Kristina Knight                     F              0         1:11.13  
+  Matt Hong                           M              0         1:11.74  
+  Jesse Koennecke                     M              0         1:12.29  
+  Payton Thomas                       M              0         1:12.42  
+  Leila Vargas                        F              0         1:12.54  
+  Aditya Parida                       M              0         1:12.77  
+  Pamela Hampton                      F              0         1:13.13  
+  Elinor Kops                         F              0         1:13.29  
+  Morgan Lucason                      F              0         1:13.46  
+  Hayden Allington                    M              0         1:13.80  
+  Thelma Meyer-Rachner                F              0         1:13.86  
+  Nick Jubilee                        M              0         1:14.33  
+  Faithe Ketchum                      F              0         1:14.40  
+  Maia Wright                         F              0         1:14.41  
+  Chloe Freeland                      F              0         1:14.51  
+  Hugo Sutton                         M              0         1:14.85  
+  Ben Chalk                           M              0         1:15.03  
+  Owen Beigel                         M              0         1:15.77  
+  Adien Smith                         M              0         1:16.09  
+  Lydia Keys                          F              0         1:16.14  
+  Kadin Herman                        M              0         1:16.27  
+  Vanessa Kelly                       F              0         1:16.43  
+  Cian Dennis George                  M              0         1:16.49  
+  Kaitlyn Coluccio                    F              0         1:16.57  
+  Brianna Urban                       F              0         1:16.82  
+  Liam Hansen                         M              0         1:18.00  
+  Gavin Gonzalez                      M              0         1:18.05  
+  Chris Mechalke                      M              0         1:18.32  
+  Emma Zanen                          F              0         1:18.86  
+  Malayna Buman                       F              0         1:19.04  
+  Aleks Smietana                      M              0         1:19.56  
+  Chanel Salbego                      F              0         1:19.72  
+  Rosa Whittaker                      F              0         1:19.90  
+  Wiley Boland                        M              0         1:20.37  
+  Kristy Huang                        F              0         1:20.84  
+  Lane Nichols                        M              0         1:21.38  
+  Julien Smith                        M              0         1:22.43  
+  Caleb Chaffee                       M              0         1:22.46  
+  Garrison Balash                     M              0         1:22.70  
+  Aitan Avgar                         M              0         1:22.88  
+  Avery Tompkins                      F              0         1:23.08  
+  Tristen Smith                       M              0         1:23.14  
+  Josiha Johnson                      M              0         1:23.85  
+  Nate Harpster                       M              0         1:24.22  
+  Gregory Homa                        M              0         1:24.46  
+  Monika Bustamante                   F              0         1:25.35  
+  Billy Russell                       M              0         1:25.37  
+  Morgan Lakota                       F              0         1:26.15  
+  Milla Gonzalez                      F              0         1:26.19  
+  James Gensel                        M              0         1:26.42  
+  Anthony Pagano                      M              0         1:27.16  
+  Roderick Burdick                    M              0         1:27.60  
+  Griffin Conrad                      M              0         1:27.63  
+  Austin Tompkins                     M              0         1:27.77  
+  Ryan Nixon                          M              0         1:28.16  
+  Madelyn Palm                        F              0         1:29.45  
+  Nick Butler                         M              0         1:30.04  
+  Ava-Rose Cirigliano                 F              0         1:30.26  
+  Neal Singh                          M              0         1:30.32  
+  Mahmoud Mahmoud                     M              0         1:30.34  
+  Lilly Mazzo-Sheftic                 F              0         1:31.33  
+  Leonard Dezmonique                  M              0         1:31.33  
+  Berlyn Arnold                       F              0         1:31.36  
+  Akiha Tagawa                        F              0         1:31.40  
+  Bob Ainsworth                       M              0         1:31.50  
+  Ashton Babcock                      M              0         1:32.83  
+  Ira West                            M              0         1:33.15  
+  Noah Ellsworth                      M              0         1:33.24  
+  Oriah Boland                        F              0         1:33.59  
+  Leondra Mayo                        F              0         1:35.46  
+  Taegan Manwarren                    F              0         1:35.49  
+  Brynn Walton                        F              0         1:35.86  
+  Caitlyn Slavin                      F              0         1:36.17  
+  Britni Duke                         F              0         1:36.39  
+  Indira Clairborne                   F              0         1:38.15  
+  Conchetta Brockway                  F              0         1:38.34  
+  Jhamez Britt                        M              0         1:39.72  
+  Tucker Flaitz                       M              0         1:39.94  
+  Chole Montgomery                    F              0         1:40.81  
+  Braedon Baker                       M              0         1:41.63  
+  Amanda Smietana                     F              0         1:43.46  
+  Erin Taylor-Talcott                 F              0         1:44.70  
+  Naomi Garcia                        F              0         1:44.90  
+  Ally Balash                         F              0         1:45.13  
+  Finn Baker                          M              0         1:46.52  
+  Joe Reynolds                        M              0         1:47.15  
+  Christopher Lawson                  M              0         1:47.75  
+  Tabitha Oakes                       F              0         1:47.76  
+  Karen Ellsworth                     F              0         1:48.77  
+  Brianna Cirigliano                  F              0         1:49.26  
+  Aiden Burr                          M              0         1:49.83  
+  Jacob Curreri                       M              0         1:50.09  
+  James Lovell                        M              0         1:50.31  
+  Yousef Mahmoud                      M              0         1:50.86  
+  Adriana Alonzo                      F              0         1:51.74  
+  Samson Telford                      M              0         1:52.98  
+  Collin Burr                         M              0         1:55.95  
+  Mia Williams                        F              0         1:56.42  
+  Jennifer Tompkins                   F              0         1:57.83  
+  Barrett Roach                       M              0         1:58.15  
+  Yakina Silca-Amoah                  F              0         1:58.51  
+  Mohoniss Graham                     F              0         1:59.88  
+  Thomas Jones                        M              0         2:03.49  
+  Brynn Corbin                        F              0         2:05.65  
+  Hannah Mcdonald                     F              0         2:09.68  
+  Melanie Peterson                    F              0         2:11.70  
+  Sarah Heath                         F              0         2:15.56  

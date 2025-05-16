@@ -3,41 +3,41 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M             23           11.39  
-                                      M             19           11.50  
-                                      M             24           12.57  
-                                      M             16           12.89  
-                                      M             13           14.24  
-                                      M             14           14.27  
-                                      F             11           14.90  
-                                      M             11           15.23  
-                                      M             45           15.33  
-                                      M             12           15.49  
-                                      M              9           15.63  
-                                      M             11           15.94  
-                                      F             12           16.48  
-                                      M             11           16.68  
-                                      F              0           17.29  
-                                      M              0           17.32  
-                                      M             13           17.36  
-                                      F              7           17.84  
-                                      M             12           18.42  
-                                      M              6           18.72  
-                                      M              8           18.75  
-                                      F             12           19.22  
-                                      F              0           19.23  
-                                      M              7           19.25  
-                                      F              9           19.44  
-                                      M              0           19.81  
-                                      M              8           20.20  
-                                      M              6           21.41  
-                                      M              7           22.09  
-                                      F              6           22.50  
-                                      F              6           22.59  
-                                      F              7           22.79  
-                                      F              5           23.13  
-                                      F              4           23.42  
-                                      F              3           34.44  
-                                      M              4           43.08  
-                                      F              1            0.00  
-                                      M             35            0.00  
+  Ching Yu Chang                      M             23           11.39  
+  Kobe Oates                          M             19           11.50  
+  Pete Sigona                         M             24           12.57  
+  John Saunders                       M             16           12.89  
+  Marcus Homa                         M             13           14.24  
+  Dillon Tyler                        M             14           14.27  
+  Anna Lowe                           F             11           14.90  
+  James Saunders                      M             11           15.23  
+  Karl Granroth                       M             45           15.33  
+  Harrison Brown                      M             12           15.49  
+  Aidan Lazzaro                       M              9           15.63  
+  Benjamin Lambert                    M             11           15.94  
+  Annoura Stewart                     F             12           16.48  
+  Gregory Homa                        M             11           16.68  
+  Abigail Wagner                      F              0           17.29  
+  Tristin Weeks                       M              0           17.32  
+  Kieran Stewart                      M             13           17.36  
+  Nasia Whyte                         F              7           17.84  
+  Samson Telford                      M             12           18.42  
+  Ben Sweet                           M              6           18.72  
+  Tucker Purington                    M              8           18.75  
+  Abby Silva                          F             12           19.22  
+  Jasmine Wagner                      F              0           19.23  
+  Aaren Stewart                       M              7           19.25  
+  Norah Howell                        F              9           19.44  
+  Jacob Jandrokovic                   M              0           19.81  
+  Elijah Littlejohn                   M              8           20.20  
+  Jackson Michalec                    M              6           21.41  
+  Ethan Littlejohn                    M              7           22.09  
+  Natalie Lovenheim                   F              6           22.50  
+  Annaliese Granroth                  F              6           22.59  
+  Grace Folsom                        F              7           22.79  
+  Miley Vitale                        F              5           23.13  
+  Roslyn Folsom                       F              4           23.42  
+  Kaarina Granroth                    F              3           34.44  
+  Aurora Donovan                      M              4           43.08  
+  Willow Donovan                      F              1            0.00  
+  Trevor Donovan                      M             35            0.00  

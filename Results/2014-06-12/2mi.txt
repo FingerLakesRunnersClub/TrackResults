@@ -3,14 +3,14 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
+  Daniel Lewis                        M              0        10:04.00  
+  Jack Hillenbrand                    M              0        10:16.00  
+  Alex Colvin                         M              0        11:21.00  
+  Kevin Murphy                        M              0        11:37.00  
+  Lucas Wentzell                      M              0        11:37.00  
+  Keith Eggleston                     M              0        12:00.00  
+  Brendan O'Brien                     M              0        13:30.00  
+  John Smillie                        M              0        14:01.00  
+  Austin Lamb                         M              0        15:50.00  
+  Catherine Kurniawan                 F              0        17:10.00  
+  Matthew Kurniawan                   M              0        17:25.00  

@@ -181,11 +181,13 @@ public class Scraper
 		var firstNameColumn = FindColumn("First Name");
 		var lastNameColumn = FindColumn("Last Name");
 		var nameColumn = FindColumn("Name");
+		var athleteColumn = FindColumn("Athlete");
 		var sexColumn = FindColumn("Sex");
 		var genderColumn = FindColumn("Gender");
 		var combinedSexPlaceColumn = FindColumn("Sex/Place");
 		var ageColumn = FindColumn("Age");
 		var timeColumn = FindColumn("Time");
+		var finalColumn = FindColumn("Final");
 		var distanceColumn = FindColumn("Distance");
 		var heightColumn = FindColumn("Height");
 
@@ -196,9 +198,9 @@ public class Scraper
 			var race = eventColumn is not null ? row.QuerySelector($".{eventColumn}")?.TextContent.Trim() : null;
 			var name = firstNameColumn is not null && lastNameColumn is not null
 				? row.QuerySelector($".{firstNameColumn}")?.TextContent.Trim() + " " + row.QuerySelector($".{lastNameColumn}")?.TextContent.Trim()
-				: nameColumn is not null
-					? row.QuerySelector($".{nameColumn}")?.TextContent.Trim() ?? string.Empty
-					: string.Empty;
+				: nameColumn is not null ? row.QuerySelector($".{nameColumn}")?.TextContent.Trim() ?? string.Empty
+				: athleteColumn is not null ? row.QuerySelector($".{athleteColumn}")?.TextContent.Trim() ?? string.Empty
+				: string.Empty;
 
 			var nameParts = name.Split(',');
 			if (nameParts.Length > 1)
@@ -214,7 +216,9 @@ public class Scraper
 				division = "F";
 
 			var age = ageColumn is not null ? row.QuerySelector($".{ageColumn}")?.TextContent.Replace("M", "").Replace("F", "").Replace("W", "").Trim() : null;
-			var time = timeColumn is not null ? row.QuerySelector($".{timeColumn}")?.TextContent.Trim() : null;
+			var time = timeColumn is not null ? row.QuerySelector($".{timeColumn}")?.TextContent.Trim()
+				: finalColumn is not null ? row.QuerySelector($".{finalColumn}")?.TextContent.Trim()
+				: null;
 			var distance = distanceColumn is not null ? row.QuerySelector($".{distanceColumn}")?.TextContent.Trim()
 				: heightColumn is not null ? row.QuerySelector($".{heightColumn}")?.TextContent.Trim()
 				: null;
@@ -225,12 +229,14 @@ public class Scraper
 				Name = name.Trim(),
 				Division = division != string.Empty ? division?.ToCharArray()[0] ?? ' ' : ' ',
 				Age = age is not null && age != string.Empty && byte.TryParse(age, out var actualAge) ? actualAge : (byte)0,
-				Time = time is not null ? ParseTime(time) : null,
+				Time = time is not null ? ParseTime(time.Trim()) : null,
 				Distance = distance is not null
 					? new Distance(distance)
 					: null
 			};
-			results.Add(result);
+
+			if (time is not null || distance is not null)
+				results.Add(result);
 		}
 
 		return results.ToArray();

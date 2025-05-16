@@ -3,35 +3,35 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      F              0      
-                                      F              0      
-                                      F              0      
-                                      M              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      F              0      
-                                      F              0      
-                                      F              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
-                                      F              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
-                                      M              0      
+  Will Villano                        M              0         2:09.80  
+  Hautahi Kingi                       M              0         2:16.10  
+  Tomas Bridgeman                     M              0         2:18.80  
+  Mitchell Ishmael                    M              0         2:25.30  
+  Bryce Derick                        M              0         2:26.70  
+  Matt McGranaghan                    M              0         2:28.40  
+  Dan Lamb                            M              0         2:29.70  
+  Owen Juan                           M              0         2:31.80  
+  Gavin Derick                        M              0         2:36.80  
+  Brynne Ketchum                      F              0         2:40.80  
+  Alyssa Walker                       F              0         2:45.30  
+  Faithe Ketchum                      F              0         2:46.40  
+  Dylan Kenyon                        M              0         2:49.20  
+  Keagen Winkky                       M              0         2:55.50  
+  Abby Dejneka                        F              0         2:55.60  
+  Brendan O'Brien                     M              0         2:55.80  
+  Jaxyn Mahoney                       M              0         3:03.60  
+  Greg Nached                         M              0         3:04.00  
+  Chris Frechette                     M              0         3:12.00  
+  Madeline Burns                      F              0         3:14.70  
+  Alissa French                       F              0         3:15.20  
+  Bridget Crandall                    F              0         3:19.20  
+  Rhys Terry                          M              0         3:26.20  
+  Samantha Oakes                      F              0         3:36.20  
+  Zane Specht                         M              0         3:38.90  
+  Catherine Kurniawan                 F              0         3:47.00  
+  Billy Russell                       M              0         3:52.10  
+  Matthew Kurniawan                   M              0         3:55.40  
+  Tom Rishel                          M              0         4:10.00  
+  Mike Van Fleet                      M              0         5:05.40  
+  Joe Van Fleet                       M              0         6:12.50  
+  Geoff Van Fleet                     M              0         6:12.70  
