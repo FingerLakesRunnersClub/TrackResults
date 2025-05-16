@@ -33,7 +33,7 @@ public class Scraper
 		var lastPage = document.QuerySelectorAll("ul.page-numbers li:not(:has(.next))").LastOrDefault();
 
 		return lastPage is not null
-			? byte.Parse(lastPage.TextContent)
+			? byte.Parse(lastPage.TextContent.Trim())
 			: (byte)0;
 	}
 
@@ -91,8 +91,8 @@ public class Scraper
 
 		return new Race
 		{
-			Name = link.TextContent,
-			Date = DateTime.Parse(start.TextContent),
+			Name = link.TextContent.Trim(),
+			Date = DateTime.Parse(start.TextContent.Trim()),
 			Events = results.Where(FilterEvents).ToDictionary(e => Cleanup(e.Key), e => e.Value)
 		};
 	}
@@ -130,7 +130,7 @@ public class Scraper
 		);
 
 	private static string ParseEventName(IElement? element)
-		=> CultureInfo.InvariantCulture.TextInfo.ToTitleCase(element?.TextContent.ToLowerInvariant() ?? string.Empty).Replace(" Results", "").Replace("M", "m");
+		=> CultureInfo.InvariantCulture.TextInfo.ToTitleCase(element?.TextContent.Trim().ToLowerInvariant() ?? string.Empty).Replace(" Results", "").Replace("M", "m");
 
 	private static bool FilterEvents(KeyValuePair<string, Result[]> r)
 		=> !r.Key.Contains('x', StringComparison.InvariantCultureIgnoreCase)
@@ -193,19 +193,19 @@ public class Scraper
 
 		foreach (var row in table.QuerySelectorAll("tbody tr").Where(r => r.TextContent.Trim() != string.Empty))
 		{
-			var race = eventColumn is not null ? row.QuerySelector($".{eventColumn}")?.TextContent : null;
+			var race = eventColumn is not null ? row.QuerySelector($".{eventColumn}")?.TextContent.Trim() : null;
 			var name = firstNameColumn is not null && lastNameColumn is not null
 				? row.QuerySelector($".{firstNameColumn}")?.TextContent.Trim() + " " + row.QuerySelector($".{lastNameColumn}")?.TextContent.Trim()
 				: nameColumn is not null
-					? row.QuerySelector($".{nameColumn}")?.TextContent ?? string.Empty
+					? row.QuerySelector($".{nameColumn}")?.TextContent.Trim() ?? string.Empty
 					: string.Empty;
 
 			var nameParts = name.Split(',');
 			if (nameParts.Length > 1)
 				name = $"{nameParts[1].Trim()} {nameParts[0].Trim()}";
 
-			var division = sexColumn is not null ? row.QuerySelector($".{sexColumn}")?.TextContent
-				: genderColumn is not null ? row.QuerySelector($".{genderColumn}")?.TextContent
+			var division = sexColumn is not null ? row.QuerySelector($".{sexColumn}")?.TextContent.Trim()
+				: genderColumn is not null ? row.QuerySelector($".{genderColumn}")?.TextContent.Trim()
 				: combinedSexPlaceColumn is not null ? row.QuerySelector($".{combinedSexPlaceColumn}")?.TextContent[..1]
 				: ageColumn is not null ? row.QuerySelector($".{ageColumn}")?.TextContent[..1]
 				: null;
@@ -213,10 +213,10 @@ public class Scraper
 			if (division == "W")
 				division = "F";
 
-			var age = ageColumn is not null ? row.QuerySelector($".{ageColumn}")?.TextContent.Replace("M", "").Replace("F", "").Replace("W", "") : null;
-			var time = timeColumn is not null ? row.QuerySelector($".{timeColumn}")?.TextContent : null;
-			var distance = distanceColumn is not null ? row.QuerySelector($".{distanceColumn}")?.TextContent
-				: heightColumn is not null ? row.QuerySelector($".{heightColumn}")?.TextContent
+			var age = ageColumn is not null ? row.QuerySelector($".{ageColumn}")?.TextContent.Replace("M", "").Replace("F", "").Replace("W", "").Trim() : null;
+			var time = timeColumn is not null ? row.QuerySelector($".{timeColumn}")?.TextContent.Trim() : null;
+			var distance = distanceColumn is not null ? row.QuerySelector($".{distanceColumn}")?.TextContent.Trim()
+				: heightColumn is not null ? row.QuerySelector($".{heightColumn}")?.TextContent.Trim()
 				: null;
 
 			var result = new Result
@@ -235,7 +235,7 @@ public class Scraper
 
 		return results.ToArray();
 
-		string? FindColumn(string title) => columns.FirstOrDefault(c => c.TextContent.Equals(title, StringComparison.InvariantCultureIgnoreCase))?.ClassList.FirstOrDefault(c => c.StartsWith("column-"));
+		string? FindColumn(string title) => columns.FirstOrDefault(c => c.TextContent.Trim().Equals(title, StringComparison.InvariantCultureIgnoreCase))?.ClassList.FirstOrDefault(c => c.StartsWith("column-"));
 	}
 
 	private static TimeSpan? ParseTime(string time)
