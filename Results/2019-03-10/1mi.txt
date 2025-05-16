@@ -1,7 +1,7 @@
                                2019-03-10                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Oliver Rapp                         M             19         4:35.00  
   James Felice                        M             22         4:39.00  

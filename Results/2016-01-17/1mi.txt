@@ -1,7 +1,7 @@
                                2016-01-17                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Dan Schaffer                        M              0         4:33.90  
   Jake Avery                          M              0         4:36.90  

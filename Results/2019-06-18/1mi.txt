@@ -1,7 +1,7 @@
                                2019-06-18                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Sam Lagasse                         M             25         4:29.00  
   Adam Pacheck                        M             27         4:34.00  

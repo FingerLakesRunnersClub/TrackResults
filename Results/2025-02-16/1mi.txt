@@ -1,7 +1,7 @@
                                2025-02-16                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Michael Ventricelli                 M             18         4:37.00  
   Harry Greene                        M             34         4:51.00  

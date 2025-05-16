@@ -1,7 +1,7 @@
                                2015-02-15                               
                                   2mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Charles Collins                     M              0        10:07.90  
   Grayson Hoteling                    M              0        10:27.00  

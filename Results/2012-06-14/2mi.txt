@@ -1,7 +1,7 @@
                                2012-06-14                               
                                   2mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Alex Looi                           M             23        10:10.60  
   Casey Carlstrom                     M             53        11:25.70  

@@ -1,7 +1,7 @@
                                2016-01-23                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Mark Williams                       M             43         4:33.04  
   Mike Padilla                        M             41         4:43.88  

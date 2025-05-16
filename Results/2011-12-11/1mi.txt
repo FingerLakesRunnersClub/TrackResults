@@ -1,7 +1,7 @@
                                2011-12-11                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   David McCarey                       M             21         4:43.80  
   Joey Moschitto                      M             20         4:44.30  

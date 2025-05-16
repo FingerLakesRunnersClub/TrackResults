@@ -1,7 +1,7 @@
                                2015-03-15                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Kevin Moshier                       M              0         4:32.50  
   Charles Collins                     M              0         4:41.50  

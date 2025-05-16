@@ -1,7 +1,7 @@
                                2024-03-10                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Lucas Baker                         M             23         4:30.00  
   Callum Coots                        M             18         4:31.00  

@@ -1,7 +1,7 @@
                                2014-01-25                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Mark Rybinski                       M             58      
   Katie Aldridge                      F             40      

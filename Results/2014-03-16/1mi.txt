@@ -1,7 +1,7 @@
                                2014-03-16                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Dan Serianni                        M              0         4:33.24  
   Peter Kane                          M              0         4:37.93  

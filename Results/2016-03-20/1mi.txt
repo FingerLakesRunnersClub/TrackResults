@@ -1,7 +1,7 @@
                                2016-03-20                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   David Cook                          M              0         4:38.80  
   Will Villano                        M              0         4:39.50  

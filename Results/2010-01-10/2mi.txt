@@ -1,7 +1,7 @@
                                2010-01-10                               
                                   2mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Max Straneva                        M             17         9:48.00  
   Ryan Gilmore                        M             20        10:08.90  

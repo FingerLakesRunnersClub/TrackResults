@@ -79,7 +79,7 @@ public class FileWriter
 
 	private static string UnitType(string e)
 	{
-		return e.EndsWith('m') || e.Contains("mile") || e.Contains("mh") || e.Contains("hurdle") ? "Time"
+		return e.EndsWith('m') || e.EndsWith("mi") || e.EndsWith("mh") || e.EndsWith("hurdles") || e.EndsWith("racewalk") ? "Time"
 			: e is "pole vault" or "high jump" ? "Height"
 			: "Distance";
 	}

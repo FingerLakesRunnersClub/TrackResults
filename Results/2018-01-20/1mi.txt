@@ -1,7 +1,7 @@
                                2018-01-20                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Mark Williams                       M             45         4:31.81  
   Dave Welsh                          M             40         4:34.18  

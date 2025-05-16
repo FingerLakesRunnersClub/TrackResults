@@ -1,7 +1,7 @@
                                2023-03-12                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Paul Zimmer                         M              0         4:37.00  
   Isaac Mazzeo                        M              0         4:38.00  

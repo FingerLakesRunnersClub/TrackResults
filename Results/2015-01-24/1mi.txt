@@ -1,7 +1,7 @@
                                2015-01-24                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Javier Martinez                     M             44      
   Scott Weeks                         M             42         4:34.02  

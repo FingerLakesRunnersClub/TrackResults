@@ -1,7 +1,7 @@
                                2015-01-18                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
                                                      0      
                                                      0      

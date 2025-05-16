@@ -1,7 +1,7 @@
                                2023-01-21                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Jaret Herter                        M             41         4:41.60  
   George Young                        M             41         4:48.44  

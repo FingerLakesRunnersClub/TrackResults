@@ -1,7 +1,7 @@
                                2011-01-22                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Charlie Kern                        M             41         4:20.50  
   Nicholas Berra                      M             41         4:23.48  

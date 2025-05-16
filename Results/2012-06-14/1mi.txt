@@ -1,7 +1,7 @@
                                2012-06-14                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Jeremy Gardner                      M             34         4:52.70  
   Adam Engst                          M             44         5:01.70  

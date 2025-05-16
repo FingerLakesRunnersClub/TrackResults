@@ -1,7 +1,7 @@
                                2019-01-13                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   James Felice                        M             22         4:30.00  
   Adam Pacheck                        M             27         4:39.00  

@@ -1,7 +1,7 @@
                                2020-01-25                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Peter Brady                         M             48         4:36.65  
   Dave Welsh                          M             42         4:45.49  

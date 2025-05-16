@@ -1,7 +1,7 @@
                                2011-01-09                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Brendan Glover                      M             26         4:42.10  
   James Derick                        M             45         4:42.90  

@@ -1,7 +1,7 @@
                                2021-07-20                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Adam Pacheck                        M             29         4:35.00  
   Harry Greene                        M             30         4:53.00  

@@ -1,7 +1,7 @@
                                2011-03-20                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Chris Christoff                     M             20         4:32.30  
   Andris Goncarovs                    M             18         4:38.20  

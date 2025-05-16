@@ -1,7 +1,7 @@
                                2014-01-19                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   James Derick                        M              0         4:52.10  
   jeremy Anderson                     M              0         4:58.50  

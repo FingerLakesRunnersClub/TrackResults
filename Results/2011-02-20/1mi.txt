@@ -1,7 +1,7 @@
                                2011-02-20                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   William Gabriel                     M             17         4:33.50  
   Neil Adige                          M             24         4:38.30  

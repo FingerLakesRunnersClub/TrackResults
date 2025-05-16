@@ -1,7 +1,7 @@
                                2021-08-17                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Alexander Simpson                   M             19         4:35.00  
   Scott Weeks                         M              0         4:40.00  

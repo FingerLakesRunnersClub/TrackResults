@@ -1,7 +1,7 @@
                                2013-01-19                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Mike Egle                           M             51      
   Stephen Chantry                     M             58      

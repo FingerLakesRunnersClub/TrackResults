@@ -1,7 +1,7 @@
                                2012-01-21                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Charlie Kern                        M             42         4:28.16  
   Kent Lemme                          M             45         4:32.74  

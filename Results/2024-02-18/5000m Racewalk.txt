@@ -1,7 +1,7 @@
                                2024-02-18                               
                              5000m Racewalk                             
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Erin Talcott                        F             45        28:47.00  
   Madison Tuttle                      F             15        29:03.00  

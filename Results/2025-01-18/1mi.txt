@@ -1,7 +1,7 @@
                                2025-01-18                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Sam Morse                           M             41         4:29.46  
   Nicholas Conway                     M             49         4:35.31  

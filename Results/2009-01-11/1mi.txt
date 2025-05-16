@@ -1,7 +1,7 @@
                                2009-01-11                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Max Straneva                        M             16         4:39.00  
   James Derick                        M             43         4:46.80  

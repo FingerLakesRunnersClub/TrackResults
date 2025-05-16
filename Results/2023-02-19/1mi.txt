@@ -1,7 +1,7 @@
                                2023-02-19                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Charles McCurdy                     M              0         4:49.00  
   Dan Timmerman                       M              0         4:50.00  

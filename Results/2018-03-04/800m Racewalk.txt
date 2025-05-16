@@ -1,7 +1,7 @@
                                2018-03-04                               
                              800m Racewalk                              
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
                                       M              0         3:58.00  
                                       M              0         4:20.00  

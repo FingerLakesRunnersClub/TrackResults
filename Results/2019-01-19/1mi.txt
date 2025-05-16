@@ -1,7 +1,7 @@
                                2019-01-19                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Brock Butler                        M             41         4:34.80  
   Mark Williams                       M             46         4:36.41  

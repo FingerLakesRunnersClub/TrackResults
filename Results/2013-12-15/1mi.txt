@@ -1,7 +1,7 @@
                                2013-12-15                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Alex Frederick                      M             16         4:45.80  
   Hunter Hoffman                      M             17         4:48.30  

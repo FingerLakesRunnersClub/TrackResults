@@ -1,7 +1,7 @@
                                2014-12-14                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Juan Martinez                       M              0         5:01.30  
   Aaron Joiner                        M              0         5:07.00  

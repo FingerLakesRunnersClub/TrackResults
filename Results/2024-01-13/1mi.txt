@@ -1,7 +1,7 @@
                                2024-01-13                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Sam Morse                           M             40         4:31.64  
   Jaret Herter                        M             42         4:35.31  

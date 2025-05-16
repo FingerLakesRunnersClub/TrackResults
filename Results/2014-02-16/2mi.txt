@@ -1,7 +1,7 @@
                                2014-02-16                               
                                   2mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   David Levine                        M              0         9:52.01  
   Simon Smith                         M              0         9:57.70  

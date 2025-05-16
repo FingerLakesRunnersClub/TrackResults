@@ -1,7 +1,7 @@
                                2012-08-14                               
                                   1mi                                   
                                                                         
-  Name                                Division     Age        Distance  
+  Name                                Division     Age            Time  
 ------------------------------------------------------------------------
   Leo McGuinness                      M             17           11.60  
   Aston Scott                         M             46           12.30  
