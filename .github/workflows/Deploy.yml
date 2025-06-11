@@ -1,0 +1,31 @@
+name: Deploy
+run-name: Deploy from ${{ github.event_name }} by @${{ github.actor }}
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Deploy:
+    runs-on: ubuntu-latest
+    environment: Production
+    env:
+      TZ: America/New_York
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create SSH directory
+        run: mkdir -p ~/.ssh
+
+      - name: Add SSH key
+        run: echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+
+      - name: Set SSH key permissions
+        run: chmod 600 ~/.ssh/id_rsa
+
+      - name: Add SSH host keys
+        run: ssh-keyscan track.fingerlakesrunners.org > ~/.ssh/known_hosts
+
+      - name: Sync result files
+        run: rsync -zrvP Results root@track.fingerlakesrunners.org:/var/TrackResults
