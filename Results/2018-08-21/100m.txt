@@ -39,5 +39,5 @@
   Roslyn Folsom                       F              4           23.42  
   Kaarina Granroth                    F              3           34.44  
   Aurora Donovan                      M              4           43.08  
-  Willow Donovan                      F              1            0.00  
-  Trevor Donovan                      M             35            0.00  
+  Willow Donovan                      F              1         1:00.00  
+  Trevor Donovan                      M             35         1:00.00  

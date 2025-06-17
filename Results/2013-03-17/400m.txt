@@ -7,8 +7,8 @@
   James Felice                        M             16           59.20  
   Aston Scott                         M             47           59.60  
   Steve Desmond                       M             28           59.80  
-  Christian Sickler                   M             16            0.00  
-  Kristian Clemens                    M             20            0.00  
+  Christian Sickler                   M             16         1:00.00  
+  Kristian Clemens                    M             20         1:00.00  
   Alex Berry                          M             15         1:01.90  
   John Gustafson                      M             44         1:03.70  
   Ryan Berry                          M             15         1:05.80  

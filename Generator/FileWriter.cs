@@ -88,7 +88,7 @@ public class FileWriter
 		=> distance?.ToString() ?? string.Empty;
 
 	private static string Display(TimeSpan? time)
-		=> time?.ToString(time.Value.TotalSeconds > 60 ? @"m\:ss\.ff": @"s\.ff") ?? string.Empty;
+		=> time?.ToString(time.Value.TotalMinutes >= 1 ? @"m\:ss\.ff": @"s\.ff") ?? string.Empty;
 
 	private static string Center(string data, byte length)
 		=> data.PadLeft((data.Length + length) / 2).PadRight(length);
