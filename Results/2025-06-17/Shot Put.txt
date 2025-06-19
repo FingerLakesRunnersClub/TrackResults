@@ -1,0 +1,16 @@
+                               2025-06-17                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David Shea                          M             17       37'05.25"  
+  Leander Boreland                    M             58       35'10.50"  
+  Kenny Macumber                      M             25       30'03.00"  
+  Maysie Davis                        F             18       26'07.00"  
+  Suansian Songput                    M             17       25'10.50"  
+  Karen Ellsworth                     F             62       24'11.50"  
+  Carlea Davis                        F             20       24'03.50"  
+  Gary Stump                          M             14       21'04.50"  
+  Mariah Vanetten                     F             14       20'03.00"  
+  David Johnson                       M             39       15'07.00"  
+  Emma Grace Johnson                  F              6        6'04.75"  
