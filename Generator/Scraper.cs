@@ -143,6 +143,7 @@ public class Scraper
 		=> e.Replace("mile", "mi")
 			.Replace(" mi", "mi")
 			.Replace("meters", "m")
+			.Replace(" Hurdles", "H")
 			.Replace("Race Walk", "Racewalk");
 
 	private static Dictionary<string, Result[]> ParseResultsForMileMeet(IHtmlCollection<IElement> events)
