@@ -28,4 +28,4 @@ jobs:
         run: ssh-keyscan track.fingerlakesrunners.org > ~/.ssh/known_hosts
 
       - name: Sync result files
-        run: rsync -zrvP Results root@track.fingerlakesrunners.org:/var/TrackResults
+        run: rsync -zrvP --delete Results root@track.fingerlakesrunners.org:/var/TrackResults
