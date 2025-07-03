@@ -3,7 +3,6 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-  Thomas White (False Start)          M             38           10.91  
   Andres Martinez                     M             17           10.97  
   Joey McDonald                       M             17           11.08  
   Logan Manor                         M             16           11.09  
