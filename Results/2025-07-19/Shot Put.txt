@@ -1,0 +1,25 @@
+                               2025-07-19                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Matt Funicelli                      M             25       49'05.00"  
+  Camden Davis                        M             17       35'01.50"  
+  Leander Boreland                    M             58       34'07.00"  
+  Sean Shea                           M             45       33'10.25"  
+  David Shea                          M             18       32'08.50"  
+  Brody Williams                      M             18       30'06.25"  
+  Ariana Hillery                      F             14       29'06.75"  
+  Eric McCord                         M             15       26'04.25"  
+  Andrew Cuyler                       M             14       26'01.00"  
+  Will Boscia                         M             16       25'08.75"  
+  Angelos Ioannidis                   M             14       25'08.25"  
+  Kristen Johnston                    F             18       25'07.00"  
+  Brooklyn Evans                      F             14       23'02.25"  
+  Oliver Bishop                       M              9       15'09.50"  
+  Mason Vanetten                      M             11       15'09.50"  
+  Ben Opdyke                          M             12       13'07.00"  
+  Nathan Opdyke                       M             10       10'02.50"  
+  Abigail Clark                       F             11        9'05.50"  
+  Amelia Mott                         F              7        7'08.00"  
+  Skylar Weiner                       F              6        6'04.00"  
