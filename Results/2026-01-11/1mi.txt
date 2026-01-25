@@ -1,0 +1,67 @@
+                               2026-01-11                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Alexander Simpson                   M             23         4:25.00  
+  Brian Kenny                         M             22         4:35.00  
+  Alexander Evans                     M             24         4:36.00  
+  Patrick Klehr                       M             18         4:39.00  
+  Lucas Catarella                     M             20         4:43.00  
+  Patrick Milano                      M             36         4:48.00  
+  Scott Weeks                         M             53         4:51.00  
+  Zack Arthur                         M             36         5:01.00  
+  Nicolo Christian                    M             17         5:06.00  
+  Ryuki Yamasaki                      M             23         5:09.00  
+  Lorenzo Christian                   M             19         5:10.00  
+  Mason Wulf                          M             17         5:12.00  
+  Nate Dziedzic                       M             21         5:16.00  
+  Elijah Evelyn                       M             18         5:18.00  
+  Caleb Downing                       M             16         5:22.00  
+  Ben Hutton                          M             27         5:23.00  
+  Hunter Matteson                     M             18         5:25.00  
+  Braden Vanloon                      M             16         5:26.00  
+  Derek Powers                        M             50         5:26.00  
+  Hailey Whetten                      F             31         5:29.00  
+  Reeves Bellinger                    M             16         5:32.00  
+  Jason Jenks                         M             29         5:40.00  
+  Alden Morseman                      M             13         5:42.00  
+  Connor Wood                         M             13         5:43.00  
+  Isaiah Vanloon                      M             15         5:44.00  
+  Liz Hartman                         F             43         5:47.00  
+  Kyle Kibbe                          M             14         6:00.00  
+  Steven Vanek                        M             54         6:10.00  
+  Cher Armstrong                      F             39         6:11.00  
+  Aurelia Comer                       F             15         6:11.00  
+  Katherine Durrant                   F             52         6:14.00  
+  Laura Powers                        F             18         6:18.00  
+  Evan Harrington                     M             11         6:22.00  
+  Nolan Palmatier                     M             14         6:22.00  
+  Layne Johnson                       M              9         6:25.00  
+  Kai Kwee-Hallem                     M             14         6:27.00  
+  Seth Hallem                         M             40         6:27.00  
+  James Dean                          M             53         6:32.00  
+  Kai Lopez Gordon                    M              9         6:37.00  
+  Bill Begeal                         M             55         6:43.00  
+  Kimberly Jackson                    F             57         6:44.00  
+  Annaliese Granroth                  F             13         6:50.00  
+  Charles Vancamp                     M             12         7:02.00  
+  Hannah Jantzen                      F             14         7:04.00  
+  Ken Hodges                          M             72         7:05.00  
+  Wyatt Bierwiler                     M              9         7:09.00  
+  Teresa Vanek                        F             52         7:09.00  
+  Moira Wheeler                       F             17         7:10.00  
+  Heidi Anderson                      F             12         7:10.00  
+  Harless King                        M              8         7:20.00  
+  Yan Kwee-Hallem                     M             11         7:35.00  
+  Timothy Christian                   M             67         7:35.00  
+  Camden Mistifer                     M             14         7:37.00  
+  Charlie Thomas                      M             12         8:04.00  
+  Hadley White                        F             12         8:12.00  
+  Claire Gardner                      F              9         8:16.00  
+  Alexander Duke                      M              9         8:18.00  
+  Joey Farrell                        F              8         8:23.00  
+  Arthur Axel Johnson                 M              6         8:53.00  
+  Joseph Sullivan                     M             68         9:05.00  
+  James Miner                         M             77         9:35.00  
+  Naomi Vesley                        F             16         9:46.00  

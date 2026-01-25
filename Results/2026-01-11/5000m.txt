@@ -1,0 +1,25 @@
+                               2026-01-11                               
+                                 5000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Lucas Baker                         M             25        16:23.00  
+  Shane Fraser                        M             18        16:32.00  
+  Steve Esposito                      M             36        16:44.00  
+  Lorenzo Christian                   M             19        17:14.00  
+  Eric Dehart                         M             22        17:42.00  
+  David Herbert                       M             33        17:59.00  
+  Alden Morseman                      M             13        18:01.00  
+  Jacob Belcher                       M             28        18:08.00  
+  Ethan Cossette                      M             19        18:17.00  
+  Reeves Bellinger                    M             16        18:19.00  
+  Chelsea Benson                      F             43        18:24.00  
+  Benjamin Straebler                  M             23        19:19.00  
+  Lucas Wentzell                      M             30        20:19.00  
+  Jadeb Bailor                        M             17        20:33.00  
+  Casey Carlstrom                     M             66        21:02.00  
+  Matthew Wombacker                   M             18        25:29.00  
+  Lexi Strobel                        F             15        26:04.00  
+  Madigan White                       F             16        29:02.00  
+  Madison Tuttle                      F             17        29:18.00  
+  James Miner                         M             77        31:54.00  
