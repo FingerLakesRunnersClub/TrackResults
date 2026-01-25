@@ -8,11 +8,13 @@ public class Scraper
 {
 	private readonly HttpClient _http;
 	private readonly HtmlParser _parser;
+	private readonly Action<string> _log;
 
-	public Scraper(HttpClient http, HtmlParser parser)
+	public Scraper(HttpClient http, HtmlParser parser, Action<string> log)
 	{
 		_http = http;
 		_parser = parser;
+		_log = log;
 	}
 
 	public async Task<Race[]> Run(string baseURL)
@@ -63,8 +65,16 @@ public class Scraper
 		var results = new List<Race?>();
 		foreach (var race in races)
 		{
-			var result = await GetRace(race);
-			results.Add(result);
+			try
+			{
+				_log(race.QuerySelector("a")!.TextContent);
+				var result = await GetRace(race);
+				results.Add(result);
+			}
+			catch (Exception e)
+			{
+				_log(e.ToString());
+			}
 		}
 
 		return results.ToArray();

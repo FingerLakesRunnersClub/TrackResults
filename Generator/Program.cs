@@ -7,12 +7,17 @@ public static class Program
 {
 	private const string BaseURL = "https://fingerlakesrunners.org/race/?race-surface=track";
 
+	private static readonly Action<string> Log = Console.WriteLine;
 	public static async Task Main()
 	{
-		var scraper = new Scraper(new HttpClient(), new HtmlParser());
+		Log("Scraping...");
+		var scraper = new Scraper(new HttpClient(), new HtmlParser(), Log);
 		var results = await scraper.Run(BaseURL);
+		Log("Done scraping!");
 
+		Log("Writing files...");
 		var fileWriter = new FileWriter(new FileSystem());
 		await fileWriter.SaveAll(results);
+		Log("Done!");
 	}
 }
