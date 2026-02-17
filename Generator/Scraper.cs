@@ -53,11 +53,19 @@ public class Scraper
 
 	private async Task<Race[]> GetRaces(string pageURL)
 	{
-		var html = await _http.GetStringAsync(pageURL);
-		var document = await _parser.ParseDocumentAsync(html);
-		var races = document.QuerySelectorAll(".race-title");
-		var results = await GetResults(races);
-		return results.Where(r => r is not null).Cast<Race>().ToArray();
+		try
+		{
+			var html = await _http.GetStringAsync(pageURL);
+			var document = await _parser.ParseDocumentAsync(html);
+			var races = document.QuerySelectorAll(".race-title");
+			var results = await GetResults(races);
+			return results.Where(r => r is not null).Cast<Race>().ToArray();
+		}
+		catch (HttpRequestException e)
+		{
+			_log($"{pageURL} -- {e.Message}");
+			return [];
+		}
 	}
 
 	private async Task<Race?[]> GetResults(IHtmlCollection<IElement> races)
