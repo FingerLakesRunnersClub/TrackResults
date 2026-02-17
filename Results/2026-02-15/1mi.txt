@@ -1,0 +1,77 @@
+                               2026-02-15                               
+                                  1mi                                   
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  Bryan Morseman                      M             40         4:43.00  
+  William Hoyne                       M             43         4:46.00  
+  Tony Dirubbo Jr                     M             23         4:48.00  
+  Lorenzo Christian                   M             19         4:52.00  
+  Matt Dowling                        M             29         4:52.00  
+  Patrick Milano                      M             36         4:53.00  
+  Chris Guillen                       M             19         5:01.00  
+  Joey Scherkenbach                   M             19         5:05.00  
+  Reeves Bellinger                    M             16         5:14.00  
+  Ben Hutton                          M             27         5:23.00  
+  Melvin Scholes                      M             17         5:27.00  
+  Lucas Wentzell                      M             30         5:28.00  
+  Jaden Bailor                        M             17         5:29.00  
+  Scott Dawson                        M             52         5:29.00  
+  Anne Riordan                        F             41         5:30.00  
+  Alden Morseman                      M             13         5:30.00  
+  Isaiah Vanloon                      M             16         5:41.00  
+  Samuel Miller                       M             19         5:43.00  
+  Liz Hartman                         F             43         5:43.00  
+  Kate Hulsey                         F             17         5:53.00  
+  Edward Elias                        M             55         5:55.00  
+  Joey Newell                         M             28         5:56.00  
+  Katerina Tang                       F             26         5:57.00  
+  Michael Mertens                     M             62         5:59.00  
+  Jaci Fairchild                      F             17         5:59.00  
+  Allan Filipowicz                    M             61         5:59.00  
+  Seth Hallem                         M             45         6:01.00  
+  Mason Bensley                       M             15         6:02.00  
+  Zach Miller                         M             18         6:03.00  
+  Gretchen Hulsey                     F             17         6:10.00  
+  Evan Harrington                     M             11         6:11.00  
+  Aurelia Comer                       F             15         6:14.00  
+  Nolan Palmatier                     M             14         6:16.00  
+  Gabriel Gonzalez                    M             30         6:17.00  
+  Kai Kwee-Hallem                     M             14         6:17.00  
+  Brian Zalasky                       M             41         6:19.00  
+  Christine Ward                      F             14         6:25.00  
+  Alex Kleinerman                     F             44         6:27.00  
+  Bryan Gorges                        M             40         6:41.00  
+  Kenric Beach                        M             17         6:46.00  
+  Caleb Paucke                        M             14         6:46.00  
+  Hanna Jantzen                       F             14         6:47.00  
+  Julie King                          F             58         6:49.00  
+  Oliver Rizzon                       M             10         6:50.00  
+  Dominick Rizzon                     M             41         6:50.00  
+  Ken Hodges                          M             73         6:55.00  
+  Moira Wheeler                       F             16         7:04.00  
+  Yan Kwee-Hallem                     M             11         7:13.00  
+  Charles Strobel III                 M             55         7:15.00  
+  Matthew Wombacker                   M             18         7:16.00  
+  Nico Christian                      M             17         7:18.00  
+  Timothy Christian                   M             67         7:18.00  
+  Joseph Nolan                        M             60         7:19.00  
+  Ann Zalasky                         F             42         7:21.00  
+  Tonya Engst                         F             58         7:26.00  
+  Solveig Comer                       F             51         7:31.00  
+  Dennis Ryan                         M             54         7:44.00  
+  Mary Cook                           F             54         7:46.00  
+  Evander Waight                      M              9         7:54.00  
+  Caroline Hulsey                     F             10         7:57.00  
+  Madigan White                       F             16         8:01.00  
+  Anthony Hoffman                     M             11         8:03.00  
+  Jennifer Toti                       F             48         8:08.00  
+  Loren Plucinik                      F             10         8:35.00  
+  Alexander Duke                      M              9         8:38.00  
+  Eleanor Fitzgerald                  F             10         8:45.00  
+  Neely Cummings                      F             11         8:46.00  
+  Nikolaj Pedersen-Jones              M              7         8:46.00  
+  Naomi Vesley                        F             16         9:02.00  
+  Lauren Lansdowne                    F             36         9:29.00  
+  James Miner                         M             77         9:30.00  
+  Tanner Decann                       M             10         9:37.00  
