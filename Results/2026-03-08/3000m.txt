@@ -1,0 +1,27 @@
+                               2026-03-08                               
+                                 3000m                                  
+                                                                        
+  Name                                Division     Age            Time  
+------------------------------------------------------------------------
+  David Cook                          M             42         9:41.60  
+  Christopher Petroff                 M             33         9:52.00  
+  Donnell Davis                       M             22         9:56.10  
+  Elijah Evelyn                       M             19         9:57.40  
+  Joey Scherkenbach                   M             19        10:01.20  
+  Parks Rpk                           M             21        10:14.60  
+  Thomas Addison V                    M             22        10:21.70  
+  Sean O'Donnell                      M             21        10:22.00  
+  Patrick Murphy                      M             21        10:53.10  
+  Alden Morseman                      M             13        10:59.80  
+  Jaden Bailor                        M             17        10:59.90  
+  Eva Curran                          F             18        11:05.30  
+  Luke Belardo                        M             26        11:05.90  
+  Derek Powers                        M             51        11:57.10  
+  Michael Ventricelli                 M             20        12:01.30  
+  Leo Morse                           M             14        12:21.70  
+  Laura Powers                        F             19        12:44.50  
+  Bryan Gorges                        M             40        13:55.50  
+  Madelyn Ellison                     F             16        14:13.40  
+  John Hummel                         M             68        14:22.10  
+  Mary Cook                           F             54        15:20.40  
+  Carrie Langley                      F             38        15:37.80  
