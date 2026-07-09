@@ -28,4 +28,7 @@ jobs:
         run: ssh-keyscan track.fingerlakesrunners.org > ~/.ssh/known_hosts
 
       - name: Sync result files
-        run: rsync -zrvP --delete Results root@track.fingerlakesrunners.org:/var/TrackResults
+        run: rsync -Prz --delete-after Results root@track.fingerlakesrunners.org:/var/TrackResults
+
+      - name: Restart track leaderboard
+        run: ssh root@track.fingerlakesrunners.org "cd /var/leaderboards && docker compose restart track"
