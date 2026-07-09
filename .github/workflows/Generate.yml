@@ -1,0 +1,41 @@
+name: Generate
+run-name: Generate results from ${{ github.event_name }} by @${{ github.actor }}
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    environment: Production
+    env:
+      TZ: America/New_York
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Generate results
+        run: dotnet run --project Generator -c Release
+
+      - name: Add new results
+        run: git add Results
+
+      - name: Configure git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "gha@ecoAPM.com"
+
+      - name: Commit results
+        run: git commit -m "Automated results addition on $(date +%F)"
+
+      - name: Push results
+        run: git push
