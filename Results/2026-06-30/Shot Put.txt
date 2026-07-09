@@ -1,0 +1,12 @@
+                               2026-06-30                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  David Shea                          M             18       34'08.50"  
+  Leander Boreland                    M             59       33'11.25"  
+  Lorenzo Claudio                     M             15       33'08.75"  
+  David Tugaw                         M             17       33'00.00"  
+  Woodrow Elmore                      M             15       29'09.00"  
+  Allyson Shea                        F             16       27'09.25"  
+  Beatrice Reid                       F              9       10'10.75"  
