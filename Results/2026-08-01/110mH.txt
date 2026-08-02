@@ -3,5 +3,5 @@
                                                                         
   Name                                Division     Age            Time  
 ------------------------------------------------------------------------
-  Brayden Taylor                                    18           15.61  
-  Aidan Tierney                                     26           18.03  
+  Brayden Taylor                      M             18           15.61  
+  Aidan Tierney                       M             26           18.03  
