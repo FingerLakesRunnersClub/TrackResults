@@ -1,0 +1,15 @@
+                               2026-08-01                               
+                                Shot Put                                
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Calvin Cragle                       M             19       46'07.50"  
+  Adam Cuyler                         M             22       42'09.75"  
+  Lorenzo Claudio                     M             15       37'03.00"  
+  Eric McCord                         M             16       36'06.50"  
+  Brody Williams                      M             19       35'00.00"  
+  David Shea                          M             19       34'06.50"  
+  Andrew Cuyler                       M             15       31'04.75"  
+  Kaylee Kastenhuber                  F             17       25'11.00"  
+  Karen Ellsworth                     F             63       23'00.75"  
+  Benton Moore                        M             14       21'08.00"  

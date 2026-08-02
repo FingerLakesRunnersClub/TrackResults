@@ -1,0 +1,16 @@
+                               2026-08-01                               
+                                 Discus                                 
+                                                                        
+  Name                                Division     Age        Distance  
+------------------------------------------------------------------------
+  Lorenzo Claudio                     M             15      132'11.00"  
+  Calvin Cragle                       M             19      129'01.00"  
+  Brody Williams                      M             19      115'00.00"  
+  Eric McCord                         M             16      104'06.50"  
+  Noah Rangstrom                      M             20      104'05.50"  
+  Kaylee Kastenhuber                  F             17       96'06.75"  
+  David Shea                          M             19       90'01.50"  
+  Andrew Cuyler                       M             15       79'04.00"  
+  Karen Ellsworth                     F             63       59'10.50"  
+  Olivia Gunther                      F             13       49'02.75"  
+  Easton Kastenhuber                  F              7       39'01.75"  
